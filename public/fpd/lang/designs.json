@@ -1,0 +1,35 @@
+[
+  {
+    "source": "https://demo-designprojects.com/demo/adiktiv/public/images/crystals/crystal-img-cube.png",
+    "title": "Swirl",
+    "parameters": {
+      "zChangeable": true,
+      "left": 215,
+      "top": 200,
+      "colors": "#000000",
+      "removable": true,
+      "draggable": true,
+      "rotatable": true,
+      "resizable": true,
+    
+      "boundingBox": "Base",
+      "autoCenter": true
+    }
+  },
+  {
+    "source": "https://demo-designprojects.com/demo/adiktiv/public/images/crystals/crystal-img-pendant-rectangle.png",
+    "title": "Swirl 2",
+    "parameters": {
+      "left": 215,
+      "top": 200,
+      "colors": "#000000",
+      "removable": true,
+      "draggable": true,
+      "rotatable": true,
+      "resizable": true,
+    
+      "boundingBox": "Base",
+      "autoCenter": true
+    }
+  }
+]

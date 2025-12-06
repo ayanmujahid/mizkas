@@ -1,0 +1,210 @@
+[
+    {
+        "category": "Product Category One",
+        "products": [
+            [
+                {
+                    "title": "Front",
+                    "thumbnail": "https://demo-designprojects.com/demo/adiktiv/public/images/crystals/crystal-img-cube.png",
+                    "options": {
+                        "stageWidth": "800"
+                    },
+                    "elements": [
+                        {
+                            "title": "Shadow",
+                            "source": "https://demo-designprojects.com/demo/adiktiv/public/images/crystals/crystal-img-cube.png",
+                            "type": "image",
+                            "parameters": {
+                                "left": 400,
+                                "top": 300,
+                                "originX": "center",
+                                "originY": "center",
+                                "z": -1,
+                                "fill": false,
+                                "colors": false,
+                                "colorLinkGroup": false,
+                                "draggable": false,
+                                "rotatable": false,
+                                "resizable": false,
+                                "removable": false,
+                                "zChangeable": false,
+                                "scaleX": 1,
+                                "scaleY": 1,
+                                "lockUniScaling": false,
+                                "uniScalingUnlockable": false,
+                                "angle": 0,
+                                "price": 0,
+                                "autoCenter": false,
+                                "replaceInAllViews": false,
+                                "autoSelect": false,
+                                "topped": false,
+                                "boundingBoxMode": "inside",
+                                "opacity": 1,
+                                "excludeFromExport": false,
+                                "locked": false,
+                                "showInColorSelection": false,
+                                "boundingBox": false,
+                                "resizeToW": 0,
+                                "resizeToH": 0,
+                                "filter": null,
+                                "scaleMode": "fit",
+                                "minScaleLimit": 0.01,
+                                "advancedEditing": false,
+                                "uploadZone": false
+                            }
+                        },
+                        {
+                            "title": "Shirt",
+                            "source": "https://demo-designprojects.com/demo/adiktiv/public/images/crystals/crystal-img-pendant-rectangle.png",
+                            "type": "image",
+                            "parameters": {
+                                "left": 400,
+                                "top": 300,
+                                "originX": "center",
+                                "originY": "center",
+                                "z": -1,
+                                "fill": false,
+                                "colors": [
+                                    "#b33939"
+                                ],
+                                "colorLinkGroup": "base",
+                                "draggable": 0,
+                                "rotatable": 0,
+                                "resizable": 0,
+                                "removable": 0,
+                                "zChangeable": 0,
+                                "scaleX": 1,
+                                "scaleY": 1,
+                                "lockUniScaling": false,
+                                "uniScalingUnlockable": 0,
+                                "angle": 0,
+                               
+                                "autoCenter": false,
+                                "replaceInAllViews": false,
+                                "autoSelect": 0,
+                                "topped": 0,
+                                "boundingBoxMode": "inside",
+                                "opacity": 1,
+                                "excludeFromExport": false,
+                                "locked": 0,
+                                "showInColorSelection": false,
+                                "boundingBox": false,
+                                "resizeToW": 0,
+                                "resizeToH": 0,
+                                "filter": null,
+                                "scaleMode": "fit",
+                                "minScaleLimit": 0.01,
+                                "advancedEditing": false,
+                                "uploadZone": 0
+                            }
+                        }
+                    ]
+                }
+            ]
+        ]
+    },
+    {
+        "category": "Product Category Two",
+        "products": [
+            [
+                {
+                    "title": "Front",
+                    "thumbnail": "https://demo-designprojects.com/demo/adiktiv/public/images/crystals/crystal-img-cube.png",
+                    "options": {
+                        "stageWidth": "800"
+                    },
+                    "elements": [
+                        {
+                            "title": "Shadow",
+                            "source": "https://demo-designprojects.com/demo/adiktiv/public/images/crystals/crystal-img-cube.png",
+                            "type": "image",
+                            "parameters": {
+                                "left": 400,
+                                "top": 300,
+                                "originX": "center",
+                                "originY": "center",
+                                "z": -1,
+                                "fill": false,
+                                "colors": 0,
+                                "colorLinkGroup": 0,
+                                "draggable": 0,
+                                "rotatable": 0,
+                                "resizable": 0,
+                                "removable": 0,
+                                "zChangeable": 0,
+                                "scaleX": 1,
+                                "scaleY": 1,
+                                "lockUniScaling": false,
+                                "uniScalingUnlockable": 0,
+                                "angle": 0,
+                                "price": 0,
+                                "autoCenter": 0,
+                                "replaceInAllViews": 0,
+                                "autoSelect": 0,
+                                "topped": 0,
+                                "boundingBoxMode": "inside",
+                                "opacity": 1,
+                                "excludeFromExport": 0,
+                                "locked": 0,
+                                "showInColorSelection": 0,
+                                "boundingBox": 0,
+                                "resizeToW": 0,
+                                "resizeToH": 0,
+                                "filter": 0,
+                                "scaleMode": "fit",
+                                "minScaleLimit": 0.01,
+                                "advancedEditing": 0,
+                                "uploadZone": 0
+                            }
+                        },
+                        {
+                            "title": "Shirt",
+                            "source": "https://demo-designprojects.com/demo/adiktiv/public/images/crystals/crystal-img-pendant-rectangle.png",
+                            "type": "image",
+                            "parameters": {
+                                "left": 400,
+                                "top": 300,
+                                "originX": "center",
+                                "originY": "center",
+                                "z": -1,
+                                "fill": false,
+                                "colors": [
+                                    "#b33939"
+                                ],
+                                "colorLinkGroup": "base",
+                                "draggable": 0,
+                                "rotatable": 0,
+                                "resizable": 0,
+                                "removable": 0,
+                                "zChangeable": 0,
+                                "scaleX": 1,
+                                "scaleY": 1,
+                                "lockUniScaling": false,
+                                "uniScalingUnlockable": 0,
+                                "angle": 0,
+                               
+                                "autoCenter": 0,
+                                "replaceInAllViews": 0,
+                                "autoSelect": 0,
+                                "topped": 0,
+                                "boundingBoxMode": "inside",
+                                "opacity": 1,
+                                "excludeFromExport": 0,
+                                "locked": 0,
+                                "showInColorSelection": 0,
+                                "boundingBox": 0,
+                                "resizeToW": 0,
+                                "resizeToH": 0,
+                                "filter": 0,
+                                "scaleMode": "fit",
+                                "minScaleLimit": 0.01,
+                                "advancedEditing": 0,
+                                "uploadZone": 0
+                            }
+                        }
+                    ]
+                }
+            ]
+        ]
+    }
+]

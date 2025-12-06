@@ -1,0 +1,4503 @@
+{
+  "products": [
+    {
+      "id": 7987786973218,
+      "title": "3-Pc Swiss Lawn with Silk Dupatta FC-19",
+      "handle": "digital-printed-swiss-3-pcs-unstitched-suits-for-women-i769648131",
+      "body_html": "",
+      "published_at": "2025-06-19T18:40:30+05:00",
+      "created_at": "2025-06-19T18:40:32+05:00",
+      "updated_at": "2025-12-06T11:51:01+05:00",
+      "vendor": "FAZR COLLECTION",
+      "product_type": "Unstitched Suit",
+      "tags": [
+        "daraz",
+        "swiss-lawn",
+        "unstitched"
+      ],
+      "variants": [
+        {
+          "id": 43899988541474,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "Unknown SKU",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "2850.00",
+          "grams": 500,
+          "compare_at_price": "0.00",
+          "position": 1,
+          "product_id": 7987786973218,
+          "created_at": "2025-06-19T18:40:33+05:00",
+          "updated_at": "2025-12-06T11:51:01+05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 35623646658594,
+          "created_at": "2025-06-19T18:40:32+05:00",
+          "position": 1,
+          "updated_at": "2025-06-19T18:40:32+05:00",
+          "product_id": 7987786973218,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/3c6110a17506dd8b8b910914ca0fe7fe.jpg_720x720q80.jpg_3d6f13fa-5c9f-4c65-9656-16c860f24abd.webp?v=1750340432",
+          "width": 540,
+          "height": 720
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7987786874914,
+      "title": "3-Pc Swiss Lawn with Silk Dupatta FC-16",
+      "handle": "3-pcs-swiss-lawn-unstitched-printed-suit-i769646162",
+      "body_html": "",
+      "published_at": "2025-06-19T18:40:17+05:00",
+      "created_at": "2025-06-19T18:40:19+05:00",
+      "updated_at": "2025-12-06T11:51:01+05:00",
+      "vendor": "FAZR COLLECTION`",
+      "product_type": "Unstitched Suit",
+      "tags": [
+        "daraz",
+        "swiss-lawn",
+        "unstitched"
+      ],
+      "variants": [
+        {
+          "id": 43899988443170,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "Unknown SKU",
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": null,
+          "available": true,
+          "price": "2850.00",
+          "grams": 500,
+          "compare_at_price": "0.00",
+          "position": 1,
+          "product_id": 7987786874914,
+          "created_at": "2025-06-19T18:40:19+05:00",
+          "updated_at": "2025-12-06T11:51:01+05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 35623646232610,
+          "created_at": "2025-06-19T18:40:19+05:00",
+          "position": 1,
+          "updated_at": "2025-06-19T18:40:19+05:00",
+          "product_id": 7987786874914,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/969fe2132790f6d25825b8b000fe5591.jpg_720x720q80.jpg_38d0c5a2-0b3f-4a16-90da-3edbd65bf92a.webp?v=1750340419",
+          "width": 720,
+          "height": 624
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7987787169826,
+      "title": "3-Pc Swiss Lawn with Silk Dupatta FC-25",
+      "handle": "unstitched-3-piece-suit-for-women-i769629724",
+      "body_html": "",
+      "published_at": "2025-06-19T18:40:50+05:00",
+      "created_at": "2025-06-19T18:40:53+05:00",
+      "updated_at": "2025-12-06T11:51:01+05:00",
+      "vendor": "FAZR COLLECTION",
+      "product_type": "Unstitched Suit",
+      "tags": [
+        "daraz",
+        "swiss-lawn",
+        "unstitched"
+      ],
+      "variants": [
+        {
+          "id": 43899988738082,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "769629724_PK-3576939481",
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": null,
+          "available": true,
+          "price": "2850.00",
+          "grams": 500,
+          "compare_at_price": "0.30",
+          "position": 1,
+          "product_id": 7987787169826,
+          "created_at": "2025-06-19T18:40:53+05:00",
+          "updated_at": "2025-12-06T11:51:01+05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 35623647084578,
+          "created_at": "2025-06-19T18:40:53+05:00",
+          "position": 1,
+          "updated_at": "2025-06-19T18:40:53+05:00",
+          "product_id": 7987787169826,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/bcc549dc52bd99f3c296bc9db04e0b32.jpg_720x720q80.jpg_5f81eb10-f813-4f84-9e39-7eeb86fb2d51.webp?v=1750340453",
+          "width": 540,
+          "height": 720
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7987787137058,
+      "title": "3-Pc Swiss Lawn with Silk Dupatta FC-24",
+      "handle": "floral-print-3-pc-unstitched-suit-digital-printed-shirttrouser-and-duppata-i769622086",
+      "body_html": "",
+      "published_at": "2025-06-19T18:40:46+05:00",
+      "created_at": "2025-06-19T18:40:48+05:00",
+      "updated_at": "2025-12-06T11:51:01+05:00",
+      "vendor": "FAZR COLLECTION",
+      "product_type": "Unstitched Suit",
+      "tags": [
+        "daraz",
+        "swiss-lawn",
+        "unstitched"
+      ],
+      "variants": [
+        {
+          "id": 43899988705314,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "769622086_PK-3576875636",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "2850.00",
+          "grams": 500,
+          "compare_at_price": "0.30",
+          "position": 1,
+          "product_id": 7987787137058,
+          "created_at": "2025-06-19T18:40:49+05:00",
+          "updated_at": "2025-12-06T11:51:01+05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 35623647019042,
+          "created_at": "2025-06-19T18:40:49+05:00",
+          "position": 1,
+          "updated_at": "2025-06-19T18:40:49+05:00",
+          "product_id": 7987787137058,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/c5d96979e69749037f609663875e3099.jpg_720x720q80.jpg_376ceaa6-a1cf-4d0d-b434-b997df137267.webp?v=1750340449",
+          "width": 540,
+          "height": 720
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7987787104290,
+      "title": "3-Pc Swiss Lawn with Silk Dupatta FC-23",
+      "handle": "digital-printed-swiss-3-pcs-unstitched-suits-for-women-i769641389",
+      "body_html": "",
+      "published_at": "2025-06-19T18:40:44+05:00",
+      "created_at": "2025-06-19T18:40:45+05:00",
+      "updated_at": "2025-12-06T11:51:01+05:00",
+      "vendor": "FAZR COLLECTION",
+      "product_type": "Unstitched Suit",
+      "tags": [
+        "daraz",
+        "swiss-lawn",
+        "unstitched"
+      ],
+      "variants": [
+        {
+          "id": 43899988672546,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "Unknown SKU",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "2850.00",
+          "grams": 500,
+          "compare_at_price": "0.00",
+          "position": 1,
+          "product_id": 7987787104290,
+          "created_at": "2025-06-19T18:40:46+05:00",
+          "updated_at": "2025-12-06T11:51:01+05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 35623646953506,
+          "created_at": "2025-06-19T18:40:45+05:00",
+          "position": 1,
+          "updated_at": "2025-06-19T18:40:45+05:00",
+          "product_id": 7987787104290,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/12d5eb4ef02d38c72886d0952ae2256e.jpg_720x720q80.jpg_f81d7761-581d-48f8-9368-8711e621fff1.webp?v=1750340445",
+          "width": 540,
+          "height": 720
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7987787071522,
+      "title": "3-Pc Swiss Lawn with Silk Dupatta FC-22",
+      "handle": "digital-printed-swiss-3-pcs-unstitched-suits-for-women-i760619670",
+      "body_html": "",
+      "published_at": "2025-06-19T18:40:40+05:00",
+      "created_at": "2025-06-19T18:40:43+05:00",
+      "updated_at": "2025-12-06T11:51:01+05:00",
+      "vendor": "FAZR COLLECTION",
+      "product_type": "Unstitched Suit",
+      "tags": [
+        "daraz",
+        "swiss-lawn",
+        "unstitched"
+      ],
+      "variants": [
+        {
+          "id": 43899988639778,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "Unknown SKU",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "2850.00",
+          "grams": 500,
+          "compare_at_price": "0.00",
+          "position": 1,
+          "product_id": 7987787071522,
+          "created_at": "2025-06-19T18:40:43+05:00",
+          "updated_at": "2025-12-06T11:51:01+05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 35623646887970,
+          "created_at": "2025-06-19T18:40:43+05:00",
+          "position": 1,
+          "updated_at": "2025-06-19T18:40:43+05:00",
+          "product_id": 7987787071522,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/2b316fd6696084d628ef0cd3a732de09.jpg_720x720q80.jpg_0fde14b6-359a-4625-a034-0d7cbcc7046f.webp?v=1750340443",
+          "width": 540,
+          "height": 720
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7987787038754,
+      "title": "3-Pc Swiss Lawn with Silk Dupatta FC-21",
+      "handle": "digital-printed-swiss-3-pcs-unstitched-suits-for-women-i769596611",
+      "body_html": "",
+      "published_at": "2025-06-19T18:40:37+05:00",
+      "created_at": "2025-06-19T18:40:39+05:00",
+      "updated_at": "2025-12-06T11:51:01+05:00",
+      "vendor": "FAZR COLLECTION",
+      "product_type": "Unstitched Suit",
+      "tags": [
+        "daraz",
+        "swiss-lawn",
+        "unstitched"
+      ],
+      "variants": [
+        {
+          "id": 43899988607010,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "Unknown SKU",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "2499.00",
+          "grams": 500,
+          "compare_at_price": "0.00",
+          "position": 1,
+          "product_id": 7987787038754,
+          "created_at": "2025-06-19T18:40:39+05:00",
+          "updated_at": "2025-12-06T11:51:01+05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 35623646822434,
+          "created_at": "2025-06-19T18:40:39+05:00",
+          "position": 1,
+          "updated_at": "2025-06-19T18:40:39+05:00",
+          "product_id": 7987787038754,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/6dc775c292f8f54cf1bd432743c4e027.jpg_720x720q80.jpg_19ae1609-17a1-4a7b-a2c0-84f58768ca98.webp?v=1750340439",
+          "width": 540,
+          "height": 720
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7987787005986,
+      "title": "3-Pc Swiss Lawn with Silk Dupatta FC-20",
+      "handle": "digital-printed-swiss-3-pcs-unstitched-suits-for-women-i769631781",
+      "body_html": "",
+      "published_at": "2025-06-19T18:40:34+05:00",
+      "created_at": "2025-06-19T18:40:36+05:00",
+      "updated_at": "2025-12-06T11:51:01+05:00",
+      "vendor": "FAZR COLLECTION",
+      "product_type": "Unstitched Suit",
+      "tags": [
+        "daraz",
+        "swiss-lawn",
+        "unstitched"
+      ],
+      "variants": [
+        {
+          "id": 43899988574242,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "Unknown SKU",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "2850.00",
+          "grams": 500,
+          "compare_at_price": "0.00",
+          "position": 1,
+          "product_id": 7987787005986,
+          "created_at": "2025-06-19T18:40:36+05:00",
+          "updated_at": "2025-12-06T11:51:01+05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 35623646756898,
+          "created_at": "2025-06-19T18:40:36+05:00",
+          "position": 1,
+          "updated_at": "2025-06-19T18:40:36+05:00",
+          "product_id": 7987787005986,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/99d771116d427a66177f878eafe18201.jpg_720x720q80.jpg_585582d1-23fa-408a-a2ff-17fbb26e7821.webp?v=1750340436",
+          "width": 540,
+          "height": 720
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7987786940450,
+      "title": "3-Pc Swiss Lawn with Silk Dupatta FC-18",
+      "handle": "digital-printed-swiss-3-pcs-unstitched-suits-for-women-i769628912",
+      "body_html": "",
+      "published_at": "2025-06-19T18:40:25+05:00",
+      "created_at": "2025-06-19T18:40:28+05:00",
+      "updated_at": "2025-12-06T11:51:01+05:00",
+      "vendor": "FAZR COLLECTION",
+      "product_type": "Unstitched Suit",
+      "tags": [
+        "daraz",
+        "swiss-lawn",
+        "unstitched"
+      ],
+      "variants": [
+        {
+          "id": 43899988508706,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "Unknown SKU",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "2850.00",
+          "grams": 500,
+          "compare_at_price": "0.00",
+          "position": 1,
+          "product_id": 7987786940450,
+          "created_at": "2025-06-19T18:40:28+05:00",
+          "updated_at": "2025-12-06T11:51:01+05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 35623646593058,
+          "created_at": "2025-06-19T18:40:28+05:00",
+          "position": 1,
+          "updated_at": "2025-06-19T18:40:28+05:00",
+          "product_id": 7987786940450,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/7cb6ac8fe6d2c8b330f30ee881725c92.jpg_720x720q80.jpg_796f5b24-b3fd-4887-a1ac-40bd5a281bd5.webp?v=1750340428",
+          "width": 552,
+          "height": 720
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7987786907682,
+      "title": "3-Pc Swiss Lawn with Silk Dupatta FC-17",
+      "handle": "digital-printed-swiss-3-pcs-unstitched-suits-for-women-i769638454",
+      "body_html": "",
+      "published_at": "2025-06-19T18:40:21+05:00",
+      "created_at": "2025-06-19T18:40:24+05:00",
+      "updated_at": "2025-12-06T11:51:01+05:00",
+      "vendor": "FAZR COLLECTION",
+      "product_type": "Unstitched Suit",
+      "tags": [
+        "daraz",
+        "swiss-lawn",
+        "unstitched"
+      ],
+      "variants": [
+        {
+          "id": 43899988475938,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "Unknown SKU",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "2850.00",
+          "grams": 500,
+          "compare_at_price": "0.00",
+          "position": 1,
+          "product_id": 7987786907682,
+          "created_at": "2025-06-19T18:40:24+05:00",
+          "updated_at": "2025-12-06T11:51:01+05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 35623646396450,
+          "created_at": "2025-06-19T18:40:24+05:00",
+          "position": 1,
+          "updated_at": "2025-06-19T18:40:24+05:00",
+          "product_id": 7987786907682,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/7237da93b524037ec7a5afbeec6d0243.jpg_720x720q80.jpg_ba8c1ab6-218f-4c44-bc90-f9bcee8e4b78.webp?v=1750340424",
+          "width": 540,
+          "height": 720
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7987786842146,
+      "title": "3-Pc Swiss Lawn with Silk Dupatta FC-15",
+      "handle": "digital-printed-swiss-3-pcs-unstitched-suits-for-women-i769631750",
+      "body_html": "",
+      "published_at": "2025-06-19T18:40:12+05:00",
+      "created_at": "2025-06-19T18:40:15+05:00",
+      "updated_at": "2025-12-06T11:51:01+05:00",
+      "vendor": "FAZR COLLECTION",
+      "product_type": "Unstitched Suit",
+      "tags": [
+        "daraz",
+        "swiss-lawn",
+        "unstitched"
+      ],
+      "variants": [
+        {
+          "id": 43899988410402,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "Unknown SKU",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "2850.00",
+          "grams": 500,
+          "compare_at_price": "0.00",
+          "position": 1,
+          "product_id": 7987786842146,
+          "created_at": "2025-06-19T18:40:15+05:00",
+          "updated_at": "2025-12-06T11:51:01+05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 35623646101538,
+          "created_at": "2025-06-19T18:40:15+05:00",
+          "position": 1,
+          "updated_at": "2025-06-19T18:40:15+05:00",
+          "product_id": 7987786842146,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/f5d431a922b5cf782f145e73f4b8528d.jpg_720x720q80.jpg_e52c4ad5-77d6-4956-b62e-f392da0b1373.webp?v=1750340415",
+          "width": 576,
+          "height": 720
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7987786809378,
+      "title": "3-Pc Swiss Lawn with Silk Dupatta FC-14",
+      "handle": "digital-printed-swiss-3-pcs-unstitched-suits-for-women-i769638499",
+      "body_html": "",
+      "published_at": "2025-06-19T18:40:08+05:00",
+      "created_at": "2025-06-19T18:40:11+05:00",
+      "updated_at": "2025-12-06T11:51:01+05:00",
+      "vendor": "FAZR COLLECTION",
+      "product_type": "Unstitched Suit",
+      "tags": [
+        "daraz",
+        "swiss-lawn",
+        "unstitched"
+      ],
+      "variants": [
+        {
+          "id": 43899988377634,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "769638499_PK-3576951695",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "2850.00",
+          "grams": 500,
+          "compare_at_price": "0.30",
+          "position": 1,
+          "product_id": 7987786809378,
+          "created_at": "2025-06-19T18:40:11+05:00",
+          "updated_at": "2025-12-06T11:51:01+05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 35623646068770,
+          "created_at": "2025-06-19T18:40:11+05:00",
+          "position": 1,
+          "updated_at": "2025-06-19T18:40:11+05:00",
+          "product_id": 7987786809378,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/a0181fd9a2d7de7681c947e5fb0e0030.jpg_720x720q80.jpg_6ee19005-ad2b-4005-83e5-ba6de9ab6012.webp?v=1750340411",
+          "width": 569,
+          "height": 720
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7987786711074,
+      "title": "3-Pc Swiss Lawn with Silk Dupatta FC-11",
+      "handle": "digital-printed-swiss-3-pcs-unstitched-suits-for-women-i751952515",
+      "body_html": "",
+      "published_at": "2025-06-19T18:39:57+05:00",
+      "created_at": "2025-06-19T18:40:00+05:00",
+      "updated_at": "2025-12-06T11:51:01+05:00",
+      "vendor": "FAZR COLLECTION",
+      "product_type": "Unstitched Suit",
+      "tags": [
+        "daraz",
+        "swiss-lawn",
+        "unstitched"
+      ],
+      "variants": [
+        {
+          "id": 43899988279330,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "751952515_PK-3524897186",
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": null,
+          "available": true,
+          "price": "2850.00",
+          "grams": 500,
+          "compare_at_price": "0.00",
+          "position": 1,
+          "product_id": 7987786711074,
+          "created_at": "2025-06-19T18:40:00+05:00",
+          "updated_at": "2025-12-06T11:51:01+05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 35623645839394,
+          "created_at": "2025-06-19T18:40:00+05:00",
+          "position": 1,
+          "updated_at": "2025-06-19T18:40:00+05:00",
+          "product_id": 7987786711074,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/S3bb1947ac47549c49b886be7066f62f4f.jpg_720x720q80.jpg_020495fb-a2ee-4d04-8580-e4c474e121f2.webp?v=1750340400",
+          "width": 540,
+          "height": 720
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7987786645538,
+      "title": "3-Pc Swiss Lawn with Silk Dupatta FC-09",
+      "handle": "digital-printed-swiss-3-pcs-unstitched-suits-for-women-i760873377",
+      "body_html": "",
+      "published_at": "2025-06-19T18:39:51+05:00",
+      "created_at": "2025-06-19T18:39:53+05:00",
+      "updated_at": "2025-12-06T11:51:01+05:00",
+      "vendor": "FAZR COLLECTION",
+      "product_type": "Unstitched Suit",
+      "tags": [
+        "daraz",
+        "swiss-lawn",
+        "unstitched"
+      ],
+      "variants": [
+        {
+          "id": 43899988213794,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "Unknown SKU",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "2850.00",
+          "grams": 500,
+          "compare_at_price": "0.00",
+          "position": 1,
+          "product_id": 7987786645538,
+          "created_at": "2025-06-19T18:39:53+05:00",
+          "updated_at": "2025-12-06T11:51:01+05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 35623645708322,
+          "created_at": "2025-06-19T18:39:53+05:00",
+          "position": 1,
+          "updated_at": "2025-06-19T18:39:53+05:00",
+          "product_id": 7987786645538,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/dc4d8d46b26b5bf127462f43c3017db4.jpg_720x720q80.jpg_5449477a-7830-461e-bacd-a9540f942db8.webp?v=1750340393",
+          "width": 540,
+          "height": 720
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7987786612770,
+      "title": "3-Pc Swiss Lawn with Silk Dupatta FC-08",
+      "handle": "digital-printed-swiss-3-pcs-unstitched-suits-for-women-i769648169",
+      "body_html": "",
+      "published_at": "2025-06-19T18:39:47+05:00",
+      "created_at": "2025-06-19T18:39:50+05:00",
+      "updated_at": "2025-12-06T11:51:01+05:00",
+      "vendor": "FAZR COLLECTION",
+      "product_type": "Unstitched Suit",
+      "tags": [
+        "daraz",
+        "swiss-lawn",
+        "unstitched"
+      ],
+      "variants": [
+        {
+          "id": 43899988181026,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "Unknown SKU",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "2850.00",
+          "grams": 500,
+          "compare_at_price": "0.00",
+          "position": 1,
+          "product_id": 7987786612770,
+          "created_at": "2025-06-19T18:39:50+05:00",
+          "updated_at": "2025-12-06T11:51:01+05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 35623645610018,
+          "created_at": "2025-06-19T18:39:50+05:00",
+          "position": 1,
+          "updated_at": "2025-06-19T18:39:50+05:00",
+          "product_id": 7987786612770,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/3c7284aab03955bfa1a673241413d379.jpg_720x720q80.jpg_7b143fd8-4670-4bf5-be1a-87a53f36bc85.webp?v=1750340390",
+          "width": 540,
+          "height": 720
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7987786580002,
+      "title": "3-Pc Swiss Lawn with Silk Dupatta FC-07",
+      "handle": "digital-printed-swiss-3-pcs-unstitched-suits-for-women-i752323647",
+      "body_html": "",
+      "published_at": "2025-06-19T18:39:44+05:00",
+      "created_at": "2025-06-19T18:39:46+05:00",
+      "updated_at": "2025-12-06T11:51:01+05:00",
+      "vendor": "FAZR COLLECTION",
+      "product_type": "Unstitched Suit",
+      "tags": [
+        "daraz",
+        "swiss-lawn",
+        "unstitched"
+      ],
+      "variants": [
+        {
+          "id": 43899988148258,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "Unknown SKU",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "2850.00",
+          "grams": 500,
+          "compare_at_price": "0.00",
+          "position": 1,
+          "product_id": 7987786580002,
+          "created_at": "2025-06-19T18:39:46+05:00",
+          "updated_at": "2025-12-06T11:51:01+05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 35623645544482,
+          "created_at": "2025-06-19T18:39:46+05:00",
+          "position": 1,
+          "updated_at": "2025-06-19T18:39:46+05:00",
+          "product_id": 7987786580002,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/S6c1c2ead52844cf1af8588b3f19d67dc5.jpg_720x720q80.jpg_890cc797-2547-4f5e-914b-24e1fb0fbc42.webp?v=1750340386",
+          "width": 720,
+          "height": 688
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7987786547234,
+      "title": "3-Pc Swiss Lawn with Silk Dupatta FC-06",
+      "handle": "digital-printed-swiss-3-pcs-unstitched-suits-for-women-i754550711",
+      "body_html": "\u003Cdiv class=\"html-content pdp-product-highlights\"\u003E\u003Cul class=\"\"\u003E\u003Cli class=\"\"\u003E.....DIGITAL PRINTED EXCLUSIVE 3 PCS SWISS LAWN SUITS ...........FLORAL DIGITAL PRINTED ORIGINAL SILK DUPATTA .....FLORAL DIGITAL PRINTED SWISS LAWN SHIRT....FLORAL DIGITAL PRINTED SWISS LAWN TROUSER \u003C/li\u003E\u003C/ul\u003E\u003C/div\u003E\u003Cdiv class=\"html-content detail-content\"\u003E\u003Carticle\u003E\u003Cul\u003E\n\u003Cli\u003E\u003Cdiv\u003E\u003Cspan\u003E.....DIGITAL PRINTED EXCLUSIVE 3 PCS SWISS LAWN SUITS ......\u003C/span\u003E\u003C/div\u003E\u003C/li\u003E\n\u003Cli\u003E\u003Cdiv\u003E\u003Cspan\u003E\u003C/span\u003E\u003C/div\u003E\u003C/li\u003E\n\u003Cli\u003E\u003Cdiv\u003E\u003Cspan\u003E.....FLORAL DIGITAL PRINTED ORIGINAL SILK DUPATTA \u003C/span\u003E\u003C/div\u003E\u003C/li\u003E\n\u003Cli\u003E\u003Cdiv\u003E\u003Cspan\u003E\u003C/span\u003E\u003C/div\u003E\u003C/li\u003E\n\u003Cli\u003E\u003Cdiv\u003E\u003Cspan\u003E.....FLORAL DIGITAL PRINTED SWISS LAWN SHIRT\u003C/span\u003E\u003C/div\u003E\u003C/li\u003E\n\u003Cli\u003E\u003Cdiv\u003E\u003Cspan\u003E\u003C/span\u003E\u003C/div\u003E\u003C/li\u003E\n\u003Cli\u003E\u003Cdiv\u003E\u003Cspan\u003E....FLORAL DIGITAL PRINTED SWISS LAWN TROUSER \u003C/span\u003E\u003C/div\u003E\u003C/li\u003E\n\u003C/ul\u003E\u003C/article\u003E\u003C/div\u003E",
+      "published_at": "2025-06-19T18:39:38+05:00",
+      "created_at": "2025-06-19T18:39:40+05:00",
+      "updated_at": "2025-12-06T11:51:01+05:00",
+      "vendor": "FAZR COLLECTION",
+      "product_type": "Unstitched Suit",
+      "tags": [
+        "daraz",
+        "swiss-lawn",
+        "unstitched"
+      ],
+      "variants": [
+        {
+          "id": 43899988115490,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "Unknown SKU",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "2499.00",
+          "grams": 500,
+          "compare_at_price": "0.00",
+          "position": 1,
+          "product_id": 7987786547234,
+          "created_at": "2025-06-19T18:39:41+05:00",
+          "updated_at": "2025-12-06T11:51:01+05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 35623645347874,
+          "created_at": "2025-06-19T18:39:41+05:00",
+          "position": 1,
+          "updated_at": "2025-06-19T18:39:41+05:00",
+          "product_id": 7987786547234,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/S63a7184e5fa54b4cbd710667eb8beaf6R.jpg_720x720q80.jpg_8e2a1527-1142-44f4-9410-96ca65af9d15.webp?v=1750340381",
+          "width": 720,
+          "height": 637
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7987786514466,
+      "title": "3-Pc Swiss Lawn with Silk Dupatta FC-05",
+      "handle": "digital-printed-swiss-3-pcs-unstitched-suits-for-women-i761095108",
+      "body_html": "",
+      "published_at": "2025-06-19T18:39:35+05:00",
+      "created_at": "2025-06-19T18:39:37+05:00",
+      "updated_at": "2025-12-06T11:51:01+05:00",
+      "vendor": "FAZR COLLECTION",
+      "product_type": "Unstitched Suit",
+      "tags": [
+        "daraz",
+        "swiss-lawn",
+        "unstitched"
+      ],
+      "variants": [
+        {
+          "id": 43899988082722,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "761095108_PK-3556204282",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "2850.00",
+          "grams": 500,
+          "compare_at_price": "0.30",
+          "position": 1,
+          "product_id": 7987786514466,
+          "created_at": "2025-06-19T18:39:37+05:00",
+          "updated_at": "2025-12-06T11:51:01+05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 35623645216802,
+          "created_at": "2025-06-19T18:39:37+05:00",
+          "position": 1,
+          "updated_at": "2025-06-19T18:39:37+05:00",
+          "product_id": 7987786514466,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/d3600d9710201e9256e14816af15b367.jpg_720x720q80.jpg_37a159b6-6af2-412e-a355-2c9595b068b4.webp?v=1750340377",
+          "width": 540,
+          "height": 720
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7987786448930,
+      "title": "3-Pc Swiss Lawn with Silk Dupatta FC-04",
+      "handle": "digital-printed-swiss-3-pcs-unstitched-suits-for-women-i769651041",
+      "body_html": "",
+      "published_at": "2025-06-19T18:39:32+05:00",
+      "created_at": "2025-06-19T18:39:34+05:00",
+      "updated_at": "2025-12-06T11:51:01+05:00",
+      "vendor": "FAZR COLLECTION",
+      "product_type": "Unstitched Suit",
+      "tags": [
+        "daraz",
+        "swiss-lawn",
+        "unstitched"
+      ],
+      "variants": [
+        {
+          "id": 43899987427362,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "Unknown SKU",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "2850.00",
+          "grams": 500,
+          "compare_at_price": "0.00",
+          "position": 1,
+          "product_id": 7987786448930,
+          "created_at": "2025-06-19T18:39:34+05:00",
+          "updated_at": "2025-12-06T11:51:01+05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 35623645151266,
+          "created_at": "2025-06-19T18:39:34+05:00",
+          "position": 1,
+          "updated_at": "2025-06-19T18:39:34+05:00",
+          "product_id": 7987786448930,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/653140e4ed84e931f8569c9428d6b3af.jpg_720x720q80.jpg_3373d093-4c6c-40a0-9287-b744f14dedb7.webp?v=1750340374",
+          "width": 540,
+          "height": 720
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7987786416162,
+      "title": "3-Pc Swiss Lawn with Silk Dupatta FC-03",
+      "handle": "digital-printed-swiss-3-pcs-unstitched-suits-for-women-i769629777",
+      "body_html": "",
+      "published_at": "2025-06-19T18:39:28+05:00",
+      "created_at": "2025-06-19T18:39:31+05:00",
+      "updated_at": "2025-12-06T11:51:01+05:00",
+      "vendor": "FAZR COLLECTION",
+      "product_type": "Unstitched Suit",
+      "tags": [
+        "daraz",
+        "swiss-lawn",
+        "unstitched"
+      ],
+      "variants": [
+        {
+          "id": 43899987394594,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "769629777_PK-3576939693",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "2850.00",
+          "grams": 500,
+          "compare_at_price": "0.30",
+          "position": 1,
+          "product_id": 7987786416162,
+          "created_at": "2025-06-19T18:39:31+05:00",
+          "updated_at": "2025-12-06T11:51:01+05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 35623645020194,
+          "created_at": "2025-06-19T18:39:31+05:00",
+          "position": 1,
+          "updated_at": "2025-06-19T18:39:31+05:00",
+          "product_id": 7987786416162,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/182428c2dcc383be0f8aba19acaee799.jpg_720x720q80.jpg_631397df-405f-473a-831e-957dbf4e2520.webp?v=1750340371",
+          "width": 540,
+          "height": 720
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7987786383394,
+      "title": "3-Pc Swiss Lawn with Silk Dupatta FC-02",
+      "handle": "digital-printed-swiss-3-pcs-unstitched-suits-for-women-i761095416",
+      "body_html": "",
+      "published_at": "2025-06-19T18:39:22+05:00",
+      "created_at": "2025-06-19T18:39:27+05:00",
+      "updated_at": "2025-12-06T11:51:01+05:00",
+      "vendor": "FAZR COLLECTION",
+      "product_type": "Unstitched Suit",
+      "tags": [
+        "daraz",
+        "swiss-lawn",
+        "unstitched"
+      ],
+      "variants": [
+        {
+          "id": 43899987361826,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "Unknown SKU",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "2850.00",
+          "grams": 500,
+          "compare_at_price": "0.00",
+          "position": 1,
+          "product_id": 7987786383394,
+          "created_at": "2025-06-19T18:39:27+05:00",
+          "updated_at": "2025-12-06T11:51:01+05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 35623644987426,
+          "created_at": "2025-06-19T18:39:27+05:00",
+          "position": 1,
+          "updated_at": "2025-06-19T18:39:27+05:00",
+          "product_id": 7987786383394,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/12d5eb4ef02d38c72886d0952ae2256e.jpg_720x720q80.jpg_97adbdb8-1d4f-4e8b-bec1-d498232fbf2b.webp?v=1750340367",
+          "width": 540,
+          "height": 720
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7987786743842,
+      "title": "3-Pc Swiss Lawn with Silk Dupatta FC-12",
+      "handle": "black-3-piece-suit-digital-printed-for-girls-i769648171",
+      "body_html": "",
+      "published_at": "2025-06-19T18:40:01+05:00",
+      "created_at": "2025-06-19T18:40:03+05:00",
+      "updated_at": "2025-12-06T11:51:01+05:00",
+      "vendor": "FAZR COLLECTION",
+      "product_type": "Unstitched Suit",
+      "tags": [
+        "daraz",
+        "swiss-lawn",
+        "unstitched"
+      ],
+      "variants": [
+        {
+          "id": 43899988312098,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "769648171_PK-3576969321",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "2499.00",
+          "grams": 500,
+          "compare_at_price": "0.30",
+          "position": 1,
+          "product_id": 7987786743842,
+          "created_at": "2025-06-19T18:40:03+05:00",
+          "updated_at": "2025-12-06T11:51:01+05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 35623645937698,
+          "created_at": "2025-06-19T18:40:03+05:00",
+          "position": 1,
+          "updated_at": "2025-06-19T18:40:03+05:00",
+          "product_id": 7987786743842,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/4dbdd883a52f2ca9039a689aa67dbda6.jpg_720x720q80.jpg_c690cc75-335d-48a8-b187-830f54a8e6d4.webp?v=1750340403",
+          "width": 683,
+          "height": 720
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7987786776610,
+      "title": "3-Pc Swiss Lawn with Silk Dupatta FC-13",
+      "handle": "3-pieces-unstitched-suit-for-women-i769635621",
+      "body_html": "",
+      "published_at": "2025-06-19T18:40:04+05:00",
+      "created_at": "2025-06-19T18:40:07+05:00",
+      "updated_at": "2025-12-06T11:51:01+05:00",
+      "vendor": "FAZR COLLECTION",
+      "product_type": "Unstitched Suit",
+      "tags": [
+        "daraz",
+        "swiss-lawn",
+        "unstitched"
+      ],
+      "variants": [
+        {
+          "id": 43899988344866,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "Unknown SKU",
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": null,
+          "available": true,
+          "price": "2850.00",
+          "grams": 500,
+          "compare_at_price": "0.00",
+          "position": 1,
+          "product_id": 7987786776610,
+          "created_at": "2025-06-19T18:40:07+05:00",
+          "updated_at": "2025-12-06T11:51:01+05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 35623646003234,
+          "created_at": "2025-06-19T18:40:07+05:00",
+          "position": 1,
+          "updated_at": "2025-06-19T18:40:07+05:00",
+          "product_id": 7987786776610,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/1c1d3bba181e4337fb75c8ee91f7a0a1.jpg_720x720q80.jpg_bcb9fa53-33bb-486d-8ac9-d1f18934505c.webp?v=1750340407",
+          "width": 540,
+          "height": 720
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7987786678306,
+      "title": "3-Pc Swiss Lawn with Silk Dupatta FC-10",
+      "handle": "3-pcs-swiss-lawn-unstitched-printed-suit-with-silk-dupatta-i865175245",
+      "body_html": "\u003Cdiv class=\"html-content pdp-product-highlights\"\u003E\u003Cul class=\"\"\u003E\u003Cli class=\"\"\u003E.....DIGITAL PRINTED EXCLUSIVE 3 PCS SWISS LAWN SUITS ...........FLORAL DIGITAL PRINTED ORIGINAL SILK DUPATTA .....FLORAL DIGITAL PRINTED SWISS LAWN SHIRT....FLORAL DIGITAL PRINTED SWISS LAWN TROUSER \u003C/li\u003E\u003C/ul\u003E\u003C/div\u003E\u003Cdiv class=\"html-content detail-content\"\u003E\u003Carticle\u003E\u003Cul\u003E\n\u003Cli\u003E\u003Cdiv\u003E\u003Cspan\u003E.....DIGITAL PRINTED EXCLUSIVE 3 PCS SWISS LAWN SUITS ......\u003C/span\u003E\u003C/div\u003E\u003C/li\u003E\n\u003Cli\u003E\u003Cdiv\u003E\u003Cspan\u003E\u003C/span\u003E\u003C/div\u003E\u003C/li\u003E\n\u003Cli\u003E\u003Cdiv\u003E\u003Cspan\u003E.....FLORAL DIGITAL PRINTED ORIGINAL SILK DUPATTA \u003C/span\u003E\u003C/div\u003E\u003C/li\u003E\n\u003Cli\u003E\u003Cdiv\u003E\u003Cspan\u003E\u003C/span\u003E\u003C/div\u003E\u003C/li\u003E\n\u003Cli\u003E\u003Cdiv\u003E\u003Cspan\u003E.....FLORAL DIGITAL PRINTED SWISS LAWN SHIRT\u003C/span\u003E\u003C/div\u003E\u003C/li\u003E\n\u003Cli\u003E\u003Cdiv\u003E\u003Cspan\u003E\u003C/span\u003E\u003C/div\u003E\u003C/li\u003E\n\u003Cli\u003E\u003Cdiv\u003E\u003Cspan\u003E....FLORAL DIGITAL PRINTED SWISS LAWN TROUSER \u003C/span\u003E\u003C/div\u003E\u003C/li\u003E\n\u003C/ul\u003E\u003C/article\u003E\u003C/div\u003E",
+      "published_at": "2025-06-19T18:39:54+05:00",
+      "created_at": "2025-06-19T18:39:56+05:00",
+      "updated_at": "2025-12-06T11:51:01+05:00",
+      "vendor": "FAZR COLLECTION",
+      "product_type": "Unstitched Suit",
+      "tags": [
+        "daraz",
+        "swiss-lawn",
+        "unstitched"
+      ],
+      "variants": [
+        {
+          "id": 43899988246562,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "Unknown SKU",
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": null,
+          "available": true,
+          "price": "2850.00",
+          "grams": 500,
+          "compare_at_price": "0.00",
+          "position": 1,
+          "product_id": 7987786678306,
+          "created_at": "2025-06-19T18:39:57+05:00",
+          "updated_at": "2025-12-06T11:51:01+05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 35623645773858,
+          "created_at": "2025-06-19T18:39:56+05:00",
+          "position": 1,
+          "updated_at": "2025-06-19T18:39:56+05:00",
+          "product_id": 7987786678306,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/031ffa90509c800366901049005fa8bb.jpg_720x720q80.jpg_ee804b5b-448f-493e-8b4b-5dc6ad614146.webp?v=1750340396",
+          "width": 720,
+          "height": 720
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7986816319522,
+      "title": "3-Pc Swiss Lawn with Silk Dupatta FC-01",
+      "handle": "3-pcs-swiss-lawn-unstitched-printed-suit-i769628909",
+      "body_html": "",
+      "published_at": "2025-06-18T16:47:36+05:00",
+      "created_at": "2025-06-18T16:47:39+05:00",
+      "updated_at": "2025-12-06T11:51:01+05:00",
+      "vendor": "FAZR COLLECTION",
+      "product_type": "Unstitched Suit",
+      "tags": [
+        "daraz",
+        "swiss-lawn",
+        "unstitched"
+      ],
+      "variants": [
+        {
+          "id": 43897025265698,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "Unknown SKU",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "2850.00",
+          "grams": 500,
+          "compare_at_price": "0.00",
+          "position": 1,
+          "product_id": 7986816319522,
+          "created_at": "2025-06-18T16:47:39+05:00",
+          "updated_at": "2025-12-06T11:51:01+05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 35623645478946,
+          "created_at": "2025-06-19T18:39:43+05:00",
+          "position": 1,
+          "updated_at": "2025-06-19T18:39:43+05:00",
+          "product_id": 7986816319522,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/412182d4f6a5a1db8041bba9cf49985c.jpg_720x720q80.jpg_1a44b460-f597-4ece-8cd2-3d159115289f.webp?v=1750340383",
+          "width": 546,
+          "height": 720
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    }
+  ]
+}
+
+
+{
+  "products": [
+    {
+      "id": 8071625211938,
+      "title": "3-PC Digital Print Silk Suit With Silk Digital Print Dupatta FC-30",
+      "handle": "3-pc-digital-print-silk-suit-with-silk-digital-print-dupatta-fc-30",
+      "body_html": "\u003Cp\u003E\u003Ciframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/QkQ9xQiIZO0\"\u003E\u003C/iframe\u003E\u003C/p\u003E",
+      "published_at": "2025-09-15T20:15:52+05:00",
+      "created_at": "2025-09-15T20:15:49+05:00",
+      "updated_at": "2025-12-06T11:52:21+05:00",
+      "vendor": "Fazrcollecion",
+      "product_type": "Unstitched Suit",
+      "tags": [],
+      "variants": [
+        {
+          "id": 44318685986850,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": null,
+          "available": true,
+          "price": "5350.00",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 8071625211938,
+          "created_at": "2025-09-15T20:15:49+05:00",
+          "updated_at": "2025-12-06T11:52:21+05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 36418286747682,
+          "created_at": "2025-09-15T20:13:46+05:00",
+          "position": 1,
+          "updated_at": "2025-09-15T20:13:48+05:00",
+          "product_id": 8071625211938,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/AD10-2025-09-15T073118.447.png?v=1757949228",
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "id": 36435934609442,
+          "created_at": "2025-09-18T17:51:52+05:00",
+          "position": 2,
+          "updated_at": "2025-09-18T17:51:53+05:00",
+          "product_id": 8071625211938,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/549305166_1494621188623458_2240265190313050997_n.jpg?v=1758199913",
+          "width": 612,
+          "height": 816
+        },
+        {
+          "id": 36435934642210,
+          "created_at": "2025-09-18T17:51:52+05:00",
+          "position": 3,
+          "updated_at": "2025-09-18T17:51:54+05:00",
+          "product_id": 8071625211938,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/549647935_3190624504424111_4211229069795788477_n.jpg?v=1758199914",
+          "width": 612,
+          "height": 816
+        },
+        {
+          "id": 36435934576674,
+          "created_at": "2025-09-18T17:51:51+05:00",
+          "position": 4,
+          "updated_at": "2025-09-18T17:51:53+05:00",
+          "product_id": 8071625211938,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/550145366_1121984379440116_4303731489070101619_n.jpg?v=1758199913",
+          "width": 612,
+          "height": 816
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8086187933730,
+      "title": "3-PC Silk suit with silk digital print dupatta FC-62",
+      "handle": "3-pc-silk-suit-with-silk-digital-print-dupatta",
+      "body_html": "\u003Cp\u003E\u003Ciframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/gxW7O2z4Fnw\"\u003E\u003C/iframe\u003E\u003C/p\u003E",
+      "published_at": "2025-10-03T18:15:52+05:00",
+      "created_at": "2025-10-03T18:15:49+05:00",
+      "updated_at": "2025-12-06T11:52:21+05:00",
+      "vendor": "Fazrcollecion",
+      "product_type": "Unstitched Suit",
+      "tags": [],
+      "variants": [
+        {
+          "id": 44368995581986,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": false,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "2850.00",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 8086187933730,
+          "created_at": "2025-10-03T18:15:49+05:00",
+          "updated_at": "2025-12-06T11:52:21+05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 36558926282786,
+          "created_at": "2025-10-03T18:15:21+05:00",
+          "position": 1,
+          "updated_at": "2025-10-03T18:15:23+05:00",
+          "product_id": 8086187933730,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/MPSW2508Front_A_540x_451902d6-8b50-45c8-8b17-04d4471af9ab.webp?v=1759497323",
+          "width": 540,
+          "height": 810
+        },
+        {
+          "id": 36558926217250,
+          "created_at": "2025-10-03T18:15:15+05:00",
+          "position": 2,
+          "updated_at": "2025-10-03T18:15:17+05:00",
+          "product_id": 8086187933730,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/MPS_W_25_08_Closeup_E_2400x2400_bfc1d493-90e8-4043-89c0-db44f6101789.jpg?v=1759497317",
+          "width": 1600,
+          "height": 2400
+        },
+        {
+          "id": 36558925987874,
+          "created_at": "2025-10-03T18:15:12+05:00",
+          "position": 3,
+          "updated_at": "2025-10-03T18:15:13+05:00",
+          "product_id": 8086187933730,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/SnapInsta.to_558892350_17858369226522303_2341179641602645343_n_1.webp?v=1759497313",
+          "width": 1080,
+          "height": 1440
+        },
+        {
+          "id": 36558926020642,
+          "created_at": "2025-10-03T18:15:12+05:00",
+          "position": 4,
+          "updated_at": "2025-10-03T18:15:13+05:00",
+          "product_id": 8086187933730,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/SnapInsta.to_559933957_17858369244522303_5007473082577609509_n_1.webp?v=1759497313",
+          "width": 1080,
+          "height": 1440
+        },
+        {
+          "id": 36558926053410,
+          "created_at": "2025-10-03T18:15:12+05:00",
+          "position": 5,
+          "updated_at": "2025-10-03T18:15:13+05:00",
+          "product_id": 8086187933730,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/SnapInsta.to_557758033_17858369253522303_8508062414199642640_n_1.webp?v=1759497313",
+          "width": 1080,
+          "height": 1440
+        },
+        {
+          "id": 36558926086178,
+          "created_at": "2025-10-03T18:15:12+05:00",
+          "position": 6,
+          "updated_at": "2025-10-03T18:15:13+05:00",
+          "product_id": 8086187933730,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/SnapInsta.to_560308449_17858369235522303_298336779158776462_n.webp?v=1759497313",
+          "width": 1080,
+          "height": 1440
+        },
+        {
+          "id": 36558926118946,
+          "created_at": "2025-10-03T18:15:12+05:00",
+          "position": 7,
+          "updated_at": "2025-10-03T18:15:13+05:00",
+          "product_id": 8086187933730,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/SnapInsta.to_557758033_17858369253522303_8508062414199642640_n.webp?v=1759497313",
+          "width": 1080,
+          "height": 1440
+        },
+        {
+          "id": 36558926184482,
+          "created_at": "2025-10-03T18:15:12+05:00",
+          "position": 8,
+          "updated_at": "2025-10-03T18:15:13+05:00",
+          "product_id": 8086187933730,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/SnapInsta.to_558892350_17858369226522303_2341179641602645343_n.webp?v=1759497313",
+          "width": 1080,
+          "height": 1440
+        },
+        {
+          "id": 36558926151714,
+          "created_at": "2025-10-03T18:15:12+05:00",
+          "position": 9,
+          "updated_at": "2025-10-03T18:15:13+05:00",
+          "product_id": 8086187933730,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/SnapInsta.to_559933957_17858369244522303_5007473082577609509_n.webp?v=1759497313",
+          "width": 1080,
+          "height": 1440
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8085645557794,
+      "title": "3-pc cotton suit with silk digital print dupatta FC-58",
+      "handle": "3-pc-cotton-suit-with-silk-digital-print-dupatta-fc-58",
+      "body_html": "\u003Cp\u003E\u003Ciframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/7RRwycqSs\"\u003E\u003C/iframe\u003E\u003C/p\u003E",
+      "published_at": "2025-10-02T15:05:24+05:00",
+      "created_at": "2025-10-02T15:05:21+05:00",
+      "updated_at": "2025-12-06T11:52:21+05:00",
+      "vendor": "Fazrcollecion",
+      "product_type": "Unstitched Suit",
+      "tags": [],
+      "variants": [
+        {
+          "id": 44366636744738,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "2850.00",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 8085645557794,
+          "created_at": "2025-10-02T15:05:22+05:00",
+          "updated_at": "2025-12-06T11:52:21+05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 36555434229794,
+          "created_at": "2025-10-02T15:04:26+05:00",
+          "position": 1,
+          "updated_at": "2025-10-02T15:04:28+05:00",
+          "product_id": 8085645557794,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/IMG_3679_1.webp?v=1759399468",
+          "width": 990,
+          "height": 1485
+        },
+        {
+          "id": 36555434393634,
+          "created_at": "2025-10-02T15:04:33+05:00",
+          "position": 2,
+          "updated_at": "2025-10-02T15:04:34+05:00",
+          "product_id": 8085645557794,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/IMG_3679.webp?v=1759399474",
+          "width": 990,
+          "height": 1485
+        },
+        {
+          "id": 36555433541666,
+          "created_at": "2025-10-02T15:04:14+05:00",
+          "position": 3,
+          "updated_at": "2025-10-02T15:04:16+05:00",
+          "product_id": 8085645557794,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/SnapInsta.to_556094250_17857984728522303_8108393671282839967_n.webp?v=1759399456",
+          "width": 1080,
+          "height": 1440
+        },
+        {
+          "id": 36555433574434,
+          "created_at": "2025-10-02T15:04:14+05:00",
+          "position": 4,
+          "updated_at": "2025-10-02T15:04:16+05:00",
+          "product_id": 8085645557794,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/SnapInsta.to_556332561_17857984719522303_7363880578663485448_n.webp?v=1759399456",
+          "width": 1080,
+          "height": 1440
+        },
+        {
+          "id": 36555433672738,
+          "created_at": "2025-10-02T15:04:14+05:00",
+          "position": 5,
+          "updated_at": "2025-10-02T15:04:16+05:00",
+          "product_id": 8085645557794,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/SnapInsta.to_558274913_17857984683522303_8108281427643956795_n.webp?v=1759399456",
+          "width": 1080,
+          "height": 1440
+        },
+        {
+          "id": 36555433705506,
+          "created_at": "2025-10-02T15:04:14+05:00",
+          "position": 6,
+          "updated_at": "2025-10-02T15:04:15+05:00",
+          "product_id": 8085645557794,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/SnapInsta.to_556977858_17857984674522303_1660249045623602171_n.webp?v=1759399455",
+          "width": 1080,
+          "height": 1440
+        },
+        {
+          "id": 36555433738274,
+          "created_at": "2025-10-02T15:04:14+05:00",
+          "position": 7,
+          "updated_at": "2025-10-02T15:04:16+05:00",
+          "product_id": 8085645557794,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/SnapInsta.to_557770424_17857984665522303_6421383112755690864_n.webp?v=1759399456",
+          "width": 1080,
+          "height": 1440
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8077341032482,
+      "title": "3-PC Digital Print Silk Suit With Silk Digital Print Dupatta FC-45",
+      "handle": "3-pc-digital-print-silk-suit-with-silk-digital-print-dupatta-fc-45",
+      "body_html": "\u003Cp\u003E\u003Ciframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/3PAQoJ6Ii5I\"\u003E\u003C/iframe\u003E\u003C/p\u003E",
+      "published_at": "2025-09-23T19:15:38+05:00",
+      "created_at": "2025-09-23T19:15:34+05:00",
+      "updated_at": "2025-12-06T11:52:21+05:00",
+      "vendor": "Fazrcollecion",
+      "product_type": "Unstitched Suit",
+      "tags": [],
+      "variants": [
+        {
+          "id": 44341097725986,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "7000.00",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 8077341032482,
+          "created_at": "2025-09-23T19:15:34+05:00",
+          "updated_at": "2025-12-06T11:52:21+05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 36468273643554,
+          "created_at": "2025-09-23T19:13:46+05:00",
+          "position": 1,
+          "updated_at": "2025-09-23T19:13:49+05:00",
+          "product_id": 8077341032482,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/AD10-2025-09-23T070540.171.png?v=1758636829",
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "id": 36468273676322,
+          "created_at": "2025-09-23T19:13:46+05:00",
+          "position": 2,
+          "updated_at": "2025-09-23T19:13:48+05:00",
+          "product_id": 8077341032482,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/AD10-2025-09-23T070523.089.png?v=1758636828",
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "id": 36468273709090,
+          "created_at": "2025-09-23T19:13:46+05:00",
+          "position": 3,
+          "updated_at": "2025-09-23T19:13:48+05:00",
+          "product_id": 8077341032482,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/SnapInsta.to_552177932_17857140915522303_687545557056063449_n.webp?v=1758636828",
+          "width": 1080,
+          "height": 1440
+        },
+        {
+          "id": 36468273741858,
+          "created_at": "2025-09-23T19:13:46+05:00",
+          "position": 4,
+          "updated_at": "2025-09-23T19:13:48+05:00",
+          "product_id": 8077341032482,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/SnapInsta.to_552315624_17857140906522303_6051764253217730981_n.webp?v=1758636828",
+          "width": 1080,
+          "height": 1440
+        },
+        {
+          "id": 36468273774626,
+          "created_at": "2025-09-23T19:13:46+05:00",
+          "position": 5,
+          "updated_at": "2025-09-23T19:13:48+05:00",
+          "product_id": 8077341032482,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/SnapInsta.to_553315403_17857140897522303_6284513669648076143_n.webp?v=1758636828",
+          "width": 1080,
+          "height": 1440
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8077314752546,
+      "title": "3-PC Digital Print Silk Suit With Silk Digital Print Dupatta FC-44",
+      "handle": "3-pc-digital-print-silk-suit-with-silk-digital-print-dupatta-fc-44",
+      "body_html": "",
+      "published_at": "2025-09-23T18:57:25+05:00",
+      "created_at": "2025-09-23T18:57:21+05:00",
+      "updated_at": "2025-12-06T11:52:21+05:00",
+      "vendor": "Fazrcollecion",
+      "product_type": "Unstitched Suit",
+      "tags": [],
+      "variants": [
+        {
+          "id": 44341062238242,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "2850.00",
+          "grams": 0,
+          "compare_at_price": "3250.00",
+          "position": 1,
+          "product_id": 8077314752546,
+          "created_at": "2025-09-23T18:57:21+05:00",
+          "updated_at": "2025-12-06T11:52:21+05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 36468242087970,
+          "created_at": "2025-09-23T18:56:31+05:00",
+          "position": 1,
+          "updated_at": "2025-09-23T18:56:32+05:00",
+          "product_id": 8077314752546,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/AD_10_-_2025-09-23T065436.448.png?v=1758635792",
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "id": 36468242743330,
+          "created_at": "2025-09-23T18:56:31+05:00",
+          "position": 2,
+          "updated_at": "2025-09-23T18:56:33+05:00",
+          "product_id": 8077314752546,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/AD_10_-_2025-09-23T065411.364.png?v=1758635793",
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "id": 36468221870114,
+          "created_at": "2025-09-23T18:56:14+05:00",
+          "position": 3,
+          "updated_at": "2025-09-23T18:56:16+05:00",
+          "product_id": 8077314752546,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/SnapInsta.to_552587981_17857134258522303_4886374456133519606_n.webp?v=1758635776",
+          "width": 1080,
+          "height": 1440
+        },
+        {
+          "id": 36468221902882,
+          "created_at": "2025-09-23T18:56:14+05:00",
+          "position": 4,
+          "updated_at": "2025-09-23T18:56:15+05:00",
+          "product_id": 8077314752546,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/SnapInsta.to_552497093_17857134249522303_2535412590232368464_n.webp?v=1758635775",
+          "width": 1080,
+          "height": 1440
+        },
+        {
+          "id": 36468221935650,
+          "created_at": "2025-09-23T18:56:14+05:00",
+          "position": 5,
+          "updated_at": "2025-09-23T18:56:16+05:00",
+          "product_id": 8077314752546,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/SnapInsta.to_552688789_17857134240522303_9126741393282538427_n.webp?v=1758635776",
+          "width": 1080,
+          "height": 1440
+        },
+        {
+          "id": 36468221968418,
+          "created_at": "2025-09-23T18:56:14+05:00",
+          "position": 6,
+          "updated_at": "2025-09-23T18:56:15+05:00",
+          "product_id": 8077314752546,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/SnapInsta.to_552049935_17857134231522303_6543539906469029660_n.webp?v=1758635775",
+          "width": 1080,
+          "height": 1440
+        },
+        {
+          "id": 36468222001186,
+          "created_at": "2025-09-23T18:56:14+05:00",
+          "position": 7,
+          "updated_at": "2025-09-23T18:56:16+05:00",
+          "product_id": 8077314752546,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/SnapInsta.to_552689140_17857134219522303_2361802524105516961_n.webp?v=1758635776",
+          "width": 1080,
+          "height": 1440
+        },
+        {
+          "id": 36468222033954,
+          "created_at": "2025-09-23T18:56:14+05:00",
+          "position": 8,
+          "updated_at": "2025-09-23T18:56:16+05:00",
+          "product_id": 8077314752546,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/SnapInsta.to_551428534_17857134210522303_5227056345867406465_n.webp?v=1758635776",
+          "width": 1080,
+          "height": 1440
+        },
+        {
+          "id": 36468241760290,
+          "created_at": "2025-09-23T18:56:31+05:00",
+          "position": 9,
+          "updated_at": "2025-09-23T18:56:33+05:00",
+          "product_id": 8077314752546,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/AD_10_-_2025-09-23T065357.781.png?v=1758635793",
+          "width": 1200,
+          "height": 1200
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8077307281442,
+      "title": "3-PC Digital Print Silk Suit With Silk Digital Print Dupatta FC-43",
+      "handle": "3-pc-digital-print-silk-suit-with-silk-digital-print-dupatta-fc-43",
+      "body_html": "\u003Cp\u003E\u003Ciframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/Gi48V1nALRc\"\u003E\u003C/iframe\u003E\u003C/p\u003E",
+      "published_at": "2025-09-23T18:51:24+05:00",
+      "created_at": "2025-09-23T18:51:18+05:00",
+      "updated_at": "2025-12-06T11:52:21+05:00",
+      "vendor": "Fazrcollecion",
+      "product_type": "Unstitched Suit",
+      "tags": [],
+      "variants": [
+        {
+          "id": 44341051752482,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "2850.00",
+          "grams": 0,
+          "compare_at_price": "3250.00",
+          "position": 1,
+          "product_id": 8077307281442,
+          "created_at": "2025-09-23T18:51:18+05:00",
+          "updated_at": "2025-12-06T11:52:21+05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 36467974438946,
+          "created_at": "2025-09-23T18:48:38+05:00",
+          "position": 1,
+          "updated_at": "2025-09-23T18:48:40+05:00",
+          "product_id": 8077307281442,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/AD10-2025-09-23T063544.660_c2a6908d-ae9c-4c48-a332-74ed69671479.png?v=1758635320",
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "id": 36467974471714,
+          "created_at": "2025-09-23T18:48:38+05:00",
+          "position": 2,
+          "updated_at": "2025-09-23T18:48:40+05:00",
+          "product_id": 8077307281442,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/AD10-2025-09-23T063506.703_f73a20a6-0e60-4b2c-8194-5f447796b1c0.png?v=1758635320",
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "id": 36467974504482,
+          "created_at": "2025-09-23T18:48:38+05:00",
+          "position": 3,
+          "updated_at": "2025-09-23T18:48:39+05:00",
+          "product_id": 8077307281442,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/SnapInsta.to_552132112_17857133814522303_4051733657690030950_n_42ebc490-9b18-42b6-abb4-8177af8208b4.webp?v=1758635319",
+          "width": 1080,
+          "height": 1440
+        },
+        {
+          "id": 36467974537250,
+          "created_at": "2025-09-23T18:48:38+05:00",
+          "position": 4,
+          "updated_at": "2025-09-23T18:48:39+05:00",
+          "product_id": 8077307281442,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/SnapInsta.to_553673681_17857133805522303_3616955092010646232_n_896171e2-c0eb-4078-b043-c7cc4c6f2bde.webp?v=1758635319",
+          "width": 1080,
+          "height": 1440
+        },
+        {
+          "id": 36467974570018,
+          "created_at": "2025-09-23T18:48:38+05:00",
+          "position": 5,
+          "updated_at": "2025-09-23T18:48:40+05:00",
+          "product_id": 8077307281442,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/SnapInsta.to_551425710_17857133796522303_5503667532775721243_n_dbf98b81-e726-4114-9915-38150e614409.webp?v=1758635320",
+          "width": 1080,
+          "height": 1440
+        },
+        {
+          "id": 36467974602786,
+          "created_at": "2025-09-23T18:48:38+05:00",
+          "position": 6,
+          "updated_at": "2025-09-23T18:48:39+05:00",
+          "product_id": 8077307281442,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/SnapInsta.to_552622097_17857133787522303_6757880302223238856_n_f5b61726-c427-4f2f-88b7-3404e798c1ac.webp?v=1758635319",
+          "width": 1080,
+          "height": 1440
+        },
+        {
+          "id": 36467974635554,
+          "created_at": "2025-09-23T18:48:38+05:00",
+          "position": 7,
+          "updated_at": "2025-09-23T18:48:40+05:00",
+          "product_id": 8077307281442,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/SnapInsta.to_552444569_17857133778522303_8053979311851016702_n_2f065cfc-1219-4893-ad62-60a2808c1d42.webp?v=1758635320",
+          "width": 1080,
+          "height": 1440
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8074410590242,
+      "title": "3-PC Digital Print Silk Suit With Silk Digital Print Dupatta FC-42",
+      "handle": "3-pc-digital-print-silk-suit-with-silk-digital-print-dupatta-fc-42",
+      "body_html": "",
+      "published_at": "2025-09-20T21:36:18+05:00",
+      "created_at": "2025-09-20T21:36:14+05:00",
+      "updated_at": "2025-12-06T11:52:21+05:00",
+      "vendor": "Fazrcollecion",
+      "product_type": "Unstitched Suit",
+      "tags": [],
+      "variants": [
+        {
+          "id": 44334360068130,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": null,
+          "available": true,
+          "price": "5350.00",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 8074410590242,
+          "created_at": "2025-09-20T21:36:14+05:00",
+          "updated_at": "2025-12-06T11:52:21+05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 36450128461858,
+          "created_at": "2025-09-20T21:30:51+05:00",
+          "position": 1,
+          "updated_at": "2025-09-20T21:30:52+05:00",
+          "product_id": 8074410590242,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/WhatsAppImage2025-08-23at17.25.14_b1972470.webp?v=1758385852",
+          "width": 1070,
+          "height": 1600
+        },
+        {
+          "id": 36450128429090,
+          "created_at": "2025-09-20T21:30:51+05:00",
+          "position": 2,
+          "updated_at": "2025-09-20T21:30:52+05:00",
+          "product_id": 8074410590242,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/ANEELASBLACKAA-2_600x_330bb585-d88d-4ac4-84fa-fb3e2c81d348.webp?v=1758385852",
+          "width": 600,
+          "height": 939
+        },
+        {
+          "id": 36450130853922,
+          "created_at": "2025-09-20T21:35:22+05:00",
+          "position": 3,
+          "updated_at": "2025-09-20T21:35:24+05:00",
+          "product_id": 8074410590242,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/SnapInsta.to_550918368_17856777213522303_8052019679882670718_n.webp?v=1758386124",
+          "width": 1080,
+          "height": 1440
+        },
+        {
+          "id": 36450130788386,
+          "created_at": "2025-09-20T21:35:22+05:00",
+          "position": 4,
+          "updated_at": "2025-09-20T21:35:23+05:00",
+          "product_id": 8074410590242,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/SnapInsta.to_551057251_17856777192522303_8979469810870713305_n.webp?v=1758386123",
+          "width": 1080,
+          "height": 1440
+        },
+        {
+          "id": 36450130755618,
+          "created_at": "2025-09-20T21:35:22+05:00",
+          "position": 5,
+          "updated_at": "2025-09-20T21:35:23+05:00",
+          "product_id": 8074410590242,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/SnapInsta.to_551181152_17856777165522303_7231096022507962537_n.webp?v=1758386123",
+          "width": 1080,
+          "height": 1440
+        },
+        {
+          "id": 36450130821154,
+          "created_at": "2025-09-20T21:35:22+05:00",
+          "position": 6,
+          "updated_at": "2025-09-20T21:35:23+05:00",
+          "product_id": 8074410590242,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/SnapInsta.to_551859848_17856777174522303_2409667855395107795_n.webp?v=1758386123",
+          "width": 1080,
+          "height": 1440
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8074394894370,
+      "title": "3-PC Digital Print Silk Suit With Silk Digital Print Dupatta FC-41",
+      "handle": "3-pc-digital-print-silk-suit-with-silk-digital-print-dupatta-fc-41",
+      "body_html": "\u003Cp\u003E\u003Ciframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/ACxBurfr7sA\"\u003E\u003C/iframe\u003E\u003C/p\u003E",
+      "published_at": "2025-09-20T20:45:43+05:00",
+      "created_at": "2025-09-20T20:45:39+05:00",
+      "updated_at": "2025-12-06T11:52:21+05:00",
+      "vendor": "Fazrcollecion",
+      "product_type": "Unstitched Suit",
+      "tags": [],
+      "variants": [
+        {
+          "id": 44334244560930,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "2850.00",
+          "grams": 0,
+          "compare_at_price": "2850.00",
+          "position": 1,
+          "product_id": 8074394894370,
+          "created_at": "2025-09-20T20:45:39+05:00",
+          "updated_at": "2025-12-06T11:52:21+05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 36450019835938,
+          "created_at": "2025-09-20T20:45:10+05:00",
+          "position": 1,
+          "updated_at": "2025-09-20T20:45:12+05:00",
+          "product_id": 8074394894370,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/AD10-2025-09-20T084231.560.png?v=1758383112",
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "id": 36450019868706,
+          "created_at": "2025-09-20T20:45:10+05:00",
+          "position": 2,
+          "updated_at": "2025-09-20T20:45:12+05:00",
+          "product_id": 8074394894370,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/AD10-2025-09-20T084204.628.png?v=1758383112",
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "id": 36450019901474,
+          "created_at": "2025-09-20T20:45:10+05:00",
+          "position": 3,
+          "updated_at": "2025-09-20T20:45:13+05:00",
+          "product_id": 8074394894370,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/AD10-2025-09-20T084146.730.png?v=1758383113",
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "id": 36450019934242,
+          "created_at": "2025-09-20T20:45:10+05:00",
+          "position": 4,
+          "updated_at": "2025-09-20T20:45:12+05:00",
+          "product_id": 8074394894370,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/SnapInsta.to_551056881_17856640779522303_1535040500965032531_n.webp?v=1758383112",
+          "width": 1080,
+          "height": 1440
+        },
+        {
+          "id": 36450019967010,
+          "created_at": "2025-09-20T20:45:10+05:00",
+          "position": 5,
+          "updated_at": "2025-09-20T20:45:12+05:00",
+          "product_id": 8074394894370,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/SnapInsta.to_551505420_17856640770522303_2863856635988610931_n.webp?v=1758383112",
+          "width": 1080,
+          "height": 1440
+        },
+        {
+          "id": 36450019999778,
+          "created_at": "2025-09-20T20:45:10+05:00",
+          "position": 6,
+          "updated_at": "2025-09-20T20:45:12+05:00",
+          "product_id": 8074394894370,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/SnapInsta.to_551455223_17856640761522303_991083562189294563_n.webp?v=1758383112",
+          "width": 1080,
+          "height": 1440
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8074393190434,
+      "title": "3-PC Digital Print Silk Suit With Silk Digital Print Dupatta FC-40",
+      "handle": "3-pc-digital-print-silk-suit-with-silk-digital-print-dupatta-fc-40",
+      "body_html": "\u003Cp\u003E\u003Ciframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/3KSJUSKoEPw\"\u003E\u003C/iframe\u003E\u003C/p\u003E",
+      "published_at": "2025-09-20T20:38:39+05:00",
+      "created_at": "2025-09-20T20:38:35+05:00",
+      "updated_at": "2025-12-06T11:52:21+05:00",
+      "vendor": "Fazrcollecion",
+      "product_type": "Unstitched Suit",
+      "tags": [],
+      "variants": [
+        {
+          "id": 44334232764450,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "10",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "2850.00",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 8074393190434,
+          "created_at": "2025-09-20T20:38:35+05:00",
+          "updated_at": "2025-12-06T11:52:21+05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 36449999519778,
+          "created_at": "2025-09-20T20:37:28+05:00",
+          "position": 1,
+          "updated_at": "2025-09-20T20:37:30+05:00",
+          "product_id": 8074393190434,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/AD10-2025-09-20T083604.195.png?v=1758382650",
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "id": 36449999487010,
+          "created_at": "2025-09-20T20:37:28+05:00",
+          "position": 2,
+          "updated_at": "2025-09-20T20:37:30+05:00",
+          "product_id": 8074393190434,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/AD10-2025-09-20T083626.976.png?v=1758382650",
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "id": 36449999454242,
+          "created_at": "2025-09-20T20:37:28+05:00",
+          "position": 3,
+          "updated_at": "2025-09-20T20:37:30+05:00",
+          "product_id": 8074393190434,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/SnapInsta.to_551790765_17856639828522303_3619844382991589364_n.webp?v=1758382650",
+          "width": 1080,
+          "height": 1440
+        },
+        {
+          "id": 36449999552546,
+          "created_at": "2025-09-20T20:37:28+05:00",
+          "position": 4,
+          "updated_at": "2025-09-20T20:37:30+05:00",
+          "product_id": 8074393190434,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/SnapInsta.to_551064891_17856639819522303_7502389431336363924_n_1.webp?v=1758382650",
+          "width": 1080,
+          "height": 1440
+        },
+        {
+          "id": 36449999585314,
+          "created_at": "2025-09-20T20:37:28+05:00",
+          "position": 5,
+          "updated_at": "2025-09-20T20:37:30+05:00",
+          "product_id": 8074393190434,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/SnapInsta.to_551790765_17856639828522303_3619844382991589364_n_1.webp?v=1758382650",
+          "width": 1080,
+          "height": 1440
+        },
+        {
+          "id": 36449999618082,
+          "created_at": "2025-09-20T20:37:28+05:00",
+          "position": 6,
+          "updated_at": "2025-09-20T20:37:30+05:00",
+          "product_id": 8074393190434,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/SnapInsta.to_551063253_17856639810522303_7401309193502907400_n_1.webp?v=1758382650",
+          "width": 1080,
+          "height": 1440
+        },
+        {
+          "id": 36449999650850,
+          "created_at": "2025-09-20T20:37:29+05:00",
+          "position": 7,
+          "updated_at": "2025-09-20T20:37:30+05:00",
+          "product_id": 8074393190434,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/SnapInsta.to_551063253_17856639810522303_7401309193502907400_n.webp?v=1758382650",
+          "width": 1080,
+          "height": 1440
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8074390011938,
+      "title": "3-PC Digital Print Silk Suit With Silk Digital Print Dupatta FC-39",
+      "handle": "3-pc-digital-print-silk-suit-with-silk-digital-print-dupatta-fc-39",
+      "body_html": "\u003Cp\u003E\u003Ciframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/K3S-dN6_iO4\"\u003E\u003C/iframe\u003E\u003C/p\u003E",
+      "published_at": "2025-09-20T20:28:03+05:00",
+      "created_at": "2025-09-20T20:28:00+05:00",
+      "updated_at": "2025-12-06T11:52:21+05:00",
+      "vendor": "Fazrcollecion",
+      "product_type": "Unstitched Suit",
+      "tags": [],
+      "variants": [
+        {
+          "id": 44334217789474,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "10",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "2850.00",
+          "grams": 0,
+          "compare_at_price": "3300.00",
+          "position": 1,
+          "product_id": 8074390011938,
+          "created_at": "2025-09-20T20:28:00+05:00",
+          "updated_at": "2025-12-06T11:52:21+05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 36449974911010,
+          "created_at": "2025-09-20T20:26:23+05:00",
+          "position": 1,
+          "updated_at": "2025-09-20T20:26:25+05:00",
+          "product_id": 8074390011938,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/AD10-2025-09-20T082343.139.png?v=1758381985",
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "id": 36449974943778,
+          "created_at": "2025-09-20T20:26:23+05:00",
+          "position": 2,
+          "updated_at": "2025-09-20T20:26:25+05:00",
+          "product_id": 8074390011938,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/AD10-2025-09-20T082323.857.png?v=1758381985",
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "id": 36449974976546,
+          "created_at": "2025-09-20T20:26:23+05:00",
+          "position": 3,
+          "updated_at": "2025-09-20T20:26:25+05:00",
+          "product_id": 8074390011938,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/AD10-2025-09-20T082247.031.png?v=1758381985",
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "id": 36449975009314,
+          "created_at": "2025-09-20T20:26:23+05:00",
+          "position": 4,
+          "updated_at": "2025-09-20T20:26:25+05:00",
+          "product_id": 8074390011938,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/SnapInsta.to_550810161_17856638595522303_8984487655855691985_n.webp?v=1758381985",
+          "width": 1080,
+          "height": 1440
+        },
+        {
+          "id": 36449975042082,
+          "created_at": "2025-09-20T20:26:23+05:00",
+          "position": 5,
+          "updated_at": "2025-09-20T20:26:25+05:00",
+          "product_id": 8074390011938,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/SnapInsta.to_551109582_17856638583522303_3481771307683853992_n.webp?v=1758381985",
+          "width": 1080,
+          "height": 1440
+        },
+        {
+          "id": 36449975074850,
+          "created_at": "2025-09-20T20:26:23+05:00",
+          "position": 6,
+          "updated_at": "2025-09-20T20:26:25+05:00",
+          "product_id": 8074390011938,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/SnapInsta.to_550735364_17856638574522303_3387722533905271249_n.webp?v=1758381985",
+          "width": 1080,
+          "height": 1440
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8073254338594,
+      "title": "3-PC Digital Print Silk Suit With Silk Digital Print Dupatta FC-38",
+      "handle": "3-pc-digital-print-silk-suit-with-silk-digital-print-dupatta-fc-38",
+      "body_html": "\u003Cp\u003E\u003Ciframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/RdJ9495xeDM\"\u003E\u003C/iframe\u003E\u003C/p\u003E",
+      "published_at": "2025-09-18T17:46:17+05:00",
+      "created_at": "2025-09-18T17:46:14+05:00",
+      "updated_at": "2025-12-06T11:52:21+05:00",
+      "vendor": "Fazrcollecion",
+      "product_type": "Unstitched Suit",
+      "tags": [],
+      "variants": [
+        {
+          "id": 44328660631586,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": null,
+          "available": true,
+          "price": "2850.00",
+          "grams": 0,
+          "compare_at_price": "3350.00",
+          "position": 1,
+          "product_id": 8073254338594,
+          "created_at": "2025-09-18T17:46:14+05:00",
+          "updated_at": "2025-12-06T11:52:21+05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 36435929727010,
+          "created_at": "2025-09-18T17:45:38+05:00",
+          "position": 1,
+          "updated_at": "2025-09-18T17:45:39+05:00",
+          "product_id": 8073254338594,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/AD10-2025-09-18T043519.153.png?v=1758199539",
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "id": 36435929563170,
+          "created_at": "2025-09-18T17:45:38+05:00",
+          "position": 2,
+          "updated_at": "2025-09-18T17:45:39+05:00",
+          "product_id": 8073254338594,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/549984785_628004236860142_3201275134274408276_n.jpg?v=1758199539",
+          "width": 612,
+          "height": 816
+        },
+        {
+          "id": 36435929595938,
+          "created_at": "2025-09-18T17:45:38+05:00",
+          "position": 3,
+          "updated_at": "2025-09-18T17:45:39+05:00",
+          "product_id": 8073254338594,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/551384693_4280207642303743_8690359755638942403_n_1.jpg?v=1758199539",
+          "width": 612,
+          "height": 816
+        },
+        {
+          "id": 36435929628706,
+          "created_at": "2025-09-18T17:45:38+05:00",
+          "position": 4,
+          "updated_at": "2025-09-18T17:45:39+05:00",
+          "product_id": 8073254338594,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/551384693_4280207642303743_8690359755638942403_n.jpg?v=1758199539",
+          "width": 612,
+          "height": 816
+        },
+        {
+          "id": 36435929661474,
+          "created_at": "2025-09-18T17:45:38+05:00",
+          "position": 5,
+          "updated_at": "2025-09-18T17:45:39+05:00",
+          "product_id": 8073254338594,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/550462467_1503100904155574_2405325843252383136_n_1.jpg?v=1758199539",
+          "width": 612,
+          "height": 816
+        },
+        {
+          "id": 36435929694242,
+          "created_at": "2025-09-18T17:45:38+05:00",
+          "position": 6,
+          "updated_at": "2025-09-18T17:45:39+05:00",
+          "product_id": 8073254338594,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/550462467_1503100904155574_2405325843252383136_n.jpg?v=1758199539",
+          "width": 612,
+          "height": 816
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8073253421090,
+      "title": "3-PC Digital Print Silk Suit With Silk Digital Print Dupatta FC-37",
+      "handle": "3-pc-digital-print-silk-suit-with-silk-digital-print-dupatta-fc-37",
+      "body_html": "",
+      "published_at": "2025-09-18T17:44:20+05:00",
+      "created_at": "2025-09-18T17:44:16+05:00",
+      "updated_at": "2025-12-06T11:52:21+05:00",
+      "vendor": "Fazrcollecion",
+      "product_type": "Unstitched Suit",
+      "tags": [],
+      "variants": [
+        {
+          "id": 44328659583010,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": null,
+          "available": true,
+          "price": "2850.00",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 8073253421090,
+          "created_at": "2025-09-18T17:44:17+05:00",
+          "updated_at": "2025-12-06T11:52:21+05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 36435933397026,
+          "created_at": "2025-09-18T17:48:08+05:00",
+          "position": 1,
+          "updated_at": "2025-09-18T17:48:18+05:00",
+          "product_id": 8073253421090,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/550688274_1691578004852447_6642862041036020387_n_c70402ca-3ec8-4cb8-be37-32bd112b189b.jpg?v=1758199698",
+          "width": 600,
+          "height": 840
+        },
+        {
+          "id": 36435926188066,
+          "created_at": "2025-09-18T17:43:34+05:00",
+          "position": 2,
+          "updated_at": "2025-09-18T17:48:18+05:00",
+          "product_id": 8073253421090,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/550678860_24564008966618511_4665544792110007550_n.jpg?v=1758199698",
+          "width": 612,
+          "height": 816
+        },
+        {
+          "id": 36435926220834,
+          "created_at": "2025-09-18T17:43:34+05:00",
+          "position": 3,
+          "updated_at": "2025-09-18T17:48:18+05:00",
+          "product_id": 8073253421090,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/549992336_1205601437993207_6363100403023924523_n.jpg?v=1758199698",
+          "width": 378,
+          "height": 504
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8073252536354,
+      "title": "3-PC Digital Print Silk Suit With Silk Digital Print Dupatta FC-36",
+      "handle": "3-pc-digital-print-silk-suit-with-silk-digital-print-dupatta-fc-36",
+      "body_html": "",
+      "published_at": "2025-09-18T17:37:42+05:00",
+      "created_at": "2025-09-18T17:37:40+05:00",
+      "updated_at": "2025-12-06T11:52:21+05:00",
+      "vendor": "Fazrcollecion",
+      "product_type": "Unstitched Suit",
+      "tags": [],
+      "variants": [
+        {
+          "id": 44328657846306,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "20",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "2850.00",
+          "grams": 0,
+          "compare_at_price": "3350.00",
+          "position": 1,
+          "product_id": 8073252536354,
+          "created_at": "2025-09-18T17:37:40+05:00",
+          "updated_at": "2025-12-06T11:52:21+05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 36435923697698,
+          "created_at": "2025-09-18T17:36:51+05:00",
+          "position": 1,
+          "updated_at": "2025-09-18T17:36:53+05:00",
+          "product_id": 8073252536354,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/AD10-2025-09-18T043607.215.png?v=1758199013",
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "id": 36435923730466,
+          "created_at": "2025-09-18T17:36:51+05:00",
+          "position": 2,
+          "updated_at": "2025-09-18T17:36:53+05:00",
+          "product_id": 8073252536354,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/550861800_1579408040109497_6899849702461871775_n.jpg?v=1758199013",
+          "width": 612,
+          "height": 816
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8073246605346,
+      "title": "3-PC Digital Print Silk Suit With Silk Digital Print Dupatta FC-35",
+      "handle": "3-pc-digital-print-silk-suit-with-silk-digital-print-dupatta-fc-35",
+      "body_html": "",
+      "published_at": "2025-09-18T17:10:25+05:00",
+      "created_at": "2025-09-18T17:10:22+05:00",
+      "updated_at": "2025-12-06T11:52:21+05:00",
+      "vendor": "Fazrcollecion",
+      "product_type": "Unstitched Suit",
+      "tags": [],
+      "variants": [
+        {
+          "id": 44328637464610,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "10",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "2850.00",
+          "grams": 0,
+          "compare_at_price": "3350.00",
+          "position": 1,
+          "product_id": 8073246605346,
+          "created_at": "2025-09-18T17:10:22+05:00",
+          "updated_at": "2025-12-06T11:52:21+05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 36435899252770,
+          "created_at": "2025-09-18T17:01:09+05:00",
+          "position": 1,
+          "updated_at": "2025-09-18T17:01:12+05:00",
+          "product_id": 8073246605346,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/AD10-2025-09-18T043628.776.png?v=1758196872",
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "id": 36435903119394,
+          "created_at": "2025-09-18T17:09:47+05:00",
+          "position": 2,
+          "updated_at": "2025-09-18T17:09:49+05:00",
+          "product_id": 8073246605346,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/550080030_4553196298300866_5268708786557485467_n.jpg?v=1758197389",
+          "width": 612,
+          "height": 816
+        },
+        {
+          "id": 36435903086626,
+          "created_at": "2025-09-18T17:09:47+05:00",
+          "position": 3,
+          "updated_at": "2025-09-18T17:09:48+05:00",
+          "product_id": 8073246605346,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/550431776_1155402546434033_3590967743175483304_n.jpg?v=1758197388",
+          "width": 612,
+          "height": 816
+        },
+        {
+          "id": 36435903152162,
+          "created_at": "2025-09-18T17:09:47+05:00",
+          "position": 4,
+          "updated_at": "2025-09-18T17:09:49+05:00",
+          "product_id": 8073246605346,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/549565180_1163624135619470_33291730422232249_n.jpg?v=1758197389",
+          "width": 612,
+          "height": 816
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8071625736226,
+      "title": "3-PC Digital Print Silk Suit With Silk Digital Print Dupatta FC-31",
+      "handle": "3-pc-digital-print-silk-suit-with-silk-digital-print-dupatta-fc-31",
+      "body_html": "\u003Cp\u003E\u003Ciframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/X9153nerDas\"\u003E\u003C/iframe\u003E\u003C/p\u003E",
+      "published_at": "2025-09-15T20:20:12+05:00",
+      "created_at": "2025-09-15T20:20:08+05:00",
+      "updated_at": "2025-12-06T11:52:21+05:00",
+      "vendor": "Fazrcollecion",
+      "product_type": "Unstitched Suit",
+      "tags": [],
+      "variants": [
+        {
+          "id": 44318689099810,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "2850.00",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 8071625736226,
+          "created_at": "2025-09-15T20:20:08+05:00",
+          "updated_at": "2025-12-06T11:52:21+05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 36418293104674,
+          "created_at": "2025-09-15T20:18:50+05:00",
+          "position": 1,
+          "updated_at": "2025-09-15T20:18:51+05:00",
+          "product_id": 8071625736226,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/AD10-2025-09-15T073021.866.png?v=1757949531",
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "id": 36418293006370,
+          "created_at": "2025-09-15T20:18:50+05:00",
+          "position": 2,
+          "updated_at": "2025-09-15T20:18:51+05:00",
+          "product_id": 8071625736226,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/WhatsAppImage2025-09-15at7.38.19AM.jpg?v=1757949531",
+          "width": 960,
+          "height": 1280
+        },
+        {
+          "id": 36418293039138,
+          "created_at": "2025-09-15T20:18:50+05:00",
+          "position": 3,
+          "updated_at": "2025-09-15T20:18:51+05:00",
+          "product_id": 8071625736226,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/WhatsAppImage2025-09-15at7.38.18AM_1.jpg?v=1757949531",
+          "width": 960,
+          "height": 1280
+        },
+        {
+          "id": 36418293071906,
+          "created_at": "2025-09-15T20:18:50+05:00",
+          "position": 4,
+          "updated_at": "2025-09-15T20:18:51+05:00",
+          "product_id": 8071625736226,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/WhatsAppImage2025-09-15at7.38.18AM.jpg?v=1757949531",
+          "width": 960,
+          "height": 1280
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8071624851490,
+      "title": "3-PC Digital Print Silk Suit With Silk Digital Print Dupatta FC-29",
+      "handle": "3-pc-digital-print-silk-suit-with-silk-digital-print-dupatta-fc-29",
+      "body_html": "\u003Cp\u003E\u003Ciframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/Vn3Rmy1TOgs\"\u003E\u003C/iframe\u003E\u003C/p\u003E",
+      "published_at": "2025-09-15T20:11:56+05:00",
+      "created_at": "2025-09-15T20:11:53+05:00",
+      "updated_at": "2025-12-06T11:52:21+05:00",
+      "vendor": "Fazrcollecion",
+      "product_type": "Unstitched Suit",
+      "tags": [],
+      "variants": [
+        {
+          "id": 44318680678434,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": null,
+          "available": true,
+          "price": "2850.00",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 8071624851490,
+          "created_at": "2025-09-15T20:11:53+05:00",
+          "updated_at": "2025-12-06T11:52:21+05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 36418283044898,
+          "created_at": "2025-09-15T20:11:22+05:00",
+          "position": 1,
+          "updated_at": "2025-09-15T20:11:23+05:00",
+          "product_id": 8071624851490,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/AD10-2025-09-15T072944.742.png?v=1757949083",
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "id": 36418282881058,
+          "created_at": "2025-09-15T20:11:22+05:00",
+          "position": 2,
+          "updated_at": "2025-09-15T20:11:23+05:00",
+          "product_id": 8071624851490,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/WhatsAppImage2025-09-15at7.38.17AM_3.jpg?v=1757949083",
+          "width": 960,
+          "height": 1280
+        },
+        {
+          "id": 36418282913826,
+          "created_at": "2025-09-15T20:11:22+05:00",
+          "position": 3,
+          "updated_at": "2025-09-15T20:11:23+05:00",
+          "product_id": 8071624851490,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/WhatsAppImage2025-09-15at7.38.17AM_2.jpg?v=1757949083",
+          "width": 960,
+          "height": 1280
+        },
+        {
+          "id": 36418282946594,
+          "created_at": "2025-09-15T20:11:22+05:00",
+          "position": 4,
+          "updated_at": "2025-09-15T20:11:23+05:00",
+          "product_id": 8071624851490,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/WhatsAppImage2025-09-15at7.38.17AM_1.jpg?v=1757949083",
+          "width": 960,
+          "height": 1280
+        },
+        {
+          "id": 36418282979362,
+          "created_at": "2025-09-15T20:11:22+05:00",
+          "position": 5,
+          "updated_at": "2025-09-15T20:11:24+05:00",
+          "product_id": 8071624851490,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/WhatsAppImage2025-09-15at7.38.17AM.jpg?v=1757949084",
+          "width": 960,
+          "height": 1280
+        },
+        {
+          "id": 36418283012130,
+          "created_at": "2025-09-15T20:11:22+05:00",
+          "position": 6,
+          "updated_at": "2025-09-15T20:11:23+05:00",
+          "product_id": 8071624851490,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/WhatsAppImage2025-09-15at7.38.16AM_2.jpg?v=1757949083",
+          "width": 960,
+          "height": 1280
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8071623704610,
+      "title": "3-PC Digital Print Silk Suit With Silk Digital Print Dupatta FC-28",
+      "handle": "3-pc-digital-print-silk-suit-with-silk-digital-print-dupatta-fc-28",
+      "body_html": "\u003Cp\u003E\u003Ciframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/DXt28NXG8wk\"\u003E\u003C/iframe\u003E\u003C/p\u003E",
+      "published_at": "2025-09-15T20:02:00+05:00",
+      "created_at": "2025-09-15T20:01:55+05:00",
+      "updated_at": "2025-12-06T11:52:21+05:00",
+      "vendor": "Fazrcollecion",
+      "product_type": "Unstitched Suit",
+      "tags": [],
+      "variants": [
+        {
+          "id": 44318673436706,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "2850.00",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 8071623704610,
+          "created_at": "2025-09-15T20:01:55+05:00",
+          "updated_at": "2025-12-06T11:52:21+05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 36418275737634,
+          "created_at": "2025-09-15T20:01:07+05:00",
+          "position": 1,
+          "updated_at": "2025-09-15T20:01:09+05:00",
+          "product_id": 8071623704610,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/AD_10_-_2025-09-15T072915.909.png?v=1757948469",
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "id": 36418275246114,
+          "created_at": "2025-09-15T19:59:46+05:00",
+          "position": 2,
+          "updated_at": "2025-09-15T19:59:48+05:00",
+          "product_id": 8071623704610,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/WhatsApp_Image_2025-09-15_at_7.38.16_AM_1.jpg?v=1757948388",
+          "width": 960,
+          "height": 1280
+        },
+        {
+          "id": 36418275213346,
+          "created_at": "2025-09-15T19:59:46+05:00",
+          "position": 3,
+          "updated_at": "2025-09-15T19:59:48+05:00",
+          "product_id": 8071623704610,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/WhatsApp_Image_2025-09-15_at_7.38.16_AM.jpg?v=1757948388",
+          "width": 960,
+          "height": 1280
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8071623082018,
+      "title": "3-PC Digital Print Silk Suit With Silk Digital Print Dupatta FC-27",
+      "handle": "3-pc-digital-print-silk-suit-with-silk-digital-print-dupatta-fc-27",
+      "body_html": "\u003Ciframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/0o3gjNTAmak\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen\u003E\u003C/iframe\u003E\n",
+      "published_at": "2025-09-15T19:56:13+05:00",
+      "created_at": "2025-09-15T19:56:10+05:00",
+      "updated_at": "2025-12-06T11:52:21+05:00",
+      "vendor": "Fazrcollecion",
+      "product_type": "Unstitched Suit",
+      "tags": [
+        "unstitched"
+      ],
+      "variants": [
+        {
+          "id": 44318671372322,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "2850.00",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 8071623082018,
+          "created_at": "2025-09-15T19:56:10+05:00",
+          "updated_at": "2025-12-06T11:52:21+05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 36418272690210,
+          "created_at": "2025-09-15T19:53:55+05:00",
+          "position": 1,
+          "updated_at": "2025-09-15T19:53:57+05:00",
+          "product_id": 8071623082018,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/AD10-2025-09-15T073245.896.png?v=1757948037",
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "id": 36418273673250,
+          "created_at": "2025-09-15T19:55:31+05:00",
+          "position": 2,
+          "updated_at": "2025-09-15T19:55:32+05:00",
+          "product_id": 8071623082018,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/WhatsApp_Image_2025-09-15_at_7.54.56_AM.jpg?v=1757948132",
+          "width": 1200,
+          "height": 1600
+        },
+        {
+          "id": 36418273738786,
+          "created_at": "2025-09-15T19:55:31+05:00",
+          "position": 3,
+          "updated_at": "2025-09-15T19:55:33+05:00",
+          "product_id": 8071623082018,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/WhatsApp_Image_2025-09-15_at_7.54.57_AM_1.jpg?v=1757948133",
+          "width": 1200,
+          "height": 1600
+        },
+        {
+          "id": 36418273706018,
+          "created_at": "2025-09-15T19:55:31+05:00",
+          "position": 4,
+          "updated_at": "2025-09-15T19:55:33+05:00",
+          "product_id": 8071623082018,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/WhatsApp_Image_2025-09-15_at_7.54.57_AM.jpg?v=1757948133",
+          "width": 1200,
+          "height": 1600
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8071622361122,
+      "title": "3-PC Digital Print Silk Suit With Silk Digital Print Dupatta FC-26",
+      "handle": "3-pc-digital-print-silk-suit-with-silk-digital-print-dupatta-fc-26",
+      "body_html": "\u003Cp\u003E\u003Ciframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/vOFl13Oflng%20frameborder=\"\u003E\u003C/iframe\u003E\u003C/p\u003E",
+      "published_at": "2025-09-15T19:53:13+05:00",
+      "created_at": "2025-09-15T19:53:10+05:00",
+      "updated_at": "2025-12-06T11:52:21+05:00",
+      "vendor": "Fazrcollecion",
+      "product_type": "Unstitched Suit",
+      "tags": [
+        "unstitched"
+      ],
+      "variants": [
+        {
+          "id": 44318670061602,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": null,
+          "available": true,
+          "price": "2850.00",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 8071622361122,
+          "created_at": "2025-09-15T19:53:10+05:00",
+          "updated_at": "2025-12-06T11:52:21+05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 36418269610018,
+          "created_at": "2025-09-15T19:48:39+05:00",
+          "position": 1,
+          "updated_at": "2025-09-15T19:48:40+05:00",
+          "product_id": 8071622361122,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/AD10-2025-09-15T073155.243.png?v=1757947720",
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "id": 36418271969314,
+          "created_at": "2025-09-15T19:52:32+05:00",
+          "position": 2,
+          "updated_at": "2025-09-15T19:52:33+05:00",
+          "product_id": 8071622361122,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/WhatsApp_Image_2025-09-15_at_7.51.47_AM_1.jpg?v=1757947953",
+          "width": 960,
+          "height": 1280
+        },
+        {
+          "id": 36418271936546,
+          "created_at": "2025-09-15T19:52:32+05:00",
+          "position": 3,
+          "updated_at": "2025-09-15T19:52:33+05:00",
+          "product_id": 8071622361122,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/WhatsApp_Image_2025-09-15_at_7.51.47_AM_2.jpg?v=1757947953",
+          "width": 960,
+          "height": 1280
+        },
+        {
+          "id": 36418272002082,
+          "created_at": "2025-09-15T19:52:32+05:00",
+          "position": 4,
+          "updated_at": "2025-09-15T19:52:33+05:00",
+          "product_id": 8071622361122,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/WhatsApp_Image_2025-09-15_at_7.51.47_AM.jpg?v=1757947953",
+          "width": 960,
+          "height": 1280
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    }
+  ]
+}
+
+{
+  "products": [
+    {
+      "id": 8083235110946,
+      "title": "3-PC Chiffon Suit With Malai Trouser FC-53",
+      "handle": "3-pc-chiffon-suit-with-malai-trouser-fc-53",
+      "body_html": "\u003Cp\u003E\u003Ciframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/CMekjCp_03Y\"\u003E\u003C/iframe\u003E\u003C/p\u003E",
+      "published_at": "2025-09-29T21:21:12+05:00",
+      "created_at": "2025-09-29T21:21:08+05:00",
+      "updated_at": "2025-12-06T11:53:07+05:00",
+      "vendor": "Fazrcollecion",
+      "product_type": "Unstitched Suit",
+      "tags": [],
+      "variants": [
+        {
+          "id": 44356656988194,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": null,
+          "available": true,
+          "price": "4000.00",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 8083235110946,
+          "created_at": "2025-09-29T21:21:08+05:00",
+          "updated_at": "2025-12-06T11:53:07+05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 36525280067618,
+          "created_at": "2025-09-29T21:17:35+05:00",
+          "position": 1,
+          "updated_at": "2025-09-29T21:25:56+05:00",
+          "product_id": 8083235110946,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/A627C589-16EF-4385-AE80-778CDC7421CA.jpg?v=1759163156",
+          "width": 400,
+          "height": 580
+        },
+        {
+          "id": 36525279838242,
+          "created_at": "2025-09-29T21:17:21+05:00",
+          "position": 2,
+          "updated_at": "2025-09-29T21:25:56+05:00",
+          "product_id": 8083235110946,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/E54770C8-86B0-4832-99D9-C40D66FD4F73_1.jpg?v=1759163156",
+          "width": 400,
+          "height": 580
+        },
+        {
+          "id": 36525279248418,
+          "created_at": "2025-09-29T21:17:04+05:00",
+          "position": 3,
+          "updated_at": "2025-09-29T21:25:56+05:00",
+          "product_id": 8083235110946,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/SnapInsta.to_555002929_17857895070522303_4550194447292398776_n.webp?v=1759163156",
+          "width": 1080,
+          "height": 1440
+        },
+        {
+          "id": 36525279281186,
+          "created_at": "2025-09-29T21:17:04+05:00",
+          "position": 4,
+          "updated_at": "2025-09-29T21:25:56+05:00",
+          "product_id": 8083235110946,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/SnapInsta.to_554994105_17857895043522303_4630098023256526395_n.webp?v=1759163156",
+          "width": 1080,
+          "height": 1440
+        },
+        {
+          "id": 36525279313954,
+          "created_at": "2025-09-29T21:17:04+05:00",
+          "position": 5,
+          "updated_at": "2025-09-29T21:25:56+05:00",
+          "product_id": 8083235110946,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/SnapInsta.to_557967018_17857895004522303_4090522529471712614_n.webp?v=1759163156",
+          "width": 1080,
+          "height": 1440
+        },
+        {
+          "id": 36525280002082,
+          "created_at": "2025-09-29T21:17:31+05:00",
+          "position": 6,
+          "updated_at": "2025-09-29T21:25:56+05:00",
+          "product_id": 8083235110946,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/34C17C3D-088A-48B4-8BBC-29C8CD25C3A0.jpg?v=1759163156",
+          "width": 400,
+          "height": 580
+        },
+        {
+          "id": 36525279346722,
+          "created_at": "2025-09-29T21:17:04+05:00",
+          "position": 7,
+          "updated_at": "2025-09-29T21:25:56+05:00",
+          "product_id": 8083235110946,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/SnapInsta.to_554750524_17857895019522303_4643215123203999297_n.webp?v=1759163156",
+          "width": 1080,
+          "height": 1440
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8086482059298,
+      "title": "3-PC Chiffon suit wth malai trouser FC-63",
+      "handle": "3-pc-chiffon-suit-wth-malai-trouser-fc-63",
+      "body_html": "\u003Cp\u003E\u003Ciframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/Q0MtAXh_MTQ\"\u003E\u003C/iframe\u003E\u003C/p\u003E",
+      "published_at": "2025-10-04T16:30:16+05:00",
+      "created_at": "2025-10-04T16:30:14+05:00",
+      "updated_at": "2025-12-06T11:53:07+05:00",
+      "vendor": "Fazrcollecion",
+      "product_type": "Unstitched Suit",
+      "tags": [],
+      "variants": [
+        {
+          "id": 44370060410914,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": false,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "5350.00",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 8086482059298,
+          "created_at": "2025-10-04T16:30:14+05:00",
+          "updated_at": "2025-12-06T11:53:07+05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 36561199267874,
+          "created_at": "2025-10-04T17:15:13+05:00",
+          "position": 1,
+          "updated_at": "2025-10-04T17:15:15+05:00",
+          "product_id": 8086482059298,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/WhatsAppImage2025-10-04at4.23.56PM.jpg?v=1759580115",
+          "width": 683,
+          "height": 1024
+        },
+        {
+          "id": 36561199300642,
+          "created_at": "2025-10-04T17:15:13+05:00",
+          "position": 2,
+          "updated_at": "2025-10-04T17:15:15+05:00",
+          "product_id": 8086482059298,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/WhatsAppImage2025-10-04at4.23.49PM_1.jpg?v=1759580115",
+          "width": 3024,
+          "height": 4032
+        },
+        {
+          "id": 36561199333410,
+          "created_at": "2025-10-04T17:15:13+05:00",
+          "position": 3,
+          "updated_at": "2025-10-04T17:15:15+05:00",
+          "product_id": 8086482059298,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/WhatsAppImage2025-10-04at4.23.49PM.jpg?v=1759580115",
+          "width": 3024,
+          "height": 4032
+        },
+        {
+          "id": 36561199366178,
+          "created_at": "2025-10-04T17:15:13+05:00",
+          "position": 4,
+          "updated_at": "2025-10-04T17:15:15+05:00",
+          "product_id": 8086482059298,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/WhatsAppImage2025-10-04at4.23.48PM_2.jpg?v=1759580115",
+          "width": 3024,
+          "height": 4032
+        },
+        {
+          "id": 36561199398946,
+          "created_at": "2025-10-04T17:15:13+05:00",
+          "position": 5,
+          "updated_at": "2025-10-04T17:15:15+05:00",
+          "product_id": 8086482059298,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/WhatsAppImage2025-10-04at4.23.36PM.jpg?v=1759580115",
+          "width": 960,
+          "height": 1280
+        },
+        {
+          "id": 36561199431714,
+          "created_at": "2025-10-04T17:15:13+05:00",
+          "position": 6,
+          "updated_at": "2025-10-04T17:15:15+05:00",
+          "product_id": 8086482059298,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/WhatsAppImage2025-10-04at4.23.26PM.jpg?v=1759580115",
+          "width": 960,
+          "height": 1280
+        },
+        {
+          "id": 36561199464482,
+          "created_at": "2025-10-04T17:15:13+05:00",
+          "position": 7,
+          "updated_at": "2025-10-04T17:15:15+05:00",
+          "product_id": 8086482059298,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/WhatsAppImage2025-10-04at4.23.24PM.jpg?v=1759580115",
+          "width": 960,
+          "height": 1280
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8085650178082,
+      "title": "3-PC Chiffon Suit With Jamawar Trouser FC-60",
+      "handle": "3-pc-chiffon-suit-with-jamawar-trouser-fc-60",
+      "body_html": "",
+      "published_at": "2025-10-02T15:26:04+05:00",
+      "created_at": "2025-10-02T15:26:01+05:00",
+      "updated_at": "2025-12-06T11:53:07+05:00",
+      "vendor": "Fazrcollecion",
+      "product_type": "Unstitched Suit",
+      "tags": [],
+      "variants": [
+        {
+          "id": 44366640447522,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": false,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "4000.00",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 8085650178082,
+          "created_at": "2025-10-02T15:26:01+05:00",
+          "updated_at": "2025-12-06T11:53:07+05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 36555464409122,
+          "created_at": "2025-10-02T15:23:24+05:00",
+          "position": 1,
+          "updated_at": "2025-10-02T15:23:25+05:00",
+          "product_id": 8085650178082,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/6_4443360d-debd-456e-8fa2-ffb13b406f0f_3.webp?v=1759400605",
+          "width": 600,
+          "height": 870
+        },
+        {
+          "id": 36555464507426,
+          "created_at": "2025-10-02T15:23:26+05:00",
+          "position": 2,
+          "updated_at": "2025-10-02T15:23:28+05:00",
+          "product_id": 8085650178082,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/10_78dd57cc-17bc-4b1f-8d0c-fa42776a6908.webp?v=1759400608",
+          "width": 600,
+          "height": 870
+        },
+        {
+          "id": 36555464540194,
+          "created_at": "2025-10-02T15:23:29+05:00",
+          "position": 3,
+          "updated_at": "2025-10-02T15:23:30+05:00",
+          "product_id": 8085650178082,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/6_4443360d-debd-456e-8fa2-ffb13b406f0f_2.webp?v=1759400610",
+          "width": 600,
+          "height": 870
+        },
+        {
+          "id": 36555464704034,
+          "created_at": "2025-10-02T15:23:32+05:00",
+          "position": 4,
+          "updated_at": "2025-10-02T15:23:34+05:00",
+          "product_id": 8085650178082,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/6_4443360d-debd-456e-8fa2-ffb13b406f0f.webp?v=1759400614",
+          "width": 600,
+          "height": 870
+        },
+        {
+          "id": 36555465195554,
+          "created_at": "2025-10-02T15:23:44+05:00",
+          "position": 5,
+          "updated_at": "2025-10-02T15:23:45+05:00",
+          "product_id": 8085650178082,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/SnapInsta.to_555544613_17858019258522303_786677540374269668_n.webp?v=1759400625",
+          "width": 1080,
+          "height": 1440
+        },
+        {
+          "id": 36555465392162,
+          "created_at": "2025-10-02T15:23:47+05:00",
+          "position": 6,
+          "updated_at": "2025-10-02T15:23:48+05:00",
+          "product_id": 8085650178082,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/SnapInsta.to_558136137_17858019237522303_5615563692227192063_n.webp?v=1759400628",
+          "width": 1080,
+          "height": 1440
+        },
+        {
+          "id": 36555466309666,
+          "created_at": "2025-10-02T15:24:17+05:00",
+          "position": 7,
+          "updated_at": "2025-10-02T15:24:18+05:00",
+          "product_id": 8085650178082,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/SnapInsta.to_558136137_17858019237522303_5615563692227192063_n_bd0e32f5-a2dc-4fdd-a4bb-4c7af833acf9.webp?v=1759400658",
+          "width": 1080,
+          "height": 1440
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8077825900578,
+      "title": "3-PC Chiffon suit with silk Trouser FC-47",
+      "handle": "3-pc-chiffon-suit-with-silk-trouser-fc-47",
+      "body_html": "\u003Cp\u003E\u003Ciframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/0ZQ8scsWgDI\"\u003E\u003C/iframe\u003E\u003Ciframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/KhhZmouZ-mQ\"\u003E\u003C/iframe\u003E\u003C/p\u003E",
+      "published_at": "2025-09-24T19:04:31+05:00",
+      "created_at": "2025-09-24T19:04:25+05:00",
+      "updated_at": "2025-12-06T11:53:07+05:00",
+      "vendor": "Fazrcollecion",
+      "product_type": "Unstitched Suit",
+      "tags": [],
+      "variants": [
+        {
+          "id": 44342756474914,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": null,
+          "available": true,
+          "price": "5000.00",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 8077825900578,
+          "created_at": "2025-09-24T19:04:25+05:00",
+          "updated_at": "2025-12-06T11:53:07+05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 36476113518626,
+          "created_at": "2025-09-24T18:57:18+05:00",
+          "position": 1,
+          "updated_at": "2025-09-24T18:57:20+05:00",
+          "product_id": 8077825900578,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/AD_10_-_2025-09-24T061703.943_536d7a52-1792-4512-8e36-3d2f591879c9.png?v=1758722240",
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "id": 36476110831650,
+          "created_at": "2025-09-24T18:57:08+05:00",
+          "position": 2,
+          "updated_at": "2025-09-24T18:57:09+05:00",
+          "product_id": 8077825900578,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/SnapInsta.to_553375694_17857256328522303_6718058862223784615_n_3.webp?v=1758722229",
+          "width": 1080,
+          "height": 1440
+        },
+        {
+          "id": 36476110864418,
+          "created_at": "2025-09-24T18:57:08+05:00",
+          "position": 3,
+          "updated_at": "2025-09-24T18:57:09+05:00",
+          "product_id": 8077825900578,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/SnapInsta.to_552326328_17857256277522303_8153406613220250120_n_3.webp?v=1758722229",
+          "width": 1080,
+          "height": 1440
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8077807255586,
+      "title": "Fazr collection presesnting 3 pc chiffon suit with silk trouser FC-46",
+      "handle": "fazr-collection-presesnting-3-pc-chiffon-suit-with-silk-trouser-fc-46",
+      "body_html": "\u003Cp\u003E\u003Ciframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/iKqHJUnYIMc\"\u003E\u003C/iframe\u003E\u003Ciframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/KhhZmouZ-mQ\"\u003E\u003C/iframe\u003E\u003Ciframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/KhhZmouZ-mQ\"\u003E\u003C/iframe\u003E\u003C/p\u003E",
+      "published_at": "2025-09-24T17:39:14+05:00",
+      "created_at": "2025-09-24T17:39:11+05:00",
+      "updated_at": "2025-12-06T11:53:07+05:00",
+      "vendor": "Fazrcollecion",
+      "product_type": "Unstitched Suit",
+      "tags": [],
+      "variants": [
+        {
+          "id": 44342650273826,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": null,
+          "available": true,
+          "price": "5250.00",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 8077807255586,
+          "created_at": "2025-09-24T17:39:11+05:00",
+          "updated_at": "2025-12-06T11:53:07+05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 36475357823010,
+          "created_at": "2025-09-24T17:38:33+05:00",
+          "position": 1,
+          "updated_at": "2025-09-24T17:38:35+05:00",
+          "product_id": 8077807255586,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/AD10-2025-09-24T053551.892.png?v=1758717515",
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "id": 36475357855778,
+          "created_at": "2025-09-24T17:38:33+05:00",
+          "position": 2,
+          "updated_at": "2025-09-24T17:38:35+05:00",
+          "product_id": 8077807255586,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/AD10-2025-09-24T053517.967.png?v=1758717515",
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "id": 36475357888546,
+          "created_at": "2025-09-24T17:38:33+05:00",
+          "position": 3,
+          "updated_at": "2025-09-24T17:38:35+05:00",
+          "product_id": 8077807255586,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/SnapInsta.to_552691060_17857256538522303_8815911340648814353_n.webp?v=1758717515",
+          "width": 1080,
+          "height": 1440
+        },
+        {
+          "id": 36475357921314,
+          "created_at": "2025-09-24T17:38:33+05:00",
+          "position": 4,
+          "updated_at": "2025-09-24T17:38:35+05:00",
+          "product_id": 8077807255586,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/SnapInsta.to_553681379_17857256529522303_6517529613137330241_n.webp?v=1758717515",
+          "width": 1080,
+          "height": 1440
+        },
+        {
+          "id": 36475357954082,
+          "created_at": "2025-09-24T17:38:33+05:00",
+          "position": 5,
+          "updated_at": "2025-09-24T17:38:35+05:00",
+          "product_id": 8077807255586,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/SnapInsta.to_552861253_17857256520522303_4561008951278204121_n.webp?v=1758717515",
+          "width": 1080,
+          "height": 1440
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8072761409570,
+      "title": "3-PC Chiffon Suit with Silk trouser FC-32",
+      "handle": "3-pc-chiffon-suit-with-silk-trouser-fc-32",
+      "body_html": "",
+      "published_at": "2025-09-17T19:19:29+05:00",
+      "created_at": "2025-09-17T19:19:25+05:00",
+      "updated_at": "2025-12-06T11:53:07+05:00",
+      "vendor": "FAZR COLLECTION`",
+      "product_type": "Unstitched Suit",
+      "tags": [],
+      "variants": [
+        {
+          "id": 44326363791394,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "10",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "6000.00",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 8072761409570,
+          "created_at": "2025-09-17T19:19:25+05:00",
+          "updated_at": "2025-12-06T11:53:07+05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 36429887504418,
+          "created_at": "2025-09-17T19:17:26+05:00",
+          "position": 1,
+          "updated_at": "2025-09-17T19:17:28+05:00",
+          "product_id": 8072761409570,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/AD_10_-_2025-09-17T071526.012.png?v=1758118648",
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "id": 36429887012898,
+          "created_at": "2025-09-17T19:17:12+05:00",
+          "position": 2,
+          "updated_at": "2025-09-17T19:17:14+05:00",
+          "product_id": 8072761409570,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/SnapInsta.to_549540887_17856390273522303_4332864617639420474_n.webp?v=1758118634",
+          "width": 1080,
+          "height": 1440
+        },
+        {
+          "id": 36429887045666,
+          "created_at": "2025-09-17T19:17:12+05:00",
+          "position": 3,
+          "updated_at": "2025-09-17T19:17:13+05:00",
+          "product_id": 8072761409570,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/SnapInsta.to_549430997_17856390243522303_4087481226533618987_n.webp?v=1758118633",
+          "width": 1080,
+          "height": 1440
+        },
+        {
+          "id": 36429887078434,
+          "created_at": "2025-09-17T19:17:12+05:00",
+          "position": 4,
+          "updated_at": "2025-09-17T19:17:14+05:00",
+          "product_id": 8072761409570,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/SnapInsta.to_549290473_17856390234522303_3919899582329322567_n.webp?v=1758118634",
+          "width": 1080,
+          "height": 1440
+        },
+        {
+          "id": 36429887537186,
+          "created_at": "2025-09-17T19:17:26+05:00",
+          "position": 5,
+          "updated_at": "2025-09-17T19:17:28+05:00",
+          "product_id": 8072761409570,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/AD_10_-_2025-09-17T071447.871.png?v=1758118648",
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "id": 36429887471650,
+          "created_at": "2025-09-17T19:17:26+05:00",
+          "position": 6,
+          "updated_at": "2025-09-17T19:17:28+05:00",
+          "product_id": 8072761409570,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/AD_10_-_2025-09-17T071512.036.png?v=1758118648",
+          "width": 1200,
+          "height": 1200
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    }
+  ]
+}
+
+
+{
+  "products": [
+    {
+      "id": 8085647130658,
+      "title": "3-PC Cotton Chicknkaari suit FC-59",
+      "handle": "3-pc-cotton-chicknkaari-suit-fc-59",
+      "body_html": "\u003Cp\u003E\u003Ciframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/l_RBJ3bCylQ\"\u003E\u003C/iframe\u003E\u003C/p\u003E",
+      "published_at": "2025-10-02T15:20:58+05:00",
+      "created_at": "2025-10-02T15:20:55+05:00",
+      "updated_at": "2025-12-06T11:54:12+05:00",
+      "vendor": "Fazrcollecion",
+      "product_type": "Unstitched Suit",
+      "tags": [],
+      "variants": [
+        {
+          "id": 44366639726626,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": false,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "5700.00",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 8085647130658,
+          "created_at": "2025-10-02T15:20:55+05:00",
+          "updated_at": "2025-12-06T11:54:12+05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 36555456708642,
+          "created_at": "2025-10-02T15:18:58+05:00",
+          "position": 1,
+          "updated_at": "2025-10-02T15:18:59+05:00",
+          "product_id": 8085647130658,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/qlm15.webp?v=1759400339",
+          "width": 1000,
+          "height": 1500
+        },
+        {
+          "id": 36555456380962,
+          "created_at": "2025-10-02T15:18:54+05:00",
+          "position": 2,
+          "updated_at": "2025-10-02T15:18:56+05:00",
+          "product_id": 8085647130658,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/SnapInsta.to_558274913_17858018445522303_7938250866833358385_n.webp?v=1759400336",
+          "width": 1080,
+          "height": 1440
+        },
+        {
+          "id": 36555456413730,
+          "created_at": "2025-10-02T15:18:54+05:00",
+          "position": 3,
+          "updated_at": "2025-10-02T15:18:56+05:00",
+          "product_id": 8085647130658,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/SnapInsta.to_557417478_17858018406522303_1308538369252092594_n.webp?v=1759400336",
+          "width": 1080,
+          "height": 1440
+        },
+        {
+          "id": 36555456446498,
+          "created_at": "2025-10-02T15:18:54+05:00",
+          "position": 4,
+          "updated_at": "2025-10-02T15:18:56+05:00",
+          "product_id": 8085647130658,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/SnapInsta.to_558614186_17858018415522303_2381979174310910833_n.webp?v=1759400336",
+          "width": 1080,
+          "height": 1440
+        },
+        {
+          "id": 36555456479266,
+          "created_at": "2025-10-02T15:18:54+05:00",
+          "position": 5,
+          "updated_at": "2025-10-02T15:18:56+05:00",
+          "product_id": 8085647130658,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/SnapInsta.to_556826583_17858018433522303_4030782650254203322_n.webp?v=1759400336",
+          "width": 1080,
+          "height": 1440
+        },
+        {
+          "id": 36555456512034,
+          "created_at": "2025-10-02T15:18:54+05:00",
+          "position": 6,
+          "updated_at": "2025-10-02T15:18:56+05:00",
+          "product_id": 8085647130658,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/SnapInsta.to_558274913_17858018445522303_7938250866833358385_n-Copy.webp?v=1759400336",
+          "width": 1080,
+          "height": 1440
+        },
+        {
+          "id": 36555456544802,
+          "created_at": "2025-10-02T15:18:54+05:00",
+          "position": 7,
+          "updated_at": "2025-10-02T15:18:56+05:00",
+          "product_id": 8085647130658,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/SnapInsta.to_557417478_17858018406522303_1308538369252092594_n-Copy.webp?v=1759400336",
+          "width": 1080,
+          "height": 1440
+        },
+        {
+          "id": 36555456806946,
+          "created_at": "2025-10-02T15:19:01+05:00",
+          "position": 8,
+          "updated_at": "2025-10-02T15:19:02+05:00",
+          "product_id": 8085647130658,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/qlm14.webp?v=1759400342",
+          "width": 1000,
+          "height": 1500
+        },
+        {
+          "id": 36555456905250,
+          "created_at": "2025-10-02T15:19:03+05:00",
+          "position": 9,
+          "updated_at": "2025-10-02T15:19:05+05:00",
+          "product_id": 8085647130658,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/qlm16.webp?v=1759400345",
+          "width": 1000,
+          "height": 1500
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8085625733154,
+      "title": "3-pc cotton suit with silk digital print dupatta FC-57",
+      "handle": "3-pc-cotton-suit-with-silk-digital-print-dupatta-fc-57",
+      "body_html": "\u003Cp\u003E\u003Ciframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/4hjAvwEFteM\"\u003E\u003C/iframe\u003E\u003C/p\u003E",
+      "published_at": "2025-10-02T14:44:19+05:00",
+      "created_at": "2025-10-02T14:44:17+05:00",
+      "updated_at": "2025-12-06T11:54:12+05:00",
+      "vendor": "Fazrcollecion",
+      "product_type": "Unstitched Suit",
+      "tags": [],
+      "variants": [
+        {
+          "id": 44366565015586,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": false,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "5250.00",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 8085625733154,
+          "created_at": "2025-10-02T14:44:17+05:00",
+          "updated_at": "2025-12-06T11:54:12+05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 36555278909474,
+          "created_at": "2025-10-02T14:42:00+05:00",
+          "position": 1,
+          "updated_at": "2025-10-02T14:42:01+05:00",
+          "product_id": 8085625733154,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/IMG-20250501-WA0062_3.webp?v=1759398121",
+          "width": 600,
+          "height": 833
+        },
+        {
+          "id": 36555275468834,
+          "created_at": "2025-10-02T14:40:24+05:00",
+          "position": 2,
+          "updated_at": "2025-10-02T14:40:25+05:00",
+          "product_id": 8085625733154,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/SnapInsta.to_557458808_17858110143522303_445839455319474491_n_2_-_Copy_-_Copy.webp?v=1759398025",
+          "width": 1080,
+          "height": 1440
+        },
+        {
+          "id": 36555274747938,
+          "created_at": "2025-10-02T14:39:56+05:00",
+          "position": 3,
+          "updated_at": "2025-10-02T14:39:57+05:00",
+          "product_id": 8085625733154,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/SnapInsta.to_558995530_17858110146522303_8453668440495024193_n.webp?v=1759397997",
+          "width": 1080,
+          "height": 1440
+        },
+        {
+          "id": 36555274715170,
+          "created_at": "2025-10-02T14:39:56+05:00",
+          "position": 4,
+          "updated_at": "2025-10-02T14:39:57+05:00",
+          "product_id": 8085625733154,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/SnapInsta.to_558995530_17858110146522303_8453668440495024193_n_1.webp?v=1759397997",
+          "width": 1080,
+          "height": 1440
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8072765112354,
+      "title": "3-Pc Cotton chickenkaari with Organza Dupatta FC-34",
+      "handle": "3-pc-cotton-chickenkaari-with-organza-dupatta",
+      "body_html": "",
+      "published_at": "2025-09-17T19:36:23+05:00",
+      "created_at": "2025-09-17T19:36:18+05:00",
+      "updated_at": "2025-12-06T11:54:12+05:00",
+      "vendor": "Fazrcollecion",
+      "product_type": "Unstitched Suit",
+      "tags": [],
+      "variants": [
+        {
+          "id": 44326376407074,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": false,
+          "taxable": false,
+          "featured_image": null,
+          "available": true,
+          "price": "6350.00",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 8072765112354,
+          "created_at": "2025-09-17T19:36:18+05:00",
+          "updated_at": "2025-12-06T11:54:12+05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 36429921091618,
+          "created_at": "2025-09-17T19:35:03+05:00",
+          "position": 1,
+          "updated_at": "2025-09-17T19:35:05+05:00",
+          "product_id": 8072765112354,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/AD10-2025-09-17T073059.450.png?v=1758119705",
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "id": 36429921124386,
+          "created_at": "2025-09-17T19:35:03+05:00",
+          "position": 2,
+          "updated_at": "2025-09-17T19:35:04+05:00",
+          "product_id": 8072765112354,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/SnapInsta.to_549161540_17856397740522303_4710097621610809238_n.webp?v=1758119704",
+          "width": 1080,
+          "height": 1440
+        },
+        {
+          "id": 36429921157154,
+          "created_at": "2025-09-17T19:35:03+05:00",
+          "position": 3,
+          "updated_at": "2025-09-17T19:35:04+05:00",
+          "product_id": 8072765112354,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/SnapInsta.to_550323724_17856397731522303_2140801581040659836_n.webp?v=1758119704",
+          "width": 1080,
+          "height": 1440
+        },
+        {
+          "id": 36429921189922,
+          "created_at": "2025-09-17T19:35:03+05:00",
+          "position": 4,
+          "updated_at": "2025-09-17T19:35:05+05:00",
+          "product_id": 8072765112354,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/SnapInsta.to_549723681_17856397722522303_5932784064981656275_n.webp?v=1758119705",
+          "width": 1080,
+          "height": 1440
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8072763277346,
+      "title": "3-PC Cotton Suit with Silk trouser FC-33",
+      "handle": "3-pc-cotton-suit-with-silk-trouser-fc-33",
+      "body_html": "",
+      "published_at": "2025-09-17T19:27:18+05:00",
+      "created_at": "2025-09-17T19:27:15+05:00",
+      "updated_at": "2025-12-06T11:54:12+05:00",
+      "vendor": "FAZR COLLECTION`",
+      "product_type": "Unstitched Suit",
+      "tags": [],
+      "variants": [
+        {
+          "id": 44326369493026,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": null,
+          "available": true,
+          "price": "6350.00",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 8072763277346,
+          "created_at": "2025-09-17T19:27:15+05:00",
+          "updated_at": "2025-12-06T11:54:12+05:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 36429899169826,
+          "created_at": "2025-09-17T19:25:30+05:00",
+          "position": 1,
+          "updated_at": "2025-09-17T19:25:31+05:00",
+          "product_id": 8072763277346,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/AD10-2025-09-17T072329.170.png?v=1758119131",
+          "width": 1200,
+          "height": 1200
+        },
+        {
+          "id": 36429899137058,
+          "created_at": "2025-09-17T19:25:30+05:00",
+          "position": 2,
+          "updated_at": "2025-09-17T19:25:31+05:00",
+          "product_id": 8072763277346,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/SnapInsta.to_549936988_17856392355522303_6330488176886138031_n.webp?v=1758119131",
+          "width": 1080,
+          "height": 1440
+        },
+        {
+          "id": 36429899202594,
+          "created_at": "2025-09-17T19:25:30+05:00",
+          "position": 3,
+          "updated_at": "2025-09-17T19:25:31+05:00",
+          "product_id": 8072763277346,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0806/9873/6674/files/SnapInsta.to_549952590_17856392364522303_8941163215952083167_n_1.webp?v=1758119131",
+          "width": 1080,
+          "height": 1440
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    }
+  ]
+}

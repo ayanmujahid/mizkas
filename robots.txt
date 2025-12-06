@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nohfil.com/sitemap.xml

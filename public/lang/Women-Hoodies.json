@@ -1,0 +1,221 @@
+[
+  {
+    "category": "Clothing",
+    "products": [
+     
+      [
+        {
+          "title": "Black Hoodie",
+          "thumbnail": "https://demo-designprojects.com/demo/adiktiv/public/images/t-shirts/black-hoodie-front.png",
+          "options": {
+            "stageWidth": "800"
+          },
+          "elements": [
+            {
+              "title": "Front",
+              "source": "https://demo-designprojects.com/demo/adiktiv/public/images/t-shirts/black-hoodie-front.png",
+              "type": "image",
+              "parameters": {
+                "left": 400,
+                "top": 300,
+                "originX": "center",
+                "originY": "center",
+                "z": -1,
+                "fill": false,
+                "colors": false,
+                "colorLinkGroup": false,
+                "draggable": false,
+                "rotatable": false,
+                "resizable": false,
+                "removable": false,
+                "zChangeable": false,
+                "scaleX": 1,
+                "scaleY": 1,
+                "lockUniScaling": false,
+                "uniScalingUnlockable": false,
+                "angle": 0,
+              
+                "autoCenter": false,
+                "replaceInAllViews": false,
+                "autoSelect": false,
+                "topped": false,
+                "boundingBoxMode": "inside",
+                "opacity": 1,
+                "excludeFromExport": false,
+                "locked": false,
+                "showInColorSelection": false,
+                "boundingBox": false,
+                "resizeToW": 0,
+                "resizeToH": 0,
+                "filter": null,
+                "scaleMode": "fit",
+                "minScaleLimit": 0.01,
+                "advancedEditing": false,
+                "uploadZone": false
+              }
+            }
+          ]
+        },
+        {
+          "title": "Black Hoodie",
+          "thumbnail": "https://demo-designprojects.com/demo/adiktiv/public/images/t-shirts/black-hoodie-back.png",
+          "options": {
+            "stageWidth": "800"
+          },
+          "elements": [
+            {
+              "title": "Back Shadow",
+              "source": "https://demo-designprojects.com/demo/adiktiv/public/images/t-shirts/black-hoodie-back.png",
+              "type": "image",
+              "parameters": {
+                "left": 400,
+                "top": 316,
+                "originX": "center",
+                "originY": "center",
+                "z": -1,
+                "fill": false,
+                "colors": 0,
+                "colorLinkGroup": 0,
+                "draggable": 0,
+                "rotatable": 0,
+                "resizable": 0,
+                "removable": 0,
+                "zChangeable": 0,
+                "scaleX": 1,
+                "scaleY": 1,
+                "lockUniScaling": false,
+                "uniScalingUnlockable": 0,
+                "angle": 0,
+            
+                "autoCenter": false,
+                "replaceInAllViews": 0,
+                "autoSelect": 0,
+                "topped": 0,
+                "boundingBoxMode": "inside",
+                "opacity": 1,
+                "excludeFromExport": 0,
+                "locked": 0,
+                "showInColorSelection": 0,
+                "boundingBox": 0,
+                "resizeToW": 0,
+                "resizeToH": 0,
+                "filter": 0,
+                "scaleMode": "fit",
+                "minScaleLimit": 0.01,
+                "advancedEditing": 0,
+                "uploadZone": 0
+              }
+            }
+          ]
+        }
+      ],
+      [
+        {
+          "title": "White Hoodie",
+          "thumbnail": "https://demo-designprojects.com/demo/adiktiv/public/images/t-shirts/white-hoodie-front.png",
+          "options": {
+            "stageWidth": "800"
+          },
+          "elements": [
+            {
+              "title": "Front",
+              "source": "https://demo-designprojects.com/demo/adiktiv/public/images/t-shirts/white-hoodie-front.png",
+              "type": "image",
+              "parameters": {
+                "left": 400,
+                "top": 300,
+                "originX": "center",
+                "originY": "center",
+                "z": -1,
+                "fill": false,
+                "colors": false,
+                "colorLinkGroup": false,
+                "draggable": false,
+                "rotatable": false,
+                "resizable": false,
+                "removable": false,
+                "zChangeable": false,
+                "scaleX": 1,
+                "scaleY": 1,
+                "lockUniScaling": false,
+                "uniScalingUnlockable": false,
+                "angle": 0,
+             
+                "autoCenter": false,
+                "replaceInAllViews": false,
+                "autoSelect": false,
+                "topped": false,
+                "boundingBoxMode": "inside",
+                "opacity": 1,
+                "excludeFromExport": false,
+                "locked": false,
+                "showInColorSelection": false,
+                "boundingBox": false,
+                "resizeToW": 0,
+                "resizeToH": 0,
+                "filter": null,
+                "scaleMode": "fit",
+                "minScaleLimit": 0.01,
+                "advancedEditing": false,
+                "uploadZone": false
+              }
+            }
+          ]
+        },
+        {
+          "title": "White Hoodie",
+          "thumbnail": "https://demo-designprojects.com/demo/adiktiv/public/images/t-shirts/white-hoodie-back.png",
+          "options": {
+            "stageWidth": "800"
+          },
+          "elements": [
+            {
+              "title": "Back Shadow",
+              "source": "https://demo-designprojects.com/demo/adiktiv/public/images/t-shirts/white-hoodie-back.png",
+              "type": "image",
+              "parameters": {
+                "left": 400,
+                "top": 316,
+                "originX": "center",
+                "originY": "center",
+                "z": -1,
+                "fill": false,
+                "colors": 0,
+                "colorLinkGroup": 0,
+                "draggable": 0,
+                "rotatable": 0,
+                "resizable": 0,
+                "removable": 0,
+                "zChangeable": 0,
+                "scaleX": 1,
+                "scaleY": 1,
+                "lockUniScaling": false,
+                "uniScalingUnlockable": 0,
+                "angle": 0,
+            
+                "autoCenter": false,
+                "replaceInAllViews": 0,
+                "autoSelect": 0,
+                "topped": 0,
+                "boundingBoxMode": "inside",
+                "opacity": 1,
+                "excludeFromExport": 0,
+                "locked": 0,
+                "showInColorSelection": 0,
+                "boundingBox": 0,
+                "resizeToW": 0,
+                "resizeToH": 0,
+                "filter": 0,
+                "scaleMode": "fit",
+                "minScaleLimit": 0.01,
+                "advancedEditing": 0,
+                "uploadZone": 0
+              }
+            }
+          ]
+        }
+      ]
+    ]
+  }
+ 
+]
