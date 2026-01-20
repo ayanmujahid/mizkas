@@ -2131,7 +2131,7 @@ class AdminDashController extends Controller
              'slug' => $slug,
         ]);
         if (request()->hasFile('img_path')) {
-            $img_path = request()->file('img_path')->store('Uploads/services/images/' . $category->id . rand() . rand(10, 100), 'public');
+            $img_path = request()->file('img_path')->store('Uploads/productCategory/images/' . $category->id . rand() . rand(10, 100), 'public');
             $image = Product_categories::where('id', $category->id)->update(
                 [
                     'img_path' => $img_path,
@@ -2154,7 +2154,7 @@ class AdminDashController extends Controller
             'mvp' => $mvpValue,
         ]);
         if (request()->hasFile('img_path')) {
-            $img_path = request()->file('img_path')->store('Uploads/services/images/' . $request->id . rand() . rand(10, 100), 'public');
+            $img_path = request()->file('img_path')->store('Uploads/productCategory/images/' . $request->id . rand() . rand(10, 100), 'public');
             $image = Product_categories::where('id', $request->id)->update(
                 [
 
