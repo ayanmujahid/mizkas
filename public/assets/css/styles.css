@@ -7745,7 +7745,9 @@ header.header-bg {
   height: auto;
 }
 .tf-sw-collection .swiper-slide img {
-  height: 100%;
+    height: 100%;
+    /* gap: 661px !important; */
+    margin: 0px 0px 0px -24px;
 }
 
 .tf-banner-collection {
