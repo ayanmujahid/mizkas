@@ -78,7 +78,7 @@
 <section class="flat-spacing-12 bg_grey-3">
     <div class="container">
         <div class="flat-title flex-row justify-content-between align-items-center px-0 wow fadeInUp" data-wow-delay="0s">
-            <h3 class="title">Categories</h3>
+            <h3 class="title">Collections</h3>
             <a href="{{ route('products') }}" class="tf-btn btn-line">View all categories<i class="icon icon-arrow1-top-left"></i></a>
         </div>
         <div class="hover-sw-nav hover-sw-2">
@@ -381,7 +381,7 @@
                             </div>
                             <div class="content">
                                 <div class="title fw-4">Free Shipping</div>
-                                <p>Free shipping over order PKR2999</p>
+                                <p>Free shipping over order PKR5999</p>
                             </div>
                         </div>
                     </div>

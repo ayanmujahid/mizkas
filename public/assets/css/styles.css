@@ -7537,9 +7537,11 @@ header.header-bg {
   position: relative;
 }
 .collection-item-circle .collection-image {
-  border-radius: 50%;
-  overflow: hidden;
-  display: block;
+    /* border-radius: 50%; */
+    overflow: hidden;
+    display: block;
+    width: 200px;
+    height: 358px;
 }
 .collection-item-circle .collection-content {
   margin-top: 15px;

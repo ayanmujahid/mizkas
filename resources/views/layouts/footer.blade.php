@@ -45,25 +45,25 @@
                                 </div>
                                 <ul class="footer-menu-list tf-collapse-content">
                                     <li>
-                                        <a href="privacy-policy.html" class="footer-menu_item">Privacy Policy</a>
+                                        <a href="{{route('privacyPolicy')}}" class="footer-menu_item">Privacy Policy</a>
                                     </li>
-                                    <li>
+                                    <!-- <li>
                                         <a href="delivery-return.html" class="footer-menu_item"> Returns + Exchanges
                                         </a>
-                                    </li>
-                                    <li>
+                                    </li> -->
+                                    <!-- <li>
                                         <a href="shipping-delivery.html" class="footer-menu_item">Shipping</a>
-                                    </li>
+                                    </li> -->
                                     <li>
-                                        <a href="terms-conditions.html" class="footer-menu_item">Terms &amp;
+                                        <a href="{{route('termsAndConditions')}}" class="footer-menu_item">Terms &amp;
                                             Conditions</a>
                                     </li>
                                     <li>
                                         <a href="{{route('faq')}}" class="footer-menu_item">FAQ’s</a>
                                     </li>
-                                    <li>
+                                    <!-- <li>
                                         <a href="compare.html" class="footer-menu_item">Compare</a>
-                                    </li>
+                                    </li> -->
                                     <li>
                                         <a href="{{route('wishlist')}}" class="footer-menu_item">My Wishlist</a>
                                     </li>

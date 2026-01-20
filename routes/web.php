@@ -15,11 +15,11 @@ use App\Http\Controllers\DashboardController;
 
 
 // ---------------------------------------All View Pages---------------------------------------
-Route::domain('nohfil.com')->group(function () {
-    Route::any('{any}', function () {
-        return redirect()->to('https://nohfil.store/' . request()->path(), 301);
-    })->where('any', '.*');
-});
+// Route::domain('nohfil.com')->group(function () {
+//     Route::any('{any}', function () {
+//         return redirect()->to('https://nohfil.store/' . request()->path(), 301);
+//     })->where('any', '.*');
+// });
 Route::get('/about', [IndexController::class, 'about'])->name('about');
 Route::get('/thank-you', [CartController::class, 'thankyou'])->name('thank-you');
 // Route::get('/policy', [IndexController::class, 'policy'])->name('policy');
@@ -58,6 +58,8 @@ Route::get('/', [IndexController::class, 'index'])->name('welcome');
 Route::get('/home', [IndexController::class, 'index'])->name('home');
 Route::get('/login', [IndexController::class, 'login'])->name('login');
 Route::get('/signup', [IndexController::class, 'signup'])->name('signup');
+Route::get('/privacy-policy', [IndexController::class, 'privacyPolicy'])->name('privacyPolicy');
+Route::get('/terms-and-conditions', [IndexController::class, 'termsAndConditions'])->name('termsAndConditions');
 Route::get('/check-slug', [IndexController::class, 'check_slug'])->name('check_slug');
 Route::post('/save-design-image', [IndexController::class, 'save_design_image']);
 

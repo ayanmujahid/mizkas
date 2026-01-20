@@ -98,7 +98,7 @@
                 <div class="wrap-announcement-bar">
                     <div class="box-sw-announcement-bar speed-1">
                         <div class="announcement-bar-item">
-                            <p>FREE SHIPPING ALL OVER PAKISTAN OVER RS 5000/-</p>
+                            <p>FREE SHIPPING ALL OVER PAKISTAN OVER RS 5999/-</p>
                         </div>
                         <div class="announcement-bar-item">
                             <p>7 Days Return Exchange Policy</p>
@@ -107,7 +107,7 @@
                             <p>LIMITED TIME OFFER: FASHION SALE YOU CAN'T RESIST</p>
                         </div> 
                         <div class="announcement-bar-item">
-                            <p>FREE SHIPPING ALL OVER PAKISTAN OVER RS 5000/-</p>
+                            <p>FREE SHIPPING ALL OVER PAKISTAN OVER RS 5999/-</p>
                         </div>
                         <div class="announcement-bar-item">
                             <p>7 Days Return Exchange Policy</p>
@@ -116,7 +116,7 @@
                             <p>LIMITED TIME OFFER: FASHION SALE YOU CAN'T RESIST</p>
                         </div> 
                         <div class="announcement-bar-item">
-                            <p>FREE SHIPPING ALL OVER PAKISTAN OVER RS 5000/-</p>
+                            <p>FREE SHIPPING ALL OVER PAKISTAN OVER RS 5999/-</p>
                         </div>
                         <div class="announcement-bar-item">
                             <p>7 Days Return Exchange Policy</p>
@@ -125,7 +125,7 @@
                             <p>LIMITED TIME OFFER: FASHION SALE YOU CAN'T RESIST</p>
                         </div> 
                         <div class="announcement-bar-item">
-                            <p>FREE SHIPPING ALL OVER PAKISTAN OVER RS 5000/-</p>
+                            <p>FREE SHIPPING ALL OVER PAKISTAN OVER RS 5999/-</p>
                         </div>
                         <div class="announcement-bar-item">
                             <p>7 Days Return Exchange Policy</p>
@@ -134,7 +134,7 @@
                             <p>LIMITED TIME OFFER: FASHION SALE YOU CAN'T RESIST</p>
                         </div> 
                         <div class="announcement-bar-item">
-                            <p>FREE SHIPPING ALL OVER PAKISTAN OVER RS 5000/-</p>
+                            <p>FREE SHIPPING ALL OVER PAKISTAN OVER RS 5999/-</p>
                         </div>
                         <div class="announcement-bar-item">
                             <p>7 Days Return Exchange Policy</p>
