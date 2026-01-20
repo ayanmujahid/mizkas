@@ -56,7 +56,7 @@
                 </div>
 
                 <!-- Thumbnail Slider (hidden on mobile) -->
-                <div class="swiper mySwiperThumbs mt-3 d-none d-md-block">
+                <div class="swiper mySwiperThumbs mt-3  d-md-block">
                     <div class="swiper-wrapper">
 
                         <div class="swiper-slide">
