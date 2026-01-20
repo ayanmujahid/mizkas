@@ -87,10 +87,11 @@ class IndexController extends Controller
 public function privacyPolicy(){
     return view('privacy-policy')->with('title','Privacy Policy');
 }
-
 public function termsAndConditions(){
-    return view('terms-and-conditions')->with('title','Terms and Conditions');
+    return view('terms-and-conditons')->with('title','Terms And Conditions');
 }
+
+
     
     public function customizer(Request $request)
     {
