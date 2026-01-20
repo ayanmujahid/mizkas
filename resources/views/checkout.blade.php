@@ -208,8 +208,7 @@
             });
             $.ajax({
                 type: 'POST',
-                url: '{{ route('
-                placeorder ') }}',
+                url: '{{ route('placeorder') }}',
                 data: data,
                 enctype: 'multipart/form-data',
                 processData: false, // tell jQuery not to process the data
