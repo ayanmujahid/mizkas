@@ -45,9 +45,9 @@ class IndexController extends Controller
     {
         $subcats = Sub_category::get();
         $categories = Product_categories::where('is_active', 1)
-    ->withCount('products') // Eager load the product count
-    ->orderBy('title', 'asc')
-    ->get();
+            ->withCount('products') // Eager load the product count
+            ->orderBy('title', 'asc')
+            ->get();
         $logo = Imagetable::where('table_name', "logo")->latest()->first();
         View()->share('logo', $logo);
         View()->share('config', $this->getConfig());
@@ -71,32 +71,34 @@ class IndexController extends Controller
         $data = compact('sliders');
         return view('services')->with('title', 'Services')->with($data);
     }
-    
-      public function wishlist()
+
+    public function wishlist()
     {
-        $wishlist = Wishlist::where('user_id',Auth::id())->first();
-        $banner = Imagetable::where('table_name','wishlist-banner')->where('type',2)->where('is_active_img',1)->first();
-        return view('wishlist')->with('title','Wishlist')->with(compact('banner','wishlist'))->with('wishlistsmenu',true);
+        $wishlist = Wishlist::where('user_id', Auth::id())->first();
+        $banner = Imagetable::where('table_name', 'wishlist-banner')->where('type', 2)->where('is_active_img', 1)->first();
+        return view('wishlist')->with('title', 'Wishlist')->with(compact('banner', 'wishlist'))->with('wishlistsmenu', true);
     }
     public function count()
-{
-    $count = Wishlist::where('user_id', Auth::id())->count();
-    return response()->json(['count' => $count]);
-}
+    {
+        $count = Wishlist::where('user_id', Auth::id())->count();
+        return response()->json(['count' => $count]);
+    }
 
-public function privacyPolicy(){
-    return view('privacy-policy')->with('title','Privacy Policy');
-}
-public function termsAndConditions(){
-    return view('terms-and-conditons')->with('title','Terms And Conditions');
-}
+    public function privacyPolicy()
+    {
+        return view('privacy-policy')->with('title', 'Privacy Policy');
+    }
+    public function termsAndConditions()
+    {
+        return view('terms-and-conditons')->with('title', 'Terms And Conditions');
+    }
 
 
-    
+
     public function customizer(Request $request)
     {
         // dd($request->all());
-       
+
         $category_id = $request->category_id;
         $sub_category_id = $request->sub_category_id;
         $product_id = $request->product_id;
@@ -113,19 +115,19 @@ public function termsAndConditions(){
         // $banner = Imagetable::where('table_name','services-banner')->where('type',2)->where('is_active_img',1)->first();
         // $services = Services::where('is_active',1)->latest()->paginate(8);
         $variation = Variation::where('id', $variation_id)->first();
-        return view('customizer-2')->with('title','Customizer')->with(compact('product_id','price','variation'))->with('customizermenu',true);
+        return view('customizer-2')->with('title', 'Customizer')->with(compact('product_id', 'price', 'variation'))->with('customizermenu', true);
     }
     public function customizer2($variation)
     {
         // dd($variation);
-        return view('customizer-2',compact('variation'))->with('title','Customizer');
+        return view('customizer-2', compact('variation'))->with('title', 'Customizer');
     }
-    
+
     public function services_detail($slug = null)
     {
-        $service= Services::all()->where('slug', $slug)->first();;
+        $service = Services::all()->where('slug', $slug)->first();;
         $sliders = Imagetable::where('table_name', 'services')->where('type', 2)->where('is_active_img', 1)->get();
-        $data = compact('sliders','service');
+        $data = compact('sliders', 'service');
         return view('services-detail')->with('title', 'Services')->with($data);
     }
 
@@ -150,7 +152,7 @@ public function termsAndConditions(){
         $data = compact('sliders');
         return view('black-white-check')->with('title', 'Black White Check')->with($data);
     }
-    
+
     public function user_verification($user_id)
     {
         $sliders = Imagetable::where('table_name', 'cart')->where('type', 2)->where('is_active_img', 1)->get();
@@ -189,39 +191,39 @@ public function termsAndConditions(){
     //     }
     // }
 
-public function checkout($ref = null)
-{
-    $sliders = Imagetable::where('table_name', 'checkout')
-        ->where('type', 2)
-        ->where('is_active_img', 1)
-        ->get();
+    public function checkout($ref = null)
+    {
+        $sliders = Imagetable::where('table_name', 'checkout')
+            ->where('type', 2)
+            ->where('is_active_img', 1)
+            ->get();
 
-    $sub_total = 0; // Initialize $sub_total
-    $total = 0; // Initialize $total
+        $sub_total = 0; // Initialize $sub_total
+        $total = 0; // Initialize $total
 
-    // Clear shipping session if any GET parameters are present
-    if (isset($_GET) && !empty($_GET)) {
-        Session::forget('shipping');
-    }
-
-    // Check if the cart session exists and is not empty
-    if (Session::has('cart') && !empty(Session::get('cart'))) {
-        $cart_data = Session::get('cart');
-
-        // Calculate $sub_total and $total based on cart_data
-        foreach ($cart_data as $key => $value) {
-            if ($key != 'order_id') {
-                $sub_total += $value['sub_total'];
-                $total += $value['sub_total']; // Assuming $total is based on the same logic as $sub_total
-            }
+        // Clear shipping session if any GET parameters are present
+        if (isset($_GET) && !empty($_GET)) {
+            Session::forget('shipping');
         }
 
-        return view('checkout')->with('title', 'Checkout')
-            ->with(compact('cart_data', 'ref', 'sliders', 'sub_total', 'total'));
-    } else {
-        return redirect()->route('cart')->with('notify_error', 'Your Cart Is Empty!');
+        // Check if the cart session exists and is not empty
+        if (Session::has('cart') && !empty(Session::get('cart'))) {
+            $cart_data = Session::get('cart');
+
+            // Calculate $sub_total and $total based on cart_data
+            foreach ($cart_data as $key => $value) {
+                if ($key != 'order_id') {
+                    $sub_total += $value['sub_total'];
+                    $total += $value['sub_total']; // Assuming $total is based on the same logic as $sub_total
+                }
+            }
+
+            return view('checkout')->with('title', 'Checkout')
+                ->with(compact('cart_data', 'ref', 'sliders', 'sub_total', 'total'));
+        } else {
+            return redirect()->route('cart')->with('notify_error', 'Your Cart Is Empty!');
+        }
     }
-}
 
 
 
@@ -262,37 +264,71 @@ public function checkout($ref = null)
     //     return view('product-detail')->with('title', 'Product Details')->with($data);
     // }
     public function product_detail($slug)
-    {
-        $faqs = Faq::get();
-        $product = Products::with('get_categories')->where('slug', $slug)->first();
-        $product_other_imgs = Product_images::where('product_id', $product->id)->get();
-        $reviews = Review::where("is_active", 1)->where("product_id", $product->id)->get();
-        $sliders = Imagetable::where('table_name', 'productDetail')->where('type', 2)->where('is_active_img', 1)->get();
-        $variations = Variation::where('product_id', $product->id)->where('is_active', 1)->get();
-    
-        $size_ids = [];
-        $color_ids = [];
-        foreach ($variations as $variation) {
-            if (!in_array($variation->color_id, $color_ids)) {
-                $color_ids[] = $variation->color_id;
-            }
-            if (!in_array($variation->size_id, $size_ids)) {
-                $size_ids[] = $variation->size_id;
-            }
-        }
-    
-        $sizes = Size::whereIn('id', $size_ids)->get();
-        $colors = Color::whereIn('id', $color_ids)->get();
-    
-        // Check if product belongs to "Customized Products" category
-        $is_customized_category = $product->get_categories->slug === 'customized-products';
-    
-        $data = compact('sliders', 'product', 'product_other_imgs', 'reviews', 'faqs', 'colors', 'sizes', 'variations', 'is_customized_category');
-        return view('product-detail')->with('title', 'Product Details')->with($data);
+{
+    $faqs = Faq::get();
+
+    $product = Products::with('get_categories')
+        ->where('slug', $slug)
+        ->firstOrFail();
+
+    $product_other_imgs = Product_images::where('product_id', $product->id)->get();
+
+    $reviews = Review::where("is_active", 1)
+        ->where("product_id", $product->id)
+        ->get();
+
+    $sliders = Imagetable::where('table_name', 'productDetail')
+        ->where('type', 2)
+        ->where('is_active_img', 1)
+        ->get();
+
+    $variations = Variation::where('product_id', $product->id)
+        ->where('is_active', 1)
+        ->get();
+
+    $size_ids = [];
+    $color_ids = [];
+
+    foreach ($variations as $variation) {
+        $size_ids[]  = $variation->size_id;
+        $color_ids[] = $variation->color_id;
     }
-    
-    
-    public function check_product_variation(Request $request){
+
+    $sizes  = Size::whereIn('id', array_unique($size_ids))->get();
+    $colors = Color::whereIn('id', array_unique($color_ids))->get();
+
+    // Check if product belongs to "Customized Products" category
+    $is_customized_category = optional($product->get_categories)->slug === 'customized-products';
+
+    // ✅ Related products (same category, limit 4)
+    $relatedProduct = Products::where('category_id', $product->category_id)
+        ->where('id', '!=', $product->id)
+        ->where('is_active', 1) // optional, if you have this column
+        ->limit(4)
+        ->get();
+
+    $data = compact(
+        'sliders',
+        'product',
+        'product_other_imgs',
+        'reviews',
+        'faqs',
+        'colors',
+        'sizes',
+        'variations',
+        'is_customized_category',
+        'relatedProduct'
+    );
+
+    return view('product-detail')
+        ->with('title', 'Product Details')
+        ->with($data);
+}
+
+
+
+    public function check_product_variation(Request $request)
+    {
         $sizeId = $request->input('size_id');
         $colorId = $request->input('color_id');
         $productId = $request->input('product_id');
@@ -300,9 +336,9 @@ public function checkout($ref = null)
         // Perform logic to fetch price and variation ID based on size, color, and product
         // For example, you might query the database
         $variation = Variation::where('size_id', $sizeId)
-                            ->where('color_id', $colorId)
-                            ->where('product_id', $productId)
-                            ->first();
+            ->where('color_id', $colorId)
+            ->where('product_id', $productId)
+            ->first();
 
         // Check if the variation exists
         if ($variation) {
@@ -313,8 +349,8 @@ public function checkout($ref = null)
                 'variation_id' => $variation->id,
                 'stock_available' => $variation->stock > 0,
                 'stock' => $variation->stock,
-                'front_image' => ($variation->img_path != null ) ? asset($variation->img_path) : asset('admin/images/placeholder.png'),
-                'back_image' => ($variation->back_image != null ) ? asset($variation->back_image) : asset('admin/images/placeholder.png'),
+                'front_image' => ($variation->img_path != null) ? asset($variation->img_path) : asset('admin/images/placeholder.png'),
+                'back_image' => ($variation->back_image != null) ? asset($variation->back_image) : asset('admin/images/placeholder.png'),
             ]);
         } else {
             // Variation not found
@@ -513,91 +549,91 @@ public function checkout($ref = null)
 
 
     public function products($slug = null, $subSlug = null)
-{
-    $subcats = Sub_category::get();
-    $search_query = isset($_GET['search']) ? $_GET['search'] : null;
-    $sort_option = isset($_GET['sort']) ? $_GET['sort'] : 'is_featured'; // Default to 'featured'
+    {
+        $subcats = Sub_category::get();
+        $search_query = isset($_GET['search']) ? $_GET['search'] : null;
+        $sort_option = isset($_GET['sort']) ? $_GET['sort'] : 'is_featured'; // Default to 'featured'
 
-    $activeCategories = Product_categories::where('is_active', 1)->orderBy('title', 'asc')->pluck('id');
-    $productsQuery = Products::where('is_active', 1)->whereIn('category_id', $activeCategories);
-    $categories = Product_categories::withCount('products')->get();
-    $totalProducts = Products::count();
+        $activeCategories = Product_categories::where('is_active', 1)->orderBy('title', 'asc')->pluck('id');
+        $productsQuery = Products::where('is_active', 1)->whereIn('category_id', $activeCategories);
+        $categories = Product_categories::withCount('products')->get();
+        $totalProducts = Products::count();
 
-    // Filtering by category and subcategory
-    if ($slug) {
-        $category = Product_categories::where('slug', $slug)->orderBy('title', 'asc')->first();
+        // Filtering by category and subcategory
+        if ($slug) {
+            $category = Product_categories::where('slug', $slug)->orderBy('title', 'asc')->first();
 
-        if ($category && $category->is_active) {
-            if ($category->has_subcategories) {
-                return redirect()->route('products_cate', ['slug' => $slug]);
-            }
+            if ($category && $category->is_active) {
+                if ($category->has_subcategories) {
+                    return redirect()->route('products_cate', ['slug' => $slug]);
+                }
 
-            $productsQuery->where('category_id', $category->id);
+                $productsQuery->where('category_id', $category->id);
 
-            if ($subSlug) {
-                $productsQuery->whereHas('subcategory', function ($query) use ($subSlug, $category) {
-                    $query->where('slug', $subSlug)->where('category_id', $category->id)->where('is_active', 1);
-                });
+                if ($subSlug) {
+                    $productsQuery->whereHas('subcategory', function ($query) use ($subSlug, $category) {
+                        $query->where('slug', $subSlug)->where('category_id', $category->id)->where('is_active', 1);
+                    });
+                }
             }
         }
+
+        // Searching products by title
+        if ($search_query) {
+            $productsQuery->where('title', 'like', '%' . $search_query . '%');
+        }
+
+        // Sorting
+        switch ($sort_option) {
+            case 'best-selling':
+                $productsQuery->orderBy('is_featured', 'desc'); // Assuming 'sales' is a column
+                break;
+            case 'alphabetical-asc':
+                $productsQuery->orderBy('title', 'asc');
+                break;
+            case 'alphabetical-desc':
+                $productsQuery->orderBy('title', 'desc');
+                break;
+            case 'price-asc':
+                $productsQuery->orderBy('price', 'asc');
+                break;
+            case 'price-desc':
+                $productsQuery->orderBy('price', 'desc');
+                break;
+            case 'date-asc':
+                $productsQuery->orderBy('created_at', 'asc');
+                break;
+            case 'date-desc':
+                $productsQuery->orderBy('created_at', 'desc');
+                break;
+            default:
+                $productsQuery->orderBy('created_at', 'desc'); // Show latest products first
+                break;
+                // default:
+                // $productsQuery->orderBy('is_featured', 'desc'); // Default sorting by featured
+                // break;
+        }
+
+        $products = $productsQuery->get();
+        $sliders = Imagetable::where('table_name', 'products')->where('type', 2)->where('is_active_img', 1)->get();
+        $data = compact('sliders', 'products', 'activeCategories', 'subcats', 'categories', 'totalProducts', 'slug');
+
+        return view('products')->with('title', 'Products')->with($data);
     }
 
-    // Searching products by title
-    if ($search_query) {
-        $productsQuery->where('title', 'like', '%' . $search_query . '%');
+    public function productsCate($slug = null)
+    {
+        $category = Product_categories::where('slug', $slug)->first();
+
+        if (!$category || !$category->is_active) {
+            // Handle non-existent or inactive category, redirect to a default page or show an error
+            return redirect()->route('default_route');
+        }
+
+        $subcategories = Sub_category::where('category_id', $category->id)->where('is_active', 1)->get();
+
+        return view('products-cate')->with('title', 'Products by Category')->with('category', $category)->with('subcategories', $subcategories);
     }
-
-    // Sorting
-    switch ($sort_option) {
-        case 'best-selling':
-            $productsQuery->orderBy('is_featured', 'desc'); // Assuming 'sales' is a column
-            break;
-        case 'alphabetical-asc':
-            $productsQuery->orderBy('title', 'asc');
-            break;
-        case 'alphabetical-desc':
-            $productsQuery->orderBy('title', 'desc');
-            break;
-        case 'price-asc':
-            $productsQuery->orderBy('price', 'asc');
-            break;
-        case 'price-desc':
-            $productsQuery->orderBy('price', 'desc');
-            break;
-        case 'date-asc':
-            $productsQuery->orderBy('created_at', 'asc');
-            break;
-        case 'date-desc':
-            $productsQuery->orderBy('created_at', 'desc');
-            break;
-        default:
-            $productsQuery->orderBy('created_at', 'desc'); // Show latest products first
-            break;
-            // default:
-            // $productsQuery->orderBy('is_featured', 'desc'); // Default sorting by featured
-            // break;
-    }
-
-    $products = $productsQuery->get();
-    $sliders = Imagetable::where('table_name', 'products')->where('type', 2)->where('is_active_img', 1)->get();
-    $data = compact('sliders', 'products', 'activeCategories', 'subcats', 'categories', 'totalProducts', 'slug');
-
-    return view('products')->with('title', 'Products')->with($data);
-}
-
-public function productsCate($slug = null)
-{
-    $category = Product_categories::where('slug', $slug)->first();
-
-    if (!$category || !$category->is_active) {
-        // Handle non-existent or inactive category, redirect to a default page or show an error
-        return redirect()->route('default_route');
-    }
-
-    $subcategories = Sub_category::where('category_id', $category->id)->where('is_active', 1)->get();
-
-    return view('products-cate')->with('title', 'Products by Category')->with('category', $category)->with('subcategories', $subcategories);
-}
 
 
 
@@ -607,15 +643,15 @@ public function productsCate($slug = null)
     //     $subcats = Sub_category::get();
     //     $search_query = isset($_GET['search']) ? $_GET['search'] : null;
     //     $activeCategories = Product_categories::where('is_active', 1)->orderBy('title', 'asc')->pluck('id');
-    
+
     //     $productsQuery = Products::where('is_active', 1)->whereIn('category_id', $activeCategories);
-    
+
     //     if ($slug) {
     //         $category = Product_categories::where('slug', $slug)->orderBy('title', 'asc')->first();
-    
+
     //         if ($category && $category->is_active) {
     //             $productsQuery->where('category_id', $category->id);
-    
+
     //             if ($subSlug) {
     //                 $productsQuery->whereHas('subcategory', function ($query) use ($subSlug, $category) {
     //                     $query->where('slug', $subSlug)->where('category_id', $category->id)->where('is_active', 1);
@@ -623,20 +659,20 @@ public function productsCate($slug = null)
     //             }
     //         }
     //     }
-    
+
     //     if ($search_query) {
     //         $productsQuery->where('title', 'like', '%' . $search_query . '%');
     //     }
-    
+
     //     $products = $productsQuery->get();
-    
+
     //     $sliders = Imagetable::where('table_name', 'products')->where('type', 2)->where('is_active_img', 1)->get();
-    
+
     //     $data = compact('sliders', 'products', 'activeCategories', 'subcats');
-    
+
     //     return view('products')->with('title', 'Products')->with($data);
     // }
-    
+
 
     public function index()
     {
@@ -647,8 +683,8 @@ public function productsCate($slug = null)
 
         // Retrieve featured and active products from active categories
         $activeCategories = Product_categories::where('is_active', 1)
-    ->orderBy('title', 'asc')
-    ->pluck('id');
+            ->orderBy('title', 'asc')
+            ->pluck('id');
         $products = Products::where('is_featured', 1)
             ->where('is_active', 1)
             ->whereIn('category_id', $activeCategories)

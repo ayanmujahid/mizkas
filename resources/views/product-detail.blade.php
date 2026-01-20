@@ -1,21 +1,6 @@
 @extends('layouts.main')
 @section('content')
-<!--<section class="inner_banner">-->
-<!--    <div class="inner_bg">-->
-<!--        <img src="{{ asset('assets/images/inner_banner.png') }}" alt='' class='img__cover'>-->
-<!--    </div>-->
-<!--    <div class="inner_img inner_img--new"><img src="{{ asset('assets/images/inner_banner/3.png') }}" alt=''-->
-<!--            class='img__contain'></div>-->
-<!--    <div class="container">-->
-<!--        <div class="row">-->
-<!--            <div class="col-md-6">-->
-<!--                <div class="inner_bannerCon">-->
-<!--                    <h3>PRODUCT DETAIL</h3>-->
-<!--                </div>-->
-<!--            </div>-->
-<!--        </div>-->
-<!--    </div>-->
-<!--</section>-->
+
 <section class="product-detail_section">
     <div class="container">
         <div class="row ">
@@ -94,7 +79,7 @@
                         <li>Shipping 4 to 5 business days</li>
                     </ul>
                     <div class="sizesSelectorMain ">
-                        <p>Size : <span class="size-selector"></span></p>
+                        <!-- <p>Size : <span class="size-selector"></span></p> -->
                         <ul class="sizes">
                             @foreach($sizes as $size)
 
@@ -151,9 +136,10 @@
                                 </div>
                             </div>
                             <input type="hidden" name="product_id" value="{{ $product->id }}">
-                            <input type="hidden" id="cart-price" name="price" value="">
+                            <input type="hidden" id="cart-price" name="price" value="{{ $product->price }}">
+
                             <input type="hidden" name="variation_id" value="">
-                            <button type="submit" class="btn w-100" id="add-to-cart-btn" disabled>Add to Cart</button>
+                            <button type="submit" class="add to cart btn w-100">Add to Cart</button>
                         </form>
                         {{-- <a href="{{ route('cart') }}" class="btn">Add to Cart |
                         USD{{ $product->price }}</a> --}}
@@ -336,6 +322,32 @@
         </div>
     </div>
 </section>
+@if($relatedProduct->count())
+<div class="rp-wrapper">
+    <h3 class="rp-heading">You may also like</h3>
+
+    <div class="row">
+        @foreach($relatedProduct as $item)
+            <div class="col-md-3 col-sm-6 mb-4">
+                <div class="rp-card">
+                    <a href="{{ route('product-detail', $item->slug) }}" class="rp-link">
+                        <div class="rp-image-box">
+                            <img src="{{ asset($item->img_path) }}" alt="{{ $item->name }}">
+                        </div>
+
+                        <div class="rp-content">
+                            <h5 class="rp-title">{{ $item->name }}</h5>
+                            <span class="rp-price">${{ number_format($item->price, 2) }}</span>
+                        </div>
+                    </a>
+                </div>
+            </div>
+        @endforeach
+    </div>
+</div>
+@endif
+
+
 <!-- Footer -->
 @endsection
 @section('css')
@@ -415,6 +427,100 @@
     }
 </style>
 <style>
+/* ===== Related Products (Premium) ===== */
+.rp-wrapper {
+    margin-top: 80px;
+}
+
+.rp-heading {
+    font-size: 22px;
+    font-weight: 500;
+    letter-spacing: 0.3px;
+    margin-bottom: 35px;
+    color: #111;
+}
+
+/* Card */
+.rp-card {
+    background: #ffffff;
+    border-radius: 18px;
+    overflow: hidden;
+    transition: transform 0.35s ease, box-shadow 0.35s ease;
+    box-shadow: 0 12px 30px rgba(0, 0, 0, 0.06);
+    height: 100%;
+}
+
+.rp-link {
+    display: block;
+    text-decoration: none;
+    color: inherit;
+}
+
+/* Image */
+.rp-image-box {
+    position: relative;
+    background: #f7f7f7;
+    overflow: hidden;
+}
+
+.rp-image-box img {
+    width: 100%;
+    height: 280px;
+    object-fit: cover;
+    transition: transform 0.5s ease;
+}
+
+/* Content */
+.rp-content {
+    padding: 18px 16px 22px;
+    text-align: center;
+}
+
+.rp-title {
+    font-size: 15px;
+    font-weight: 400;
+    color: #222;
+    margin-bottom: 8px;
+    line-height: 1.5;
+}
+
+/* Price */
+.rp-price {
+    font-size: 15px;
+    font-weight: 500;
+    color: #000;
+}
+
+/* Hover — subtle & premium */
+.rp-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 20px 45px rgba(0, 0, 0, 0.10);
+}
+
+.rp-card:hover .rp-image-box img {
+    transform: scale(1.06);
+}
+button.add.to.cart.btn.w-100 {
+    border: 1px solid;
+    color: white;
+    background: #000;
+}
+
+button.add.to.cart.btn.w-100:hover {
+    background: #fff;
+    color: #000;
+}
+
+/* Mobile */
+@media (max-width: 768px) {
+    .rp-image-box img {
+        height: 220px;
+    }
+
+    .rp-heading {
+        font-size: 20px;
+    }
+}
 
 </style>
 
@@ -761,7 +867,8 @@
                 try {
                     activeDestroyFn();
                 } catch (e) {
-                    /* ignore */ }
+                    /* ignore */
+                }
                 activeDestroyFn = null;
             }
 

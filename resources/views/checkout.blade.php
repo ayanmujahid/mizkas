@@ -1,13 +1,13 @@
 @extends('layouts.main')
 @section('content')
-  <!-- page-title -->
-  <div class="tf-page-title">
+<!-- page-title -->
+<div class="tf-page-title">
     <div class="container-full">
         <div class="heading text-center">Check Out</div>
     </div>
 </div>
-  <!-- page-cart -->
-  <section class="flat-spacing-11">
+<!-- page-cart -->
+<section class="flat-spacing-11">
     <div class="container">
         <div class="tf-page-cart-wrap layout-2">
             <div class="tf-page-cart-item">
@@ -20,14 +20,14 @@
                             <input type="text" name="fname" id="first-name" placeholder="Themesflat" value="{{old('fname')}}">
                             @if ($errors->has('fname'))
                             <span class="text-danger">{{ $errors->first('fname') }}</span>
-                        @endif
+                            @endif
                         </fieldset>
                         <fieldset class="fieldset">
                             <label for="last-name">Last Name</label>
                             <input type="text" name="lname" id="last-name" value="{{old('lname')}}">
                             @if ($errors->has('lname'))
                             <span class="text-danger">{{ $errors->first('lname') }}</span>
-                        @endif
+                            @endif
                         </fieldset>
                     </div>
                     <fieldset class="box fieldset">
@@ -72,21 +72,21 @@
                         <label for="city">Town/City</label>
                         <input type="text" name="town" id="city" value="{{old('town')}}">
                         @if ($errors->has('town'))
-                            <span class="text-danger">{{ $errors->first('town') }}</span>
+                        <span class="text-danger">{{ $errors->first('town') }}</span>
                         @endif
                     </fieldset>
                     <fieldset class="box fieldset">
                         <label for="address">Address</label>
                         <input type="text" name="address" id="address" value="{{old('address')}}">
                         @if ($errors->has('address'))
-                            <span class="text-danger">{{ $errors->first('address') }}</span>
+                        <span class="text-danger">{{ $errors->first('address') }}</span>
                         @endif
                     </fieldset>
                     <fieldset class="box fieldset">
                         <label for="phone">Phone Number</label>
                         <input type="number" name="phone" id="phone" value="{{old('phone')}}">
                         @if ($errors->has('phone'))
-                            <span class="text-danger">{{ $errors->first('phone') }}</span>
+                        <span class="text-danger">{{ $errors->first('phone') }}</span>
                         @endif
                     </fieldset>
                     <fieldset class="box fieldset">
@@ -94,42 +94,42 @@
                         <input type="email" id="email" name="email" value="{{old('email')}}">
                         @if ($errors->has('email'))
                         <span class="text-danger">{{ $errors->first('email') }}</span>
-                    @endif
+                        @endif
                     </fieldset>
                     <fieldset class="box fieldset">
                         <label for="note">Order notes (optional)</label>
                         <textarea name="note" id="note"></textarea>
                     </fieldset>
-                
+
             </div>
             <?php $ser = serialize($cart_data);
-                            Session::put('ser', $ser); ?>
+            Session::put('ser', $ser); ?>
             <?php $num = 01;
             $total = 0;
             $sub_total = 0; ?>
             @foreach ($cart_data as $key => $value)
-                <?php
+            <?php
 
-                if($key != 'order_id'){
-                    
-                    $total += $value['sub_total'];
-                    $sub_total += $value['sub_total'];
-                    $num++; 
-                }
-                ?>
+            if ($key != 'order_id') {
+
+                $total += $value['sub_total'];
+                $sub_total += $value['sub_total'];
+                $num++;
+            }
+            ?>
             @endforeach
             <div class="tf-page-cart-footer">
                 <div class="tf-cart-footer-inner">
                     <h5 class="fw-5 mb_20">Your order</h5>
                     <?php
-                                $cart = Session::get('cart');
-                                ?>
+                    $cart = Session::get('cart');
+                    ?>
 
-            @foreach ($cart_data as $k => $v)
-            @if ($k != 'order_id')
-            @php
-            $product = App\Models\Products::where('id', $v['product_id'])->first();
-        @endphp
+                    @foreach ($cart_data as $k => $v)
+                    @if ($k != 'order_id')
+                    @php
+                    $product = App\Models\Products::where('id', $v['product_id'])->first();
+                    @endphp
                     <div class="tf-page-cart-checkout widget-wrap-checkout">
                         <ul class="wrap-checkout-product">
                             <li class="checkout-product-item">
@@ -142,7 +142,7 @@
                                         <p class="name">{{ ucfirst($product['title']) }}</p>
                                         {{-- <span class="variant">Brown / M</span> --}}
                                     </div>
-                                    <span class="price">USD {{ $v['price'] }}</span>
+                                    <span class="price">PKR {{ $v['price'] }}</span>
                                 </div>
                             </li>
                             <input type="hidden" name="product_id" value="{{ $v['product_id'] }}">
@@ -156,7 +156,7 @@
                         </div>
                         <div class="d-flex justify-content-between line pb_20">
                             <h6 class="fw-5">Total</h6>
-                            <h6 class="total fw-5">USD {{ number_format($total + $config['SHIPPINGPRICE'], 2) }}</h6>
+                            <h6 class="total fw-5">PKR {{ number_format($total + $config['SHIPPINGPRICE'], 2) }}</h6>
                             <input type="hidden" name="total_amount" value="{{ number_format($total + $config['SHIPPINGPRICE'], 2) }}">
                         </div>
                         <div class="wd-check-payment">
@@ -185,129 +185,130 @@
 </section>
 <!-- page-cart -->
 
-    <!-- Footer -->
+<!-- Footer -->
 @endsection
 @section('css')
-    <style type="text/css">
-        /*in page css here*/
-    </style>
+<style type="text/css">
+    /*in page css here*/
+</style>
 @endsection
 @section('js')
-    <script type="text/javascript">
-        (() => {
-          
+<script type="text/javascript">
+    (() => {
 
-            $("#checkout-btn").click(function(e) {
-                e.preventDefault();
-                
-                var data = new FormData(document.getElementById("add-record-form"));
-                $.ajaxSetup({
-                    headeUSD {
-                        'X-CSRF-TOKEN': $('meta[name="csrf-token"]').attr('content')
-                    }
-                });
-                $.ajax({
-                    type: 'POST',
-                    url: '{{ route('placeorder') }}',
-                    data: data,
-                    enctype: 'multipart/form-data',
-                    processData: false, // tell jQuery not to process the data
-                    contentType: false, // tell jQuery not to set contentType
-                    success: function(data) {
-                        if (data.status == 1) {
-                            $.toast({
-                                heading: 'Success!',
-                                position: 'top-right',
-                                text: data.msg,
-                                icon: 'success',
-                                hideAfter: 2500,loaderBg: '#ff6849',
-                                stack: 6
-                            });
 
-                            $('#add-record-form')[0].reset();
-                            setInterval(() => {
-                                window.location = "{{ route('stripe.post') }}";
-                            }, 2500);
-                        }
+        $("#checkout-btn").click(function(e) {
+            e.preventDefault();
 
-                        if (data.status == 2) {
-                            $.toast({
-                                heading: 'Error!',
-                                position: 'bottom-right',
-                                text: data.error,
-                                icon: 'error',
-                                hideAfter: 5000,
-                                stack: 6
-                            });
-                        }
-
-                        if (data.status == 4) {
-                            $.toast({
-                                heading: 'Error!',
-                                position: 'bottom-right',
-                                text: "Coupon is Expired",
-                                icon: 'error',
-                                hideAfter: 5000,
-                                stack: 6
-                            });
-
-                        }
-
-                        if (data.status == 0) {
-                            $.toast({
-                                heading: 'Error!',
-                                position: 'bottom-right',
-                                text: data.msg,
-                                icon: 'error',
-                                hideAfter: 5000,
-                                stack: 6
-                            });
-
-                        }
-
-                        if (data.status == 3) {
-                            $.toast({
-                                heading: 'Error!',
-                                position: 'bottom-right',
-                                text: data.msg,
-                                icon: 'error',
-                                hideAfter: 5000,
-                                stack: 6
-                            });
-                            setInterval(() => {
-
-                                window.location = "{{ route('login') }}";
-                            }, 5000);
-                        }
-
-                        if (data.status == 4) {
-                            $.toast({
-                                heading: 'Error!',
-                                position: 'bottom-right',
-                                text: data.msg,
-                                icon: 'error',
-                                hideAfter: 5000,
-                                stack: 6
-                            });
-                        }
-                    }
-                });
+            var data = new FormData(document.getElementById("add-record-form"));
+            $.ajaxSetup({
+                headeUSD {
+                    'X-CSRF-TOKEN': $('meta[name="csrf-token"]').attr('content')
+                }
             });
+            $.ajax({
+                type: 'POST',
+                url: '{{ route('
+                placeorder ') }}',
+                data: data,
+                enctype: 'multipart/form-data',
+                processData: false, // tell jQuery not to process the data
+                contentType: false, // tell jQuery not to set contentType
+                success: function(data) {
+                    if (data.status == 1) {
+                        $.toast({
+                            heading: 'Success!',
+                            position: 'top-right',
+                            text: data.msg,
+                            icon: 'success',
+                            hideAfter: 2500,
+                            loaderBg: '#ff6849',
+                            stack: 6
+                        });
 
-            // $(".statet").hide();
+                        $('#add-record-form')[0].reset();
+                        setInterval(() => {
+                            window.location = "{{ route('stripe.post') }}";
+                        }, 2500);
+                    }
 
-            // $(".country").change(function() {
-            //     var countryid = $(this).find(':selected').attr('data-countid');
-            //     if (countryid != 223) {
-            //         $(".state").hide();
-            //         $(".statet").show();
-            //         $(".state").empty();
-            //     } else {
-            //         $(".state").show();
-            //         $(".statet").hide();
-            //     }
-            // });
-        })()
-    </script>
+                    if (data.status == 2) {
+                        $.toast({
+                            heading: 'Error!',
+                            position: 'bottom-right',
+                            text: data.error,
+                            icon: 'error',
+                            hideAfter: 5000,
+                            stack: 6
+                        });
+                    }
+
+                    if (data.status == 4) {
+                        $.toast({
+                            heading: 'Error!',
+                            position: 'bottom-right',
+                            text: "Coupon is Expired",
+                            icon: 'error',
+                            hideAfter: 5000,
+                            stack: 6
+                        });
+
+                    }
+
+                    if (data.status == 0) {
+                        $.toast({
+                            heading: 'Error!',
+                            position: 'bottom-right',
+                            text: data.msg,
+                            icon: 'error',
+                            hideAfter: 5000,
+                            stack: 6
+                        });
+
+                    }
+
+                    if (data.status == 3) {
+                        $.toast({
+                            heading: 'Error!',
+                            position: 'bottom-right',
+                            text: data.msg,
+                            icon: 'error',
+                            hideAfter: 5000,
+                            stack: 6
+                        });
+                        setInterval(() => {
+
+                            window.location = "{{ route('login') }}";
+                        }, 5000);
+                    }
+
+                    if (data.status == 4) {
+                        $.toast({
+                            heading: 'Error!',
+                            position: 'bottom-right',
+                            text: data.msg,
+                            icon: 'error',
+                            hideAfter: 5000,
+                            stack: 6
+                        });
+                    }
+                }
+            });
+        });
+
+        // $(".statet").hide();
+
+        // $(".country").change(function() {
+        //     var countryid = $(this).find(':selected').attr('data-countid');
+        //     if (countryid != 223) {
+        //         $(".state").hide();
+        //         $(".statet").show();
+        //         $(".state").empty();
+        //     } else {
+        //         $(".state").show();
+        //         $(".statet").hide();
+        //     }
+        // });
+    })()
+</script>
 @endsection
-

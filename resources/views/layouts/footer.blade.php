@@ -154,7 +154,7 @@
                             <div class="col-12">
                                 <div
                                     class="footer-bottom-wrap d-flex gap-20 flex-wrap justify-content-between align-items-center">
-                                    <div class="footer-menu_item">© 2024 NOHFIL. All Rights Reserved</div>
+                                    <div class="footer-menu_item">© 2026 MIZKAS APPAREL. All Rights Reserved</div>
                                     <div class="tf-payment">
                                         <img src="images/payments/visa.png" alt="">
                                         <img src="images/payments/img-1.png" alt="">

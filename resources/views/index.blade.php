@@ -274,7 +274,7 @@
                 <div class="swiper-slide" lazy="true">
                     <div class="collection-item-v4 hover-img">
                         <div class="collection-inner">
-                            <a href="https://nohfil.com/products/tshirts" class="collection-image img-style">
+                            <a href="https://mizkasapparel.store/products/new-collection" class="collection-image img-style">
                                 <img class="lazyload" data-src="{{asset('assets/images/banners/banner1.png')}}" src="{{asset('assets/images/banners/sales-banner-01.png')}}" alt="collection-img">
                             </a>
                         </div>
@@ -283,7 +283,7 @@
                 <div class="swiper-slide" lazy="true">
                     <div class="collection-item-v4 hover-img">
                         <div class="collection-inner">
-                            <a href="https://nohfil.com/products/jackets" class="collection-image img-style">
+                            <a href="https://mizkasapparel.store/products/new-collection" class="collection-image img-style">
                                 <img class="lazyload" data-src="{{asset('assets/images/banners/sales-banner-01.png')}}" src="{{asset('assets/images/banners/banner-winter.png')}}" alt="collection-img">
                             </a>
                         </div>
@@ -292,7 +292,7 @@
                 <div class="swiper-slide" lazy="true">
                     <div class="collection-item-v4 hover-img">
                         <div class="collection-inner">
-                            <a href="https://nohfil.com/products/customized-products" class="collection-image img-style">
+                            <a href="https://mizkasapparel.store/products/new-collection" class="collection-image img-style">
                                 <img class="lazyload" data-src="{{asset('assets/images/banners/banner3.png')}}" src="{{asset('assets/images/banners/banner-new.png')}}" alt="collection-img">
                             </a>
                         </div>

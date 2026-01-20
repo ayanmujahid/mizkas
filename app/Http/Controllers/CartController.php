@@ -489,29 +489,42 @@ class CartController extends Controller
     public function updatecart(Request $request)
     {
         $rowid = $request->rowid;
-        $qty = $request->qty;
-        $cart_data = Session::get('cart');
+        $qty = (int)$request->qty;
+        $price = (float)$request->price;
 
-        $product_stock_check = Variation::where('id', $cart_data[$rowid]['variaion_id'])->first();
-        if ($product_stock_check->stock > $request->qty) {
-            $cart_data[$rowid]['quantity'] = $qty;
+        $cart = Session::get('cart', []);
 
-            $cart_data[$rowid]['sub_total'] = $request['price'] * $qty;
-            Session::forget($rowid);
-            Session::put('cart', $cart_data);
-
-            return response()->json(['status' => 1]);
-        } else {
-            return response()->json(['status' => 2]);
+        // Check if cart item exists
+        if (!isset($cart[$rowid])) {
+            return response()->json(['status' => 0, 'message' => 'Cart item not found']);
         }
 
+        // Optional: check stock if variation exists
+        if (!empty($cart[$rowid]['variaion_id'])) {
+            $variation = Variation::find($cart[$rowid]['variaion_id']);
+            if ($variation && $qty > $variation->stock) {
+                return response()->json(['status' => 2, 'message' => 'Quantity exceeds stock']);
+            }
+        }
 
-        $cart_data[$rowid]['sub_total'] = $request['price'] * $qty;
-        Session::forget($rowid);
-        Session::put('cart', $cart_data);
+        // Update quantity and sub_total
+        $cart[$rowid]['quantity'] = $qty;
+        $cart[$rowid]['sub_total'] = $price * $qty;
 
-        return response()->json(['status', 1]);
+        // Save updated cart back to session
+        Session::put('cart', $cart);
+
+        // Calculate total for all items
+        $total = collect($cart)->except('order_id')->sum('sub_total');
+
+        return response()->json([
+            'status' => 1,
+            'item_sub_total' => $cart[$rowid]['sub_total'],
+            'cart_total' => $total
+        ]);
     }
+
+
 
     public function removecart($cart_id, Request $request)
     {
