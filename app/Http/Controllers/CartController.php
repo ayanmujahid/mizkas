@@ -486,43 +486,49 @@ class CartController extends Controller
             // return redirect()->route('cart')->with('notify_success', 'Customized Product Added To Cart!');
         }
     }
-    public function updatecart(Request $request)
-    {
-        $rowid = $request->rowid;
-        $qty = (int)$request->qty;
-        $price = (float)$request->price;
+    public function updateCart(Request $request)
+{
+    $rowid = $request->rowid;
+    $qty   = (int) $request->qty;
 
-        $cart = Session::get('cart', []);
+    $cart = session()->get('cart', []);
 
-        // Check if cart item exists
-        if (!isset($cart[$rowid])) {
-            return response()->json(['status' => 0, 'message' => 'Cart item not found']);
-        }
-
-        // Optional: check stock if variation exists
-        if (!empty($cart[$rowid]['variaion_id'])) {
-            $variation = Variation::find($cart[$rowid]['variaion_id']);
-            if ($variation && $qty > $variation->stock) {
-                return response()->json(['status' => 2, 'message' => 'Quantity exceeds stock']);
-            }
-        }
-
-        // Update quantity and sub_total
-        $cart[$rowid]['quantity'] = $qty;
-        $cart[$rowid]['sub_total'] = $price * $qty;
-
-        // Save updated cart back to session
-        Session::put('cart', $cart);
-
-        // Calculate total for all items
-        $total = collect($cart)->except('order_id')->sum('sub_total');
-
-        return response()->json([
-            'status' => 1,
-            'item_sub_total' => $cart[$rowid]['sub_total'],
-            'cart_total' => $total
-        ]);
+    if (!isset($cart[$rowid])) {
+        return response()->json(['status' => 0]);
     }
+
+    // Update quantity
+    $cart[$rowid]['qty'] = $qty;
+    $cart[$rowid]['sub_total'] = $cart[$rowid]['price'] * $qty;
+
+    // Calculate subtotal
+    $subtotal = collect($cart)->sum('sub_total');
+
+    // Shipping rules
+    $freeShippingLimit = 5000;
+    $shippingPrice    = 250;
+
+    $isFreeShipping = $subtotal >= $freeShippingLimit;
+    $shipping       = $isFreeShipping ? 0 : $shippingPrice;
+
+    $grandTotal = $subtotal + $shipping;
+
+    // Save cart
+    session()->put('cart', $cart);
+
+    return response()->json([
+        'status'           => 1,
+        'rowid'            => $rowid,
+        'item_sub_total'   => $cart[$rowid]['sub_total'],
+        'subtotal'         => $subtotal,
+        'shipping'         => $shipping,
+        'grand_total'      => $grandTotal,
+        'is_free_shipping' => $isFreeShipping,
+        'remaining'        => max(0, $freeShippingLimit - $subtotal),
+    ]);
+}
+
+
 
 
 

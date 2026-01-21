@@ -122,7 +122,8 @@ Route::post('/otp', [UserController::class, 'otp_submit'])->name('otp-submit');
 
 
 // ---------------------------------------Cart---------------------------------------
-Route::post('update-cart',[CartController::class,'updatecart'])->name('update-cart');
+Route::post('/update-cart', [CartController::class, 'updatecart'])->name('update.cart');
+
 Route::get('remove-cart/{cart_id}',[CartController::class,'removecart'])->name('remove-cart');
 Route::post('/save-cart', [CartController::class, 'save_cart'])->name('save-cart');
 Route::post('/save-cart-ajax', [CartController::class, 'save_cart_ajax'])->name('save-cart-ajax');

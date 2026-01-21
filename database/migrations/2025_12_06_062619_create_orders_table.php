@@ -23,6 +23,7 @@ return new class extends Migration
             $table->string('email')->nullable();
             $table->string('company')->nullable();
             $table->string('country')->nullable();
+            $table->string('town')->nullable();
             $table->string('address')->nullable();
             $table->string('zip')->nullable();
             $table->text('note')->nullable();
