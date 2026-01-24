@@ -12,7 +12,7 @@
                                     <div class="box-content">
                                         <h1 class="heading fade-item fade-item-1">Crafted in the<br> Spirit of Tradition</h1>
                                         <p class="desc fade-item fade-item-2">Every fabric tells a story.</p>
-                                        <a href="{{ route('products') }}" class="fade-item fade-item-3 tf-btn btn-light-icon animate-hover-btn btn-xl radius-3"><span>Shop Now</span><i class="icon icon-arrow-right"></i></a>
+                                        <a href="{{ route('products') }}" class="fade-item fade-item-3 tf-btn btn-light-icon animate-hover-btn btn-xl radius-3"><span>Shop collection</span><i class="icon icon-arrow-right"></i></a>
                                     </div>
                                 </div>  
                             </div>
