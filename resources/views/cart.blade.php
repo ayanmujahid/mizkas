@@ -146,10 +146,10 @@
     <section class="flat-spacing-11">
         <div class="container">
             <!-- <div class="tf-page-cart text-center mt_140 mb_200">
-                                    <h5 class="mb_24">Your cart is empty</h5>
-                                    <p class="mb_24">You may check out all the available products and buy some in the shop</p>
-                                    <a href="shop-default.html" class="tf-btn btn-sm radius-3 btn-fill btn-icon animate-hover-btn">Return to shop<i class="icon icon-arrow1-top-left"></i></a>
-                                </div> -->
+                                        <h5 class="mb_24">Your cart is empty</h5>
+                                        <p class="mb_24">You may check out all the available products and buy some in the shop</p>
+                                        <a href="shop-default.html" class="tf-btn btn-sm radius-3 btn-fill btn-icon animate-hover-btn">Return to shop<i class="icon icon-arrow1-top-left"></i></a>
+                                    </div> -->
             <div class="tf-cart-countdown">
                 <div class="title-left">
                     <svg class="d-inline-block" xmlns="http://www.w3.org/2000/svg" width="16" height="24"
@@ -313,9 +313,10 @@
                             <div class="tf-cart-totals-discounts">
                                 <h3>Shipping</h3>
                                 <span class="total-value" id="cart-shipping">
-                                    {{ $total < 5000 ? 'PKR ' . $config['SHIPPINGPRICE'] : 'Free Delivery' }}
+                                    {{ ($total ?? 0) < 5000 ? 'PKR ' . $config['SHIPPINGPRICE'] : 'Free Delivery' }}
                                 </span>
                             </div>
+
                             <div class="tf-cart-totals-discounts">
                                 <h3>Total</h3>
                                 <span class="total-value" id="cart-grand-total">
@@ -474,7 +475,7 @@
                 var token = $('meta[name="csrf-token"]').attr("content");
                 var url =
                     '{{ url('
-                                                                                                    remove - cart ') }}';
+                                                                                                                        remove - cart ') }}';
                 $.ajax({
                     url: url,
                     type: 'post',

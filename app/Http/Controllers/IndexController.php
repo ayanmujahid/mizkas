@@ -360,13 +360,20 @@ class IndexController extends Controller
             ]);
         }
     }
+public function cart()
+{
+    $sliders = Imagetable::where('table_name', 'cart')
+        ->where('type', 2)
+        ->where('is_active_img', 1)
+        ->get();
 
-    public function cart()
-    {
-        $sliders = Imagetable::where('table_name', 'cart')->where('type', 2)->where('is_active_img', 1)->get();
-        $data = compact('sliders');
-        return view('cart')->with('title', 'Cart')->with($data);
-    }
+    // Get cart total from session
+    $total = session('cart_total', 0); // default to 0 if not set
+
+    $data = compact('sliders', 'total');
+
+    return view('cart')->with('title', 'Cart')->with($data);
+}
 
     public function faq()
     {
