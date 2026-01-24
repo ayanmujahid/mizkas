@@ -227,7 +227,7 @@ class ShopController extends Controller
             'category_id' => 'required',
             // 'sub_category_id' => 'required',
             // 'short_desc' => 'required',
-            'long_desc' =>  'string',
+            // 'long_desc' =>  'string',
         ]);
         $slug = $this->slug_maker($request->input('title'), Products::class);
 
