@@ -12,7 +12,7 @@
                                     <div class="box-content">
                                         <h1 class="heading fade-item fade-item-1">Crafted in the<br> Spirit of Tradition</h1>
                                         <p class="desc fade-item fade-item-2">Every fabric tells a story.</p>
-                                        <a href="https://nohfil.com/products/customized-products" class="fade-item fade-item-3 tf-btn btn-light-icon animate-hover-btn btn-xl radius-3"><span>Customize</span><i class="icon icon-arrow-right"></i></a>
+                                        <a href="https://nohfil.com/products/customized-products" class="fade-item fade-item-3 tf-btn btn-light-icon animate-hover-btn btn-xl radius-3"><span>Shop Now</span><i class="icon icon-arrow-right"></i></a>
                                     </div>
                                 </div>  
                             </div>
@@ -79,7 +79,7 @@
     <div class="container">
         <div class="flat-title flex-row justify-content-between align-items-center px-0 wow fadeInUp" data-wow-delay="0s">
             <h3 class="title">Collections</h3>
-            <a href="{{ route('products') }}" class="tf-btn btn-line">View all categories<i class="icon icon-arrow1-top-left"></i></a>
+            <a href="{{ route('products') }}" class="tf-btn btn-line">View all Products<i class="icon icon-arrow1-top-left"></i></a>
         </div>
         <div class="hover-sw-nav hover-sw-2">
             
