@@ -67,12 +67,14 @@
                         <div class="col-lg-6 col-md-12 col-12">
                             <div class="form-group">
                                 <label>Sub Category:</label>
-                        
-                                <select name="sub_category_id" id="subCategory" >
-                                    
+
+                                <select name="sub_category_id" id="subCategory">
+
                                     <option value="" disabled selected>Select Sub Category</option>
-                                    @foreach($product->get_categories->sub_categories as $sub_category)
-                                        <option value="{{$sub_category->id}}" {{($sub_category->id == $product->sub_category_id)}}>{{$sub_category->title}}</option>
+                                    @foreach ($product->get_categories->sub_categories as $sub_category)
+                                        <option value="{{ $sub_category->id }}"
+                                            {{ $sub_category->id == $product->sub_category_id }}>
+                                            {{ $sub_category->title }}</option>
                                     @endforeach
                                 </select>
                                 @error('sub_category_id')
@@ -90,21 +92,22 @@
                                 @endif
                             </div>
                         </div> --}}
-                           <div class="col-lg-12 col-md-12 col-12">
-                        <div class="form-group">
-                            <label>Description*:</label>
-                            <textarea rows="5" class="form-control ckeditor" id="long_desc_editor"  placeholder="Long Description">{!! $product->long_desc !!}</textarea>
-                            <input type="hidden" id="long_desc"  name="long_desc">
-                            @if ($errors->has('long_desc'))
-                                <span class="error">{{ $errors->first('long_desc') }}</span>
-                            @endif
-                      </div>
-                    </div>
+                        <div class="col-lg-12 col-md-12 col-12">
+                            <div class="form-group">
+                                <label>Description*:</label>
+                                <textarea rows="5" class="form-control ckeditor" id="long_desc_editor" placeholder="Long Description">{!! $product->long_desc !!}</textarea>
+                                <input type="hidden" id="long_desc" name="long_desc">
+                                @if ($errors->has('long_desc'))
+                                    <span class="error">{{ $errors->first('long_desc') }}</span>
+                                @endif
+                            </div>
+                        </div>
                         <div class="col-lg-4 col-md-12 col-12">
                             <div class="form-group">
                                 <label>Featured Product:</label>
                                 <div class="input-field--check">
-                                    <input type="checkbox" name="is_featured" id="is_featured"  {{ $product->is_featured == '1' ? 'checked' : '' }} >
+                                    <input type="checkbox" name="is_featured" id="is_featured"
+                                        {{ $product->is_featured == '1' ? 'checked' : '' }}>
                                     <label for="is_featured" class="toggle">Yes</label>
                                 </div>
                             </div>
@@ -123,51 +126,54 @@
                             </div>
 
                         </div>
-                                <div class="col-lg-12">
-    <div class="file-upload-contain my-3 form-group">
-        <label class="title mb-3">Other Images:</label>
-        <input id="multiplefileupload" type="file" name="product_images[]" accept="" multiple />
-    </div>
-    @if ($errors->has('product_images'))
-        <span class="text-danger">{{ $errors->first('product_images') }}</span>
-    @endif
-</div>
-@if (!$other_images->isEmpty())
-    <div class="col-lg-12 mt-3">
-        <div class="form-group">
-            <label class="course-detail__subHeading">Current Images:</label>
-            <div class="table-responsive">
-                <table class="table">
-                    <thead>
-                        <tr class="text-left">
-                            <th>S.No</th>
-                            <th>Image</th>
-                            <th>Delete Image</th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        @foreach ($other_images as $i => $image)
-                            @php
-                                $i++;
-                            @endphp
-                            <tr>
-                                <td>{{ $i }}</td>
-                                <td><img class="imgFluid list-img d-block mx-0" src="{{ asset($image->img_path) }}"></td>
-                                <td><a class="delete-btn"
-                                        href="{{ route('admin.delete_other_img', $image->id) }}"><i
-                                            class='bx bxs-trash-alt'></i></td>
-                            </tr>
-                        @endforeach
-                    </tbody>
-                </table>
-            </div>
-        </div>
-    </div>
-@endif
+                        <div class="col-lg-12">
+                            <div class="file-upload-contain my-3 form-group">
+                                <label class="title mb-3">Other Images:</label>
+                                <input id="multiplefileupload" type="file" name="product_images[]" accept=""
+                                    multiple />
+                            </div>
+                            @if ($errors->has('product_images'))
+                                <span class="text-danger">{{ $errors->first('product_images') }}</span>
+                            @endif
+                        </div>
+                        @if (!$other_images->isEmpty())
+                            <div class="col-lg-12 mt-3">
+                                <div class="form-group">
+                                    <label class="course-detail__subHeading">Current Images:</label>
+                                    <div class="table-responsive">
+                                        <table class="table">
+                                            <thead>
+                                                <tr class="text-left">
+                                                    <th>S.No</th>
+                                                    <th>Image</th>
+                                                    <th>Delete Image</th>
+                                                </tr>
+                                            </thead>
+                                            <tbody>
+                                                @foreach ($other_images as $i => $image)
+                                                    @php
+                                                        $i++;
+                                                    @endphp
+                                                    <tr>
+                                                        <td>{{ $i }}</td>
+                                                        <td><img class="imgFluid list-img d-block mx-0"
+                                                                src="{{ asset($image->img_path) }}"></td>
+                                                        <td><a class="delete-btn"
+                                                                href="{{ route('admin.delete_other_img', $image->id) }}"><i
+                                                                    class='bx bxs-trash-alt'></i></td>
+                                                    </tr>
+                                                @endforeach
+                                            </tbody>
+                                        </table>
+                                    </div>
+                                </div>
+                            </div>
+                        @endif
 
                         <div class="col-lg-12 col-md-12 col-12">
                             <div class="text-center">
-                                <button type="button" class="primary-btn primary-bg" id="form-submit-btn">Save Changes</button>
+                                <button type="button" class="primary-btn primary-bg" id="form-submit-btn">Save
+                                    Changes</button>
                             </div>
                         </div>
                 </form>
@@ -199,74 +205,48 @@
     </style>
 @endsection
 @section('js')
-<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-fileinput/5.2.3/js/plugins/sortable.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-fileinput/5.2.3/themes/fas/theme.min.js"></script>
     <script src="{{ asset('admin/js/file-upload.js') }}"></script>
-<script src="//cdn.ckeditor.com/4.14.1/standard/ckeditor.js"></script>
+    <script src="//cdn.ckeditor.com/4.14.1/standard/ckeditor.js"></script>
 
     <script type="text/javascript">
-      function validateAndSubmit() {
-  var fieldsToValidate = [{ id: "long_desc", editorId: "long_desc_editor" }];
-
-  var allFieldsValid = true;
-
-  for (var i = 0; i < fieldsToValidate.length; i++) {
-    var field = fieldsToValidate[i];
-    if (!validateField(field.id, field.editorId)) {
-      allFieldsValid = false;
-    }
-  }
-  if (allFieldsValid) {
-    $("#add-record-form").submit();
-  }
-}
-
-function validateField(fieldId, editorId) {
-  var fieldValue = CKEDITOR.instances[editorId].getData().trim();
-  var fieldName = $("#" + editorId).attr("placeholder");
-  if (fieldValue === "") {
-    $.toast({
-      heading: "Error!",
-      position: "bottom-right",
-      text: fieldName + " is Required!",
-      loaderBg: "#ff6849",
-      icon: "error",
-      hideAfter: 2000,
-      stack: 6,
+        $(document).ready(function() {
+    $("#form-submit-btn").click(function(e) {
+        e.preventDefault();
+        // Copy CKEditor data to the hidden textarea before submitting
+        for (var instanceName in CKEDITOR.instances) {
+            CKEDITOR.instances[instanceName].updateElement();
+        }
+        $("#add-record-form").submit();
     });
-    return false;
-  }
-    
-  $("#" + fieldId).val(fieldValue);
-  return true;
-}
-
-$(document).ready(function () {
-  $("#form-submit-btn").click(function (e) {
-    e.preventDefault();
-    validateAndSubmit();
-  });
 });
 
-      $(document).ready(function () {
-            $('#category_id').on('change', function () {
+
+        $(document).ready(function() {
+            $('#category_id').on('change', function() {
                 var categoryId = $(this).val();
                 var subCategoryDropdown = $('#subCategory');
-    
+
                 subCategoryDropdown.prop('disabled', true);
                 subCategoryDropdown.empty();
-    
+
                 if (categoryId !== "") {
                     $.ajax({
-                        url: '{{ route("getSubcategories") }}',
+                        url: '{{ route('getSubcategories') }}',
                         type: 'GET',
-                        data: { category_id: categoryId },
-                        success: function (data) {
-                            subCategoryDropdown.append('<option value="" disabled selected>Select Sub Category</option>');
-                            $.each(data, function (key, value) {
-                                subCategoryDropdown.append('<option value="' + value.id + '">' + value.title + '</option>');
+                        data: {
+                            category_id: categoryId
+                        },
+                        success: function(data) {
+                            subCategoryDropdown.append(
+                                '<option value="" disabled selected>Select Sub Category</option>'
+                                );
+                            $.each(data, function(key, value) {
+                                subCategoryDropdown.append('<option value="' + value
+                                    .id + '">' + value.title + '</option>');
                             });
                             subCategoryDropdown.prop('disabled', false);
                         }
@@ -274,7 +254,5 @@ $(document).ready(function () {
                 }
             });
         });
-
     </script>
 @endsection
-
