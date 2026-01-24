@@ -557,6 +557,8 @@ public function cart()
 
     public function products($slug = null, $subSlug = null)
     {
+
+     
         $subcats = Sub_category::get();
         $search_query = isset($_GET['search']) ? $_GET['search'] : null;
         $sort_option = isset($_GET['sort']) ? $_GET['sort'] : 'is_featured'; // Default to 'featured'
@@ -565,6 +567,16 @@ public function cart()
         $productsQuery = Products::where('is_active', 1)->whereIn('category_id', $activeCategories);
         $categories = Product_categories::withCount('products')->get();
         $totalProducts = Products::count();
+
+
+        $categoryName = 'New Arrival'; // default heading
+
+if ($slug) {
+    $category = Product_categories::where('slug', $slug)->first();
+    if ($category) {
+        $categoryName = $category->title;
+    }
+}
 
         // Filtering by category and subcategory
         if ($slug) {
@@ -623,7 +635,7 @@ public function cart()
 
         $products = $productsQuery->get();
         $sliders = Imagetable::where('table_name', 'products')->where('type', 2)->where('is_active_img', 1)->get();
-        $data = compact('sliders', 'products', 'activeCategories', 'subcats', 'categories', 'totalProducts', 'slug');
+        $data = compact('sliders', 'products', 'activeCategories', 'categoryName', 'subcats', 'categories', 'totalProducts', 'slug');
 
         return view('products')->with('title', 'Products')->with($data);
     }
