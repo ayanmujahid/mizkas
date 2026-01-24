@@ -19,7 +19,7 @@
                         </div>
                     </div>
                     <div class="img-slider">
-                        <img class="lazyload" data-src="{{asset('assets/images/banners/mizkas-01.png')}}" alt="fashion-slideshow" src="{{asset('assets/images/banners/mizkas-01.png')}}" alt="fashion-slideshow">
+                        <img loading="lazy" class="lazyload" data-src="{{asset('assets/images/banners/mizkas-01.png')}}" alt="fashion-slideshow" src="{{asset('assets/images/banners/mizkas-01.png')}}" alt="fashion-slideshow">
                     </div>
                 </div>
             </div>
@@ -39,7 +39,7 @@
                         </div>
                     </div>
                     <div class="img-slider">
-                        <img class="lazyload" data-src="{{asset('assets/images/banners/mizkas-03.png')}}" src="{{asset('assets/images/banners/mizkas-03.png')}}" alt="fashion-slideshow">
+                        <img loading="lazy" class="lazyload" data-src="{{asset('assets/images/banners/mizkas-03.png')}}" src="{{asset('assets/images/banners/mizkas-03.png')}}" alt="fashion-slideshow">
                     </div>
                 </div>
             </div>
@@ -59,7 +59,7 @@
                         </div>
                     </div>
                     <div class="img-slider">
-                        <img class="lazyload" data-src="{{asset('assets/images/banners/mizkas-02.png')}}" src="{{asset('assets/images/banners/mizkas-02.png')}}" alt="fashion-slideshow">
+                        <img loading="lazy" class="lazyload" data-src="{{asset('assets/images/banners/mizkas-02.png')}}" src="{{asset('assets/images/banners/mizkas-02.png')}}" alt="fashion-slideshow">
                     </div>
                 </div>
             </div>
@@ -89,7 +89,7 @@
                     <div class="swiper-slide" lazy="true">
                         <div class="collection-item-circle hover-img">
                             <a href="{{ route('products', $category->slug) }}" class="collection-image img-style">
-                                <img class="lazyload" data-src="{{asset($category->img_path)}}" src="{{asset($category->img_path)}}" alt="collection-img">
+                                <img loading="lazy" class="lazyload" data-src="{{asset($category->img_path)}}" src="{{asset($category->img_path)}}" alt="collection-img">
                             </a>
                             <div class="collection-content text-center">
                                 <a href="{{ route('products', $category->slug) }}" class="link title fw-5">{{ $category->title }}</a>
@@ -101,7 +101,7 @@
                     {{-- <div class="swiper-slide" lazy="true">
                         <div class="collection-item-circle hover-img">
                             <a href="shop-collection-sub.html" class="collection-image img-style">
-                                <img class="lazyload" data-src="{{asset('assets/images/collections/collection-circle-2.jpg')}}" src="{{asset('assets/images/collections/collection-circle-2.jpg')}}" alt="collection-img">  
+                                <img loading="lazy" class="lazyload" data-src="{{asset('assets/images/collections/collection-circle-2.jpg')}}" src="{{asset('assets/images/collections/collection-circle-2.jpg')}}" alt="collection-img">  
                             </a>
                             <div class="collection-content text-center">
                                 <a href="shop-collection-sub.html" class="link title fw-5">Men’s</a>
@@ -112,7 +112,7 @@
                     <div class="swiper-slide" lazy="true">
                         <div class="collection-item-circle hover-img">
                             <a href="shop-collection-sub.html" class="collection-image img-style">
-                                <img class="lazyload" data-src="{{asset('assets/images/collections/collection-circle-3.jpg')}}" src="{{asset('assets/images/collections/collection-circle-3.jpg')}}" alt="collection-img">   
+                                <img loading="lazy" class="lazyload" data-src="{{asset('assets/images/collections/collection-circle-3.jpg')}}" src="{{asset('assets/images/collections/collection-circle-3.jpg')}}" alt="collection-img">   
                             </a>
                             <div class="collection-content text-center">
                                 <a href="shop-collection-sub.html" class="link title fw-5">Jewelry</a>
@@ -123,7 +123,7 @@
                     <div class="swiper-slide" lazy="true">
                         <div class="collection-item-circle hover-img">
                             <a href="shop-collection-sub.html" class="collection-image img-style">
-                                <img class="lazyload" data-src="{{asset('assets/images/collections/collection-circle-4.jpg')}}" src="{{asset('assets/images/collections/collection-circle-4.jpg')}}" alt="collection-img">    
+                                <img loading="lazy" class="lazyload" data-src="{{asset('assets/images/collections/collection-circle-4.jpg')}}" src="{{asset('assets/images/collections/collection-circle-4.jpg')}}" alt="collection-img">    
                             </a>
                             <div class="collection-content text-center">
                                 <a href="shop-collection-sub.html" class="link title fw-5">Sneakers</a>
@@ -134,7 +134,7 @@
                     <div class="swiper-slide" lazy="true">
                         <div class="collection-item-circle hover-img">
                             <a href="shop-collection-sub.html" class="collection-image img-style">
-                                <img class="lazyload" data-src="{{asset('assets/images/collections/collection-circle-5.jpg')}}" src="{{asset('assets/images/collections/collection-circle-5.jpg')}}" alt="collection-img">      
+                                <img loading="lazy" class="lazyload" data-src="{{asset('assets/images/collections/collection-circle-5.jpg')}}" src="{{asset('assets/images/collections/collection-circle-5.jpg')}}" alt="collection-img">      
                             </a>
                             <div class="collection-content text-center">
                                 <a href="shop-collection-sub.html" class="link title fw-5">Bags</a>
@@ -145,7 +145,7 @@
                     <div class="swiper-slide" lazy="true">
                         <div class="collection-item-circle hover-img">
                             <a href="shop-collection-sub.html" class="collection-image img-style">
-                                <img class="lazyload" data-src="{{asset('assets/images/collections/collection-circle-6.jpg')}}" src="{{asset('assets/images/collections/collection-circle-6.jpg')}}" alt="collection-img">   
+                                <img loading="lazy" class="lazyload" data-src="{{asset('assets/images/collections/collection-circle-6.jpg')}}" src="{{asset('assets/images/collections/collection-circle-6.jpg')}}" alt="collection-img">   
                             </a>
                             <div class="collection-content text-center">
                                 <a href="shop-collection-sub.html" class="link title fw-5">Glasses</a>
@@ -156,7 +156,7 @@
                     <div class="swiper-slide" lazy="true">
                         <div class="collection-item-circle hover-img">
                             <a href="shop-collection-sub.html" class="collection-image img-style">
-                                <img class="lazyload" data-src="{{asset('assets/images/collections/collection-circle-7.jpg')}}" src="{{asset('assets/images/collections/collection-circle-7.jpg')}}" alt="collection-img">    
+                                <img loading="lazy" class="lazyload" data-src="{{asset('assets/images/collections/collection-circle-7.jpg')}}" src="{{asset('assets/images/collections/collection-circle-7.jpg')}}" alt="collection-img">    
                             </a>
                             <div class="collection-content text-center">
                                 <a href="shop-collection-sub.html" class="link title fw-5">New arrivals</a>
@@ -199,8 +199,8 @@
                         <div class="card-product fl-item">
                             <div class="card-product-wrapper">
                                 <a href="{{ route('product-detail', $product->slug) }}" class="product-img">
-                                    <img class="lazyload img-product" data-src="{{asset($product->img_path)}}" src="{{asset($product->img_path)}}" alt="image-product">
-                                    <img class="lazyload img-hover" data-src="{{asset($product->img_path)}}" src="{{asset($product->img_path)}}" alt="image-product">
+                                    <img loading="lazy" class="lazyload img-product" data-src="{{asset($product->img_path)}}" src="{{asset($product->img_path)}}" alt="image-product">
+                                    <img loading="lazy" class="lazyload img-hover" data-src="{{asset($product->img_path)}}" src="{{asset($product->img_path)}}" alt="image-product">
                                 </a>
                                 <div class="list-product-btn">
                                     {{-- <a href="#quick_add" data-bs-toggle="modal" class="box-icon bg_white quick-add tf-btn-loading">
@@ -237,17 +237,17 @@
                                     <li class="list-color-item color-swatch active">
                                         <span class="tooltip">Orange</span>
                                         <span class="swatch-value bg_orange-3"></span>
-                                        <img class="lazyload" data-src="{{asset('assets/images/products/orange-1.jpg')}}" src="{{asset('assets/images/products/orange-1.jpg')}}" alt="image-product">
+                                        <img loading="lazy" class="lazyload" data-src="{{asset('assets/images/products/orange-1.jpg')}}" src="{{asset('assets/images/products/orange-1.jpg')}}" alt="image-product">
                                     </li>
                                     <li class="list-color-item color-swatch">
                                         <span class="tooltip">Black</span>
                                         <span class="swatch-value bg_dark"></span>
-                                        <img class="lazyload" data-src="{{asset('assets/images/products/black-1.jpg')}}" src="{{asset('assets/images/products/black-1.jpg')}}" alt="image-product">
+                                        <img loading="lazy" class="lazyload" data-src="{{asset('assets/images/products/black-1.jpg')}}" src="{{asset('assets/images/products/black-1.jpg')}}" alt="image-product">
                                     </li>
                                     <li class="list-color-item color-swatch">
                                         <span class="tooltip">White</span>
                                         <span class="swatch-value bg_white"></span>
-                                        <img class="lazyload" data-src="{{asset('assets/images/products/white-1.jpg')}}" src="{{asset('assets/images/products/white-1.jpg')}}" alt="image-product">
+                                        <img loading="lazy" class="lazyload" data-src="{{asset('assets/images/products/white-1.jpg')}}" src="{{asset('assets/images/products/white-1.jpg')}}" alt="image-product">
                                     </li>
                                 </ul> --}}
                             </div>
@@ -275,7 +275,7 @@
                     <div class="collection-item-v4 hover-img">
                         <div class="collection-inner">
                             <a href="https://mizkasapparel.store/products/new-collection" class="collection-image img-style">
-                                <img class="lazyload" data-src="{{asset('assets/images/banners/banner1.png')}}" src="{{asset('assets/images/banners/sales-banner-01.png')}}" alt="collection-img">
+                                <img loading="lazy"  class="lazyload" data-src="{{asset('assets/images/banners/banner1.png')}}" src="{{asset('assets/images/banners/sales-banner-01.png')}}" alt="collection-img">
                             </a>
                         </div>
                     </div>
@@ -284,7 +284,7 @@
                     <div class="collection-item-v4 hover-img">
                         <div class="collection-inner">
                             <a href="https://mizkasapparel.store/products/new-collection" class="collection-image img-style">
-                                <img class="lazyload" data-src="{{asset('assets/images/banners/sales-banner-01.png')}}" src="{{asset('assets/images/banners/banner-winter.png')}}" alt="collection-img">
+                                <img loading="lazy" class="lazyload" data-src="{{asset('assets/images/banners/sales-banner-01.png')}}" src="{{asset('assets/images/banners/banner-winter.png')}}" alt="collection-img">
                             </a>
                         </div>
                     </div>
@@ -293,7 +293,7 @@
                     <div class="collection-item-v4 hover-img">
                         <div class="collection-inner">
                             <a href="https://mizkasapparel.store/products/new-collection" class="collection-image img-style">
-                                <img class="lazyload" data-src="{{asset('assets/images/banners/banner3.png')}}" src="{{asset('assets/images/banners/banner-new.png')}}" alt="collection-img">
+                                <img loading="lazy" class="lazyload" data-src="{{asset('assets/images/banners/banner3.png')}}" src="{{asset('assets/images/banners/banner-new.png')}}" alt="collection-img">
                             </a>
                         </div>
                     </div>
@@ -431,7 +431,7 @@
     <div class="container">
         <div class="flat-location">
             <div class="banner-map">
-                <img class="lazyload" data-src="{{asset('assets/images/country/map-1.jpg')}}" src="{{asset('assets/images/country/map-1.jpg')}}" alt="map">
+                <img loading="lazy" class="lazyload" data-src="{{asset('assets/images/country/map-1.jpg')}}" src="{{asset('assets/images/country/map-1.jpg')}}" alt="map">
             </div>
             <div class="content">
                 <h3 class="heading wow fadeInUp" data-wow-delay="0s">Toronto Store</h3>
