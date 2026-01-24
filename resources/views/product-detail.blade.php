@@ -604,7 +604,7 @@ button.add.to.cart.btn.w-100:hover {
             success: function(response) {
                 if (response.status == 1) {
                     if (response.price !== undefined && response.variation_id !== undefined) {
-                        $('#product-price-holder').text('Price: USD ' + response.price);
+                        $('#product-price-holder').text('Price: PKR ' + response.price);
                         $('input[name="variation_id"]').val(response.variation_id);
                         $('#cart-price').val(response.price);
                         $('#customizer-price').val(response.price);
